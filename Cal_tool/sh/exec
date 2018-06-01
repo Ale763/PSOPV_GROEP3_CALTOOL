@@ -1,0 +1,12 @@
+#!/bin/bash
+
+script_name=$0
+script_directory=$(dirname "$0")
+user_directory=$(pwd)
+cd $script_directory
+
+docker-compose exec $1 $2
+
+cd $user_directory
+
+

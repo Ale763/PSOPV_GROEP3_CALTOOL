@@ -1,0 +1,23 @@
+.buttonContainer
+{
+  display: block;
+  overflow: hidden;
+}
+
+.button
+{
+  @extend .btn;
+  background-color: teal !important;
+  color: white !important;
+  line-height: normal;
+}
+
+.iconButton
+{
+  display: inline-block;
+  cursor: pointer;
+  color: teal;
+  margin: 0 !important;
+  padding: 0 !important;
+
+}

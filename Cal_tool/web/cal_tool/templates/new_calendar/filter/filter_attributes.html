@@ -1,0 +1,52 @@
+<div class="row">
+    <form>
+        <div class="input-field col s4">
+            <select id="AttributeSelect" class="AttributeFilter" required name="AttributeSelect" onchange="changeDatePicker()">
+                {% for filter_key, filter_value in filter_attributes.items %}
+                    {% if forloop.counter0 == 0 %}
+                        <option selected value="{{ filter_key }}">{{ filter_value }}</option>
+                    {% else %}
+                        <option value="{{ filter_key }}">{{ filter_value }}</option>
+                    {% endif %}
+                {% endfor %}
+            </select>
+            <label>Selecteer attribuut</label>
+        </div>
+        <div class="col s4">
+            <div class="input-field col s12 m12 l12">
+                <select id="ModeSelect" class="AttributeMode" required name="ModeSelect" onchange="">
+                        <option selected value="EQUAL">Is gelijk aan</option>
+                        <option value="CONTAINS">Bevat</option>
+                </select>
+                <label>Selecteer mode</label>
+            </div>
+                <p class="col s10">
+                  <input type="checkbox" id="AttributeNegation" name="AttributeNegation" value="NOT" />
+                  <label for="AttributeNegation">Niet</label>
+                </p>
+                <label class="floating_info col s2" style="color: teal">
+                        <i class="material-icons">info_outline</i>
+                        <span class="floating_info_text">Als deze optie wordt gekozen, zal het tegengestelde van de filter worden toegepast.</span>
+                </label>
+        </div>
+
+        <div class="input-field col s4" id="valuePicker">
+          <input id="AttributeValue" name="AttributeValue" type="text" class="validate">
+          <label for="AttributeValue">Waarde</label>
+        </div>
+
+        <div class="input-field col s4" id="calendarDate" style="display: none">
+            <input type="text" class="datepicker" id="datePicker">
+            <label for="datePicker">Datum</label>
+        </div>
+    </form>
+</div>
+{#<div class="row">#}
+{#    <div class="input-field col s6">#}
+{#        <select id="ModeSelect" required name="ModeSelect" onchange="">#}
+{#                <option selected value="EQUALS">Is gelijk aan</option>#}
+{#                <option value="CONTAINS">Bevat</option>#}
+{#        </select>#}
+{#        <label>Selecteer mode</label>#}
+{#    </div>#}
+{#</div>#}

@@ -1,0 +1,42 @@
+.floating_info
+{
+    position: relative;
+    display: inline-block;
+  //overflow: auto;
+}
+
+.floating_info_text
+{
+  visibility: hidden;
+  background-color: white;
+  //color: #fff;
+  border-radius: 1px;
+  padding: 7px;
+  width: 10rem;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.floating_info:hover .floating_info_text
+{
+  visibility: visible;
+}
+
+.error
+{
+  @extend .white-text;
+  @extend .red;
+  //border: solid 1px;
+  border-radius: 2px;
+
+}
+
+.success
+{
+  @extend .white-text;
+  @extend .green;
+  //border: solid 1px;
+  border-radius: 2px;
+}

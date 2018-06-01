@@ -1,0 +1,43 @@
+{% extends "my_calendars/mycalendars.html" %}
+
+{% load static %}
+
+
+{% block plugin_functionality %}
+
+    <div class="section"><h5>Cegeka functionaliteit</h5>
+        <div class="divider"></div>
+</div>
+
+    {% if  context.mycalendars.count != 0 %}
+        <ul class="collapsible" data-collapsible="expandable">
+         {% for calendar in context.mycalendars %}
+              <li id="calendar{{ calendar.get_id }}">
+                  <div class="collapsible-header">
+                      <i class="material-icons header-start-icon" style="color: teal">expand_more</i><a/> {{ calendar.get_calendar_name }} </a>
+                  </div>
+                  <div class="collapsible-body">
+
+                      <div class="buttonContainer">
+                          <form method="post" enctype="multipart/form-data" action="{% url 'check_houres_filter'%}" style="display: inline-block">
+                              {% csrf_token %}
+                              <div class="input-field col s6" style="margin-top: 20px;">
+                                  <input type="hidden" name="cal_id" value="{{ calendar.get_id }}">
+                                  <input required name="filter_value" id="filter_value" type="text" class="validate" style="width: initial">
+                                  <label style="left: 0" for="filter_value">Filter waarde</label>
+                                  <input style="width: initial; left: 1rem; height: 36px" class="button" name="check_houres" id="check_houres" value="Check uren" onclick="check_houres_filter({{ calendar.get_id }})">
+                              </div>
+                          </form>
+                      </div>
+                  </div>
+                </li>
+
+
+        {% endfor %}
+        </ul>
+
+    {% endif %}
+
+{% endblock plugin_functionality %}
+
+

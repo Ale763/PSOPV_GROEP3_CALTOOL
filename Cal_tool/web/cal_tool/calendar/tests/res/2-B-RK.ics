@@ -1,0 +1,5544 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uhasselt/lesroosters//NONSGML v1.0//EN
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UHasselt Uurroosters
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+DTSTART:20170918T070000Z
+DTEND:20170918T083000Z
+SEQUENCE:633581
+SUMMARY:SB2.1\; OG-Aud2\; HC 1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; dr. VAN ERUM Monique\
+ ; OG-Aud2\; HC 1\; (Hoorcollege)\; Voor: Alle groepen
+UID:1781189_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170918T090000Z
+DTEND:20170918T130000Z
+SEQUENCE:633584
+SUMMARY:SB2.1\; FR-2.03\; PR 1\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; FR-2.03\; PR 1\; (Pra
+ cticum)\; Voor groepen: E\, F
+UID:1781198_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170918T090000Z
+DTEND:20170918T130000Z
+SEQUENCE:633583
+SUMMARY:SB2.1\; FR-1.02\; PR 1\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; FR-1.02\; PR 1\; (Pra
+ cticum)\; Voor groepen: C\, D
+UID:1815878_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170918T090000Z
+DTEND:20170918T130000Z
+SEQUENCE:633582
+SUMMARY:SB2.1\; FR-1.05\; PR 1\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; FR-1.05\; PR 1\; (Pra
+ cticum)\; Voor groepen: A\, B
+UID:1815881_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170918T130000Z
+DTEND:20170918T150000Z
+SEQUENCE:633261
+SUMMARY:SB2.1\; OG-Aud2\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; dr. VAN ERUM Monique\
+ ; OG-Aud2\; (Responsiecollege)\; Voor: Alle groepen
+UID:1781204_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170919T063000Z
+DTEND:20170919T073000Z
+SEQUENCE:634821
+SUMMARY:KE\; H6\; Inleidend HC\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Klinische exploratie (3074)\; dr. SPILDOOREN Joke\; H6\; Inleiden
+ d HC\; (Hoorcollege)\; Voor: Alle groepen
+UID:1815347_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170919T083000Z
+DTEND:20170919T090000Z
+SEQUENCE:623305
+SUMMARY:2.1\; H6\; HC 2.1.01\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; H6\; HC 2.1.01\; (Hoorcollege)\; Voor: Al
+ le groepen
+UID:1781207_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170919T090000Z
+DTEND:20170919T103000Z
+SEQUENCE:0
+SUMMARY:2.1\; H6\; HC 2.1.02\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; H6\; HC 2.1.02\; (Hoorcollege)\; Voor: Al
+ le groepen
+UID:1798940_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170919T110000Z
+DTEND:20170919T123000Z
+SEQUENCE:633694
+SUMMARY:2.1\; H2\; HC 2.1.03\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Prof
+ . dr. FEYS Peter\; H2\; HC 2.1.03\; (Hoorcollege)\; Voor: Alle gr
+ oepen
+UID:1781210_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170919T130000Z
+DTEND:20170919T140000Z
+SEQUENCE:623630
+SUMMARY:2.1\; B106b\; PR 2.1.01\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; B106b\; PR 2.1.01\; (Practicum)\; Voor gr
+ oepen: A\, B
+UID:1781216_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170919T130000Z
+DTEND:20170919T140000Z
+SEQUENCE:623686
+SUMMARY:2.1\; B106a\; PR 2.1.01\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw OPSTEYN Lieve\; B106a\; PR 2.1.01\; (Practicum)\; Voor groepe
+ n: E\, F
+UID:1781219_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170919T140000Z
+DTEND:20170919T150000Z
+SEQUENCE:623631
+SUMMARY:2.1\; B106b\; PR 2.1.01\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; B106b\; PR 2.1.01\; (Practicum)\; Voor gr
+ oepen: C\, D
+UID:1781228_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170920T063000Z
+DTEND:20170920T080000Z
+SEQUENCE:625548
+SUMMARY:2.1\; H2\; HC 2.1.06\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; H2\; HC 2.1.06\; (Hoorcollege)\; Voor: Al
+ le groepen
+UID:1781249_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170920T083000Z
+DTEND:20170920T100000Z
+SEQUENCE:637317
+SUMMARY:2.1\; H5\; HC 2.1.04\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Prof
+ . dr. FEYS Peter\; H5\; HC 2.1.04\; (Hoorcollege)\; Voor: Alle gr
+ oepen
+UID:1781252_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170921T063000Z
+DTEND:20170921T073000Z
+SEQUENCE:623283
+SUMMARY:2.1\; B106a\; PR 2.1.02\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; B106a\; PR 2.1.02\; (Practicum)\; Voor gr
+ oepen: A\, B
+UID:1798946_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170921T073000Z
+DTEND:20170921T083000Z
+SEQUENCE:0
+SUMMARY:2.1\; B106a\; PR 2.1.02\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; B106a\; PR 2.1.02\; (Practicum)\; Voor gr
+ oepen: C\, D
+UID:1798949_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170921T091500Z
+DTEND:20170921T113000Z
+SEQUENCE:638212
+SUMMARY:2.1\; H6\; HC 2.1.05\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Prof
+ . dr. FEYS Peter\; H6\; HC 2.1.05\; (Hoorcollege)\; Voor: Alle gr
+ oepen
+UID:1798943_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170921T120000Z
+DTEND:20170921T133000Z
+SEQUENCE:629013
+SUMMARY:2.1\; H6\; HC 2.1.07\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; H6\; HC 2.1.07\; (Hoorcollege)\; Voor: Al
+ le groepen
+UID:1781258_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170922T063000Z
+DTEND:20170922T071500Z
+SEQUENCE:623291
+SUMMARY:2.1\; A105\; OG 2.1.01\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw MINGELS Sarah\; A105\; OG 2.1.01\; (Onderwijsgroep)\; Voor gr
+ oep: A
+UID:1781267_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170922T063000Z
+DTEND:20170922T071500Z
+SEQUENCE:623292
+SUMMARY:2.1\; A106\; OG 2.1.01\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; A106\; OG 2.1.01\; (Onderwijsgroep)\; Voo
+ r groep: B
+UID:1781270_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170922T063000Z
+DTEND:20170922T071500Z
+SEQUENCE:634739
+SUMMARY:2.1\; B103\; OG 2.1.01\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw SEVERI Katrijne\; B103\; OG 2.1.01\; (Onderwijsgroep)\; Voor 
+ groep: E
+UID:1781288_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170922T063000Z
+DTEND:20170922T071500Z
+SEQUENCE:623640
+SUMMARY:2.1\; A104\; OG 2.1.01\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw VAN GEEL Fanny\; A104\; OG 2.1.01\; (Onderwijsgroep)\; Voor g
+ roep: F
+UID:1781291_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170922T071500Z
+DTEND:20170922T080000Z
+SEQUENCE:623293
+SUMMARY:2.1\; A105\; OG 2.1.01\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw MINGELS Sarah\; A105\; OG 2.1.01\; (Onderwijsgroep)\; Voor gr
+ oep: C
+UID:1781282_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170922T071500Z
+DTEND:20170922T080000Z
+SEQUENCE:623294
+SUMMARY:2.1\; A106\; OG 2.1.01\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; A106\; OG 2.1.01\; (Onderwijsgroep)\; Voo
+ r groep: D
+UID:1781285_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170922T080000Z
+DTEND:20170922T090000Z
+SEQUENCE:623660
+SUMMARY:2.1\; B106a\; PR 2.1.02\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw OPSTEYN Lieve\; B106a\; PR 2.1.02\; (Practicum)\; Voor groepe
+ n: E\, F
+UID:1781279_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170922T080000Z
+DTEND:20170922T093000Z
+SEQUENCE:623301
+SUMMARY:2.1\; B106b\; PR 2.1.03\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; B106b\; PR 2.1.03\; (Practicum)\; Voor gr
+ oepen: A\, B
+UID:1781297_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170922T100000Z
+DTEND:20170922T113000Z
+SEQUENCE:623304
+SUMMARY:2.1\; B106b\; PR 2.1.03\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; B106b\; PR 2.1.03\; (Practicum)\; Voor gr
+ oepen: C\, D
+UID:1781303_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170922T110000Z
+DTEND:20170922T123000Z
+SEQUENCE:623302
+SUMMARY:2.1\; B106a\; PR 2.1.03\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw OPSTEYN Lieve\; B106a\; PR 2.1.03\; (Practicum)\; Voor groepe
+ n: E\, F
+UID:1781300_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170925T070000Z
+DTEND:20170925T083000Z
+SEQUENCE:633585
+SUMMARY:SB2.1\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; dr. BRAEKEN Marijke\;
+  OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+UID:1790750_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170925T103000Z
+DTEND:20170925T120000Z
+SEQUENCE:637968
+SUMMARY:SB2.1\; FR-1.02\; PR 2\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; dr. BRAEKEN Marijke\;
+  FR-1.02\; PR 2\; (Practicum)\; Voor groepen: A\, B
+UID:1781732_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170925T103000Z
+DTEND:20170925T120000Z
+SEQUENCE:637969
+SUMMARY:SB2.1\; FR-1.05\; PR 2\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; dr. VAN ERUM Monique\
+ ; FR-1.05\; PR 2\; (Practicum)\; Voor groepen: C\, D
+UID:1781735_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170925T120000Z
+DTEND:20170925T133000Z
+SEQUENCE:633588
+SUMMARY:SB2.1\; FR-1.02\; PR 2\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; dr. BRAEKEN Marijke\;
+  FR-1.02\; PR 2\; (Practicum)\; Voor groepen: E\, F
+UID:1781738_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170926T063000Z
+DTEND:20170926T073000Z
+SEQUENCE:623332
+SUMMARY:2.1\; B106a\; PR 2.1.04b\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; B106a\; PR 2.1.04b\; (Practicum)\; Voor g
+ roepen: E\, F
+UID:1781786_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170926T073000Z
+DTEND:20170926T083000Z
+SEQUENCE:0
+SUMMARY:2.1\; B106a\; PR 2.1.04b\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; B106a\; PR 2.1.04b\; (Practicum)\; Voor g
+ roepen: C\, D
+UID:1799000_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170926T090000Z
+DTEND:20170926T103000Z
+SEQUENCE:623327
+SUMMARY:2.1\; H2\; HC 2.1.09\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; H2\; HC 2.1.09\; (Hoorcollege)\; Voor: Al
+ le groepen
+UID:1798997_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170926T110000Z
+DTEND:20170926T120000Z
+SEQUENCE:623334
+SUMMARY:2.1\; B106b\; PR 2.1.04a\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw OPSTEYN Lieve\; B106b\; PR 2.1.04a\; (Practicum)\; Voor groep
+ en: A\, B
+UID:1781774_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170926T120000Z
+DTEND:20170926T130000Z
+SEQUENCE:623336
+SUMMARY:2.1\; B106b\; PR 2.1.04a\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw OPSTEYN Lieve\; B106b\; PR 2.1.04a\; (Practicum)\; Voor groep
+ en: C\, D
+UID:1781777_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170926T123000Z
+DTEND:20170926T133000Z
+SEQUENCE:623338
+SUMMARY:2.1\; B106a\; PR 2.1.04b\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; B106a\; PR 2.1.04b\; (Practicum)\; Voor g
+ roepen: A\, B
+UID:1799003_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170926T130000Z
+DTEND:20170926T140000Z
+SEQUENCE:623337
+SUMMARY:2.1\; B106b\; PR 2.1.04a\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw OPSTEYN Lieve\; B106b\; PR 2.1.04a\; (Practicum)\; Voor groep
+ en: E\, F
+UID:1781780_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170927T063000Z
+DTEND:20170927T073000Z
+SEQUENCE:623343
+SUMMARY:2.1\; A102\; HC 2.1.11\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Prof
+ . dr. VAN WIJMEERSCH Bart\; A102\; HC 2.1.11\; (Hoorcollege)\; Vo
+ or: Alle groepen
+UID:1781792_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170927T074500Z
+DTEND:20170927T084500Z
+SEQUENCE:0
+SUMMARY:2.1\; A102\; HC 2.1.12\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Prof
+ . dr. VAN WIJMEERSCH Bart\; A102\; HC 2.1.12\; (Hoorcollege)\; Vo
+ or: Alle groepen
+UID:1799042_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T063000Z
+DTEND:20170928T080000Z
+SEQUENCE:623346
+SUMMARY:2.1\; B106a\; PR 2.1.05\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; B106a\; PR 2.1.05\; (Practicum)\; Voor gr
+ oepen: A\, B
+UID:1781807_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T080000Z
+DTEND:20170928T093000Z
+SEQUENCE:623347
+SUMMARY:2.1\; B106a\; PR 2.1.05\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; B106a\; PR 2.1.05\; (Practicum)\; Voor gr
+ oepen: C\, D
+UID:1781810_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T103000Z
+DTEND:20170928T113000Z
+SEQUENCE:623376
+SUMMARY:2.1\; H6\; HC 2.1.08\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Prof
+ . dr. KLINGELS Katrijn\; H6\; HC 2.1.08\; (Hoorcollege)\; Voor: A
+ lle groepen
+UID:1781795_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T114500Z
+DTEND:20170928T124500Z
+SEQUENCE:638285
+SUMMARY:2.1\; H6\; HC 2.1.10\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Prof
+ . dr. KLINGELS Katrijn\; H6\; HC 2.1.10\; (Hoorcollege)\; Voor: A
+ lle groepen
+UID:1781798_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T130000Z
+DTEND:20170928T143000Z
+SEQUENCE:0
+SUMMARY:2.1\; H2\; HC 2.1.10\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; H2\; HC 2.1.10\; (Hoorcollege)\; Voor: Al
+ le groepen
+UID:1835813_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T063000Z
+DTEND:20170929T083000Z
+SEQUENCE:633589
+SUMMARY:2.1\; C2\; OG 2.1.02\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw MINGELS Sarah\; C2\; OG 2.1.02\; (Onderwijsgroep)\; Voor groe
+ p: C
+UID:1781822_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T063000Z
+DTEND:20170929T083000Z
+SEQUENCE:633590
+SUMMARY:2.1\; C3\; OG 2.1.02\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; C3\; OG 2.1.02\; (Onderwijsgroep)\; Voor 
+ groep: D
+UID:1781825_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T070000Z
+DTEND:20170929T083000Z
+SEQUENCE:623351
+SUMMARY:2.1\; B106b\; PR 2.1.05\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw OPSTEYN Lieve\; B106b\; PR 2.1.05\; (Practicum)\; Voor groepe
+ n: E\, F
+UID:1781819_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T083000Z
+DTEND:20170929T103000Z
+SEQUENCE:634741
+SUMMARY:2.1\; B101\; OG 2.1.02\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw SEVERI Katrijne\; B101\; OG 2.1.02\; (Onderwijsgroep)\; Voor 
+ groep: E
+UID:1781828_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T083000Z
+DTEND:20170929T103000Z
+SEQUENCE:633592
+SUMMARY:2.1\; C21\; OG 2.1.02\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw VAN GEEL Fanny\; C21\; OG 2.1.02\; (Onderwijsgroep)\; Voor gr
+ oep: F
+UID:1781831_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T083000Z
+DTEND:20170929T103000Z
+SEQUENCE:633593
+SUMMARY:2.1\; C2\; OG 2.1.02\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw MINGELS Sarah\; C2\; OG 2.1.02\; (Onderwijsgroep)\; Voor groe
+ p: A
+UID:1781834_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T083000Z
+DTEND:20170929T103000Z
+SEQUENCE:633594
+SUMMARY:2.1\; C3\; OG 2.1.02\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; C3\; OG 2.1.02\; (Onderwijsgroep)\; Voor 
+ groep: B
+UID:1781837_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T120000Z
+DTEND:20170929T133000Z
+SEQUENCE:623363
+SUMMARY:2.1\; B105b\; PR 2.1.06\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw OPSTEYN Lieve\; B105b\; PR 2.1.06\; (Practicum)\; Voor groepe
+ n: E\, F
+UID:1781843_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T120000Z
+DTEND:20170929T133000Z
+SEQUENCE:639212
+SUMMARY:2.1\; B106b\; PR 2.1.06\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; B106b\; PR 2.1.06\; (Practicum)\; Voor gr
+ oepen: A\, B
+UID:1781846_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210514Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T133000Z
+DTEND:20170929T150000Z
+SEQUENCE:639218
+SUMMARY:2.1\; B106b\; PR 2.1.06\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; B106b\; PR 2.1.06\; (Practicum)\; Voor gr
+ oepen: C\, D
+UID:1781852_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T070000Z
+DTEND:20171002T083000Z
+SEQUENCE:633595
+SUMMARY:SB2.1\; OG-Aud2\; HC 3\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; De heer BURTIN Chris\
+ ; OG-Aud2\; HC 3\; (Hoorcollege)\; Voor: Alle groepen
+UID:1781855_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T090000Z
+DTEND:20171002T130000Z
+SEQUENCE:633596
+SUMMARY:SB2.1\; FR-1.02\; (Zelfstudieopdracht)\; Voor groepen: A\, B
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; FR-1.02\; (Zelfstudie
+ opdracht)\; Voor groepen: A\, B
+UID:1781858_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T090000Z
+DTEND:20171002T130000Z
+SEQUENCE:633597
+SUMMARY:SB2.1\; FR-1.05\; (Zelfstudieopdracht)\; Voor groepen: C\, D
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; FR-1.05\; (Zelfstudie
+ opdracht)\; Voor groepen: C\, D
+UID:1781861_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T090000Z
+DTEND:20171002T130000Z
+SEQUENCE:633598
+SUMMARY:SB2.1\; FR-2.03\; (Zelfstudieopdracht)\; Voor groepen: E\, F
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; FR-2.03\; (Zelfstudie
+ opdracht)\; Voor groepen: E\, F
+UID:1781864_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T130000Z
+DTEND:20171002T150000Z
+SEQUENCE:633638
+SUMMARY:SB2.1\; OG-Aud2\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; De heer BURTIN Chris\
+ ; OG-Aud2\; (Responsiecollege)\; Voor: Alle groepen
+UID:1790768_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171003T063000Z
+DTEND:20171003T083000Z
+SEQUENCE:630789
+SUMMARY:2.1\; FR-1.12\; OG 2.1.03\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw MINGELS Sarah\; FR-1.12\; OG 2.1.03\; (Onderwijsgroep)\; Voor
+  groep: C
+UID:1781873_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171003T063000Z
+DTEND:20171003T083000Z
+SEQUENCE:630790
+SUMMARY:2.1\; FR-1.13\; OG 2.1.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; FR-1.13\; OG 2.1.03\; (Onderwijsgroep)\; 
+ Voor groep: D
+UID:1781876_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171003T083000Z
+DTEND:20171003T103000Z
+SEQUENCE:641124
+SUMMARY:2.1\; FR-1.02\; OG 2.1.03\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw VANDEPOEL Caroline\; FR-1.02\; OG 2.1.03\; (Onderwijsgroep)\;
+  Voor groep: E
+UID:1781879_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171003T083000Z
+DTEND:20171003T103000Z
+SEQUENCE:630791
+SUMMARY:2.1\; FR-1.12\; OG 2.1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw MINGELS Sarah\; FR-1.12\; OG 2.1.03\; (Onderwijsgroep)\; Voor
+  groep: A
+UID:1781885_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171003T083000Z
+DTEND:20171003T103000Z
+SEQUENCE:630793
+SUMMARY:2.1\; FR-1.13\; OG 2.1.03\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; FR-1.13\; OG 2.1.03\; (Onderwijsgroep)\; 
+ Voor groep: B
+UID:1781888_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171003T083000Z
+DTEND:20171003T103000Z
+SEQUENCE:641127
+SUMMARY:2.1\; FR-1.05\; OG 2.1.03\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw VAN GEEL Fanny\; FR-1.05\; OG 2.1.03\; (Onderwijsgroep)\; Voo
+ r groep: F
+UID:1781891_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171003T113000Z
+DTEND:20171003T130000Z
+SEQUENCE:623429
+SUMMARY:2.1\; H2\; HC 2.1.15\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; H2\; HC 2.1.15\; (Hoorcollege)\; Voor: Al
+ le groepen
+UID:1781903_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171003T131500Z
+DTEND:20171003T141500Z
+SEQUENCE:623449
+SUMMARY:2.1\; B106a\; PR 2.1.09\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; B106a\; PR 2.1.09\; (Practicum)\; Voor gr
+ oepen: A\, B
+UID:1781897_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171003T131500Z
+DTEND:20171003T141500Z
+SEQUENCE:0
+SUMMARY:2.1\; B106b\; PR 2.1.09\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw OPSTEYN Lieve\; B106b\; PR 2.1.09\; (Practicum)\; Voor groepe
+ n: E\, F
+UID:1799333_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171003T141500Z
+DTEND:20171003T151500Z
+SEQUENCE:0
+SUMMARY:2.1\; B106a\; PR 2.1.09\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; B106a\; PR 2.1.09\; (Practicum)\; Voor gr
+ oepen: C\, D
+UID:1799330_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171004T064500Z
+DTEND:20171004T080000Z
+SEQUENCE:639483
+SUMMARY:2.1\; H2\; HC 2.1.13\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Prof
+ . dr. FEYS Peter\; H2\; HC 2.1.13\; (Hoorcollege)\; Voor: Alle gr
+ oepen
+UID:1781906_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171004T090000Z
+DTEND:20171004T100000Z
+SEQUENCE:633599
+SUMMARY:2.1\; H2\; HC 2.1.14\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Prof
+ . dr. KLINGELS Katrijn\; H2\; HC 2.1.14\; (Hoorcollege)\; Voor: A
+ lle groepen
+UID:1781912_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171005T063000Z
+DTEND:20171005T080000Z
+SEQUENCE:623672
+SUMMARY:2.1\; B106a\; PR 2.1.07\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; B106a\; PR 2.1.07\; (Practicum)\; Voor gr
+ oepen: A\, B
+UID:1781915_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171005T080000Z
+DTEND:20171005T093000Z
+SEQUENCE:623673
+SUMMARY:2.1\; B106a\; PR 2.1.07\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; B106a\; PR 2.1.07\; (Practicum)\; Voor gr
+ oepen: C\, D
+UID:1781918_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171006T063000Z
+DTEND:20171006T083000Z
+SEQUENCE:623465
+SUMMARY:2.1\; C1\; OG 2.1.04\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw MINGELS Sarah\; C1\; OG 2.1.04\; (Onderwijsgroep)\; Voor groe
+ p: C
+UID:1781936_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171006T063000Z
+DTEND:20171006T083000Z
+SEQUENCE:623466
+SUMMARY:2.1\; C2\; OG 2.1.04\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; C2\; OG 2.1.04\; (Onderwijsgroep)\; Voor 
+ groep: D
+UID:1781939_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171006T070000Z
+DTEND:20171006T083000Z
+SEQUENCE:623471
+SUMMARY:2.1\; B105b\; PR 2.1.07\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw OPSTEYN Lieve\; B105b\; PR 2.1.07\; (Practicum)\; Voor groepe
+ n: E\, F
+UID:1781933_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171006T083000Z
+DTEND:20171006T103000Z
+SEQUENCE:623467
+SUMMARY:2.1\; C1\; OG 2.1.04\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw MINGELS Sarah\; C1\; OG 2.1.04\; (Onderwijsgroep)\; Voor groe
+ p: A
+UID:1781924_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171006T083000Z
+DTEND:20171006T103000Z
+SEQUENCE:623468
+SUMMARY:2.1\; C2\; OG 2.1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; C2\; OG 2.1.04\; (Onderwijsgroep)\; Voor 
+ groep: B
+UID:1781927_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171006T083000Z
+DTEND:20171006T103000Z
+SEQUENCE:640164
+SUMMARY:2.1\; A7\; OG 2.1.04\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw VANDEPOEL Caroline\; A7\; OG 2.1.04\; (Onderwijsgroep)\; Voor
+  groep: E
+UID:1781942_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171006T083000Z
+DTEND:20171006T103000Z
+SEQUENCE:623470
+SUMMARY:2.1\; A104\; OG 2.1.04\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw VAN GEEL Fanny\; A104\; OG 2.1.04\; (Onderwijsgroep)\; Voor g
+ roep: F
+UID:1781945_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171006T113000Z
+DTEND:20171006T130000Z
+SEQUENCE:623665
+SUMMARY:2.1\; B105b\; PR 2.1.08\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw OPSTEYN Lieve\; B105b\; PR 2.1.08\; (Practicum)\; Voor groepe
+ n: E\, F
+UID:1781954_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171006T113000Z
+DTEND:20171006T130000Z
+SEQUENCE:623459
+SUMMARY:2.1\; B105a\; PR 2.1.08\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; B105a\; PR 2.1.08\; (Practicum)\; Voor gr
+ oepen: A\, B
+UID:1781957_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171006T130000Z
+DTEND:20171006T143000Z
+SEQUENCE:0
+SUMMARY:2.1\; B105a\; PR 2.1.08\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; B105a\; PR 2.1.08\; (Practicum)\; Voor gr
+ oepen: C\, D
+UID:1799393_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T070000Z
+DTEND:20171009T083000Z
+SEQUENCE:633600
+SUMMARY:SB2.1\; OG-Aud2\; HC 4\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; dr. VAN ERUM Monique\
+ ; OG-Aud2\; HC 4\; (Hoorcollege)\; Voor: Alle groepen
+UID:1781963_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T090000Z
+DTEND:20171009T130000Z
+SEQUENCE:633603
+SUMMARY:SB2.1\; FR-0.13\,FR-0.14\; (Zelfstudieopdracht)\; Voor groepen: A
+ \, B
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; FR-0.13\,FR-0.14\; (Z
+ elfstudieopdracht)\; Voor groepen: A\, B
+UID:1781966_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T090000Z
+DTEND:20171009T130000Z
+SEQUENCE:633602
+SUMMARY:SB2.1\; FR-0.05\,FR-0.06\; (Zelfstudieopdracht)\; Voor groepen: C
+ \, D
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; FR-0.05\,FR-0.06\; (Z
+ elfstudieopdracht)\; Voor groepen: C\, D
+UID:1781969_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T090000Z
+DTEND:20171009T130000Z
+SEQUENCE:633601
+SUMMARY:SB2.1\; FR-1.03\,FR-1.04\; (Zelfstudieopdracht)\; Voor groepen: E
+ \, F
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; FR-1.03\,FR-1.04\; (Z
+ elfstudieopdracht)\; Voor groepen: E\, F
+UID:1781972_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T130000Z
+DTEND:20171009T150000Z
+SEQUENCE:633605
+SUMMARY:SB2.1\; OG-Aud1\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; dr. VAN ERUM Monique\
+ ; OG-Aud1\; (Responsiecollege)\; Voor: Alle groepen
+UID:1781978_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171010T070000Z
+DTEND:20171010T090000Z
+SEQUENCE:623509
+SUMMARY:2.1\; A104\; OG 2.1.05\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw MINGELS Sarah\; A104\; OG 2.1.05\; (Onderwijsgroep)\; Voor gr
+ oep: C
+UID:1781984_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171010T070000Z
+DTEND:20171010T090000Z
+SEQUENCE:623510
+SUMMARY:2.1\; A105\; OG 2.1.05\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; A105\; OG 2.1.05\; (Onderwijsgroep)\; Voo
+ r groep: D
+UID:1781987_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171010T090000Z
+DTEND:20171010T110000Z
+SEQUENCE:641133
+SUMMARY:2.1\; FR-1.05\; OG 2.1.05\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw VANDEPOEL Caroline\; FR-1.05\; OG 2.1.05\; (Onderwijsgroep)\;
+  Voor groep: E
+UID:1781981_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171010T090000Z
+DTEND:20171010T110000Z
+SEQUENCE:623511
+SUMMARY:2.1\; A104\; OG 2.1.05\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw MINGELS Sarah\; A104\; OG 2.1.05\; (Onderwijsgroep)\; Voor gr
+ oep: A
+UID:1781996_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171010T090000Z
+DTEND:20171010T110000Z
+SEQUENCE:623512
+SUMMARY:2.1\; A105\; OG 2.1.05\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; A105\; OG 2.1.05\; (Onderwijsgroep)\; Voo
+ r groep: B
+UID:1781999_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171010T090000Z
+DTEND:20171010T110000Z
+SEQUENCE:641131
+SUMMARY:2.1\; FR-1.02\; OG 2.1.05\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw VAN GEEL Fanny\; FR-1.02\; OG 2.1.05\; (Onderwijsgroep)\; Voo
+ r groep: F
+UID:1782002_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171010T113000Z
+DTEND:20171010T130000Z
+SEQUENCE:623515
+SUMMARY:2.1\; B106a\; PR 2.1.10\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw OPSTEYN Lieve\; B106a\; PR 2.1.10\; (Practicum)\; Voor groepe
+ n: A\, B
+UID:1799573_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171010T130000Z
+DTEND:20171010T143000Z
+SEQUENCE:0
+SUMMARY:2.1\; B106a\; PR 2.1.10\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw OPSTEYN Lieve\; B106a\; PR 2.1.10\; (Practicum)\; Voor groepe
+ n: C\, D
+UID:1799576_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171010T130000Z
+DTEND:20171010T143000Z
+SEQUENCE:0
+SUMMARY:2.1\; B106b\; PR 2.1.10\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw VAN GEEL Fanny\; B106b\; PR 2.1.10\; (Practicum)\; Voor groep
+ en: E\, F
+UID:1799582_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171010T144500Z
+DTEND:20171010T160000Z
+SEQUENCE:638050
+SUMMARY:KE\; H6\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Klinische exploratie (3074)\; Mevrouw OPSTEYN Lieve\; H6\; (Hoorc
+ ollege)\; Voor: Alle groepen
+UID:1832744_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171011T063000Z
+DTEND:20171011T080000Z
+SEQUENCE:0
+SUMMARY:2.1\; H2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; H2\; (Hoorcollege)\; Voor: Alle groepen
+UID:1840766_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171011T080000Z
+DTEND:20171011T093000Z
+SEQUENCE:641579
+SUMMARY:2.1\; H2\; HC 2.1.17\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Prof
+ . dr. FEYS Peter\; H2\; HC 2.1.17\; (Hoorcollege)\; Voor: Alle gr
+ oepen
+UID:1782014_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171011T093000Z
+DTEND:20171011T100000Z
+SEQUENCE:641582
+SUMMARY:2.1\; A108\; CPO\; \; Voor: Alle groepen
+UID:1840772_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171011T113000Z
+DTEND:20171011T130000Z
+SEQUENCE:623529
+SUMMARY:2.1\; B105b\; PR 2.1.11\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw OPSTEYN Lieve\; B105b\; PR 2.1.11\; (Practicum)\; Voor groepe
+ n: A\, B
+UID:1782026_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171011T130000Z
+DTEND:20171011T143000Z
+SEQUENCE:623530
+SUMMARY:2.1\; B105b\; PR 2.1.11\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw OPSTEYN Lieve\; B105b\; PR 2.1.11\; (Practicum)\; Voor groepe
+ n: C\, D
+UID:1782017_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171011T130000Z
+DTEND:20171011T143000Z
+SEQUENCE:0
+SUMMARY:2.1\; B105a\; PR 2.1.11\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw VAN GEEL Fanny\; B105a\; PR 2.1.11\; (Practicum)\; Voor groep
+ en: E\, F
+UID:1799621_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171011T143000Z
+DTEND:20171011T160000Z
+SEQUENCE:623661
+SUMMARY:2.1\; B105b\; PR 2.1.12\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw OPSTEYN Lieve\; B105b\; PR 2.1.12\; (Practicum)\; Voor groepe
+ n: A\, B
+UID:1782032_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171013T063000Z
+DTEND:20171013T080000Z
+SEQUENCE:639205
+SUMMARY:2.1\; B106a\; PR 2.1.12\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw VAN REUSEL Merel\; B106a\; PR 2.1.12\; (Practicum)\; Voor gro
+ epen: E\, F
+UID:1800221_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171013T063000Z
+DTEND:20171013T083000Z
+SEQUENCE:623558
+SUMMARY:2.1\; A103\; OG 2.1.06\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw MINGELS Sarah\; A103\; OG 2.1.06\; (Onderwijsgroep)\; Voor gr
+ oep: C
+UID:1782053_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171013T063000Z
+DTEND:20171013T083000Z
+SEQUENCE:623559
+SUMMARY:2.1\; A105\; OG 2.1.06\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; A105\; OG 2.1.06\; (Onderwijsgroep)\; Voo
+ r groep: D
+UID:1782056_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171013T083000Z
+DTEND:20171013T103000Z
+SEQUENCE:623564
+SUMMARY:2.1\; A103\; OG 2.1.06\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw MINGELS Sarah\; A103\; OG 2.1.06\; (Onderwijsgroep)\; Voor gr
+ oep: A
+UID:1782041_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171013T083000Z
+DTEND:20171013T103000Z
+SEQUENCE:623565
+SUMMARY:2.1\; A105\; OG 2.1.06\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; A105\; OG 2.1.06\; (Onderwijsgroep)\; Voo
+ r groep: B
+UID:1782044_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171013T083000Z
+DTEND:20171013T103000Z
+SEQUENCE:640169
+SUMMARY:2.1\; C110\; OG 2.1.06\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw VANDEPOEL Caroline\; C110\; OG 2.1.06\; (Onderwijsgroep)\; Vo
+ or groep: E
+UID:1782059_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171013T083000Z
+DTEND:20171013T103000Z
+SEQUENCE:623567
+SUMMARY:2.1\; A7\; OG 2.1.06\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw VAN GEEL Fanny\; A7\; OG 2.1.06\; (Onderwijsgroep)\; Voor gro
+ ep: F
+UID:1782062_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171013T090000Z
+DTEND:20171013T103000Z
+SEQUENCE:0
+SUMMARY:2.1\; B106a\; PR 2.1.12\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw OPSTEYN Lieve\; B106a\; PR 2.1.12\; (Practicum)\; Voor groepe
+ n: C\, D
+UID:1800227_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171013T111500Z
+DTEND:20171013T124500Z
+SEQUENCE:623674
+SUMMARY:2.1\; B106a\; PR 2.1.13\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw OPSTEYN Lieve\; B106a\; PR 2.1.13\; (Practicum)\; Voor groepe
+ n: A\, B
+UID:1782068_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171013T111500Z
+DTEND:20171013T124500Z
+SEQUENCE:639204
+SUMMARY:2.1\; B105a\; PR 2.1.13\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw VAN REUSEL Merel\; B105a\; PR 2.1.13\; (Practicum)\; Voor gro
+ epen: E\, F
+UID:1799852_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171013T124500Z
+DTEND:20171013T141500Z
+SEQUENCE:623663
+SUMMARY:2.1\; B106a\; PR 2.1.13\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw OPSTEYN Lieve\; B106a\; PR 2.1.13\; (Practicum)\; Voor groepe
+ n: C\, D
+UID:1799849_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T070000Z
+DTEND:20171016T083000Z
+SEQUENCE:633609
+SUMMARY:SB2.1\; OG-Aud2\; HC 5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; dr. BRAEKEN Marijke\;
+  OG-Aud2\; HC 5\; (Hoorcollege)\; Voor: Alle groepen
+UID:1790771_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T090000Z
+DTEND:20171016T130000Z
+SEQUENCE:633610
+SUMMARY:SB2.1\; FR-1.11\,FR-1.12\; (Zelfstudieopdracht)\; Voor groepen: A
+ \, B
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; FR-1.11\,FR-1.12\; (Z
+ elfstudieopdracht)\; Voor groepen: A\, B
+UID:1782080_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T090000Z
+DTEND:20171016T130000Z
+SEQUENCE:633611
+SUMMARY:SB2.1\; FR-1.03\,FR-1.04\; (Zelfstudieopdracht)\; Voor groepen: C
+ \, D
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; FR-1.03\,FR-1.04\; (Z
+ elfstudieopdracht)\; Voor groepen: C\, D
+UID:1782083_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T090000Z
+DTEND:20171016T130000Z
+SEQUENCE:633612
+SUMMARY:SB2.1\; FR-1.06\,FR-1.07\; (Zelfstudieopdracht)\; Voor groepen: E
+ \, F
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; FR-1.06\,FR-1.07\; (Z
+ elfstudieopdracht)\; Voor groepen: E\, F
+UID:1782086_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T130000Z
+DTEND:20171016T150000Z
+SEQUENCE:633614
+SUMMARY:SB2.1\; OG-Aud2\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; dr. BRAEKEN Marijke\;
+  OG-Aud2\; (Responsiecollege)\; Voor: Alle groepen
+UID:1782092_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171017T063000Z
+DTEND:20171017T083000Z
+SEQUENCE:623590
+SUMMARY:2.1\; C104\; OG 2.1.07\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw MINGELS Sarah\; C104\; OG 2.1.07\; (Onderwijsgroep)\; Voor gr
+ oep: C
+UID:1782107_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171017T063000Z
+DTEND:20171017T083000Z
+SEQUENCE:623591
+SUMMARY:2.1\; C105\; OG 2.1.07\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; C105\; OG 2.1.07\; (Onderwijsgroep)\; Voo
+ r groep: D
+UID:1782110_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171017T083000Z
+DTEND:20171017T103000Z
+SEQUENCE:623598
+SUMMARY:2.1\; C104\; OG 2.1.07\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw MINGELS Sarah\; C104\; OG 2.1.07\; (Onderwijsgroep)\; Voor gr
+ oep: A
+UID:1782095_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171017T083000Z
+DTEND:20171017T103000Z
+SEQUENCE:623597
+SUMMARY:2.1\; C105\; OG 2.1.07\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; C105\; OG 2.1.07\; (Onderwijsgroep)\; Voo
+ r groep: B
+UID:1782098_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171017T083000Z
+DTEND:20171017T103000Z
+SEQUENCE:640171
+SUMMARY:2.1\; B103\; OG 2.1.07\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw VANDEPOEL Caroline\; B103\; OG 2.1.07\; (Onderwijsgroep)\; Vo
+ or groep: E
+UID:1782113_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171017T083000Z
+DTEND:20171017T103000Z
+SEQUENCE:623593
+SUMMARY:2.1\; A106\; OG 2.1.07\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw VAN GEEL Fanny\; A106\; OG 2.1.07\; (Onderwijsgroep)\; Voor g
+ roep: F
+UID:1782116_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171017T113000Z
+DTEND:20171017T133000Z
+SEQUENCE:623604
+SUMMARY:2.1\; B106a\; PR 2.1.14\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; B106a\; PR 2.1.14\; (Practicum)\; Voor gr
+ oepen: A\, B
+UID:1782119_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171017T113000Z
+DTEND:20171017T133000Z
+SEQUENCE:623603
+SUMMARY:2.1\; B106b\,B105b\; PR 2.1.14\; (Practicum)\; Voor groepen: C\, 
+ D
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw OPSTEYN Lieve\; B106b\,B105b\; PR 2.1.14\; (Practicum)\; Voor
+  groepen: C\, D
+UID:1782122_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171017T133000Z
+DTEND:20171017T153000Z
+SEQUENCE:623601
+SUMMARY:2.1\; B106a\; PR 2.1.14\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; B106a\; PR 2.1.14\; (Practicum)\; Voor gr
+ oepen: E\, F
+UID:1782125_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171018T063000Z
+DTEND:20171018T080000Z
+SEQUENCE:631078
+SUMMARY:2.1\; A102\; HC 2.1.19\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Prof
+ . dr. VAN WIJMEERSCH Bart\; A102\; HC 2.1.19\; (Hoorcollege)\; Vo
+ or: Alle groepen
+UID:1799804_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171018T083000Z
+DTEND:20171018T100000Z
+SEQUENCE:631079
+SUMMARY:2.1\; A102\; HC 2.1.18\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Prof
+ . dr. FEYS Peter\; A102\; HC 2.1.18\; (Hoorcollege)\; Voor: Alle 
+ groepen
+UID:1799807_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171018T110000Z
+DTEND:20171018T120000Z
+SEQUENCE:631080
+SUMMARY:2.1\; A102\; HC 2.1.20\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Prof
+ . dr. FEYS Peter\; A102\; HC 2.1.20\; (Hoorcollege)\; Voor: Alle 
+ groepen
+UID:1782137_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171019T070000Z
+DTEND:20171019T083000Z
+SEQUENCE:638049
+SUMMARY:2.1\; OG-Aud2\; HC 2.1.16\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Prof
+ . dr. VAN WIJMEERSCH Bart\; OG-Aud2\; HC 2.1.16\; (Hoorcollege)\;
+  Voor: Alle groepen
+UID:1782011_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171019T140000Z
+DTEND:20171019T160000Z
+SEQUENCE:0
+SUMMARY:2.1\; B106a\,B106b\; Oefenpracticum\; (Practicum)\; Voor: Alle gr
+ oepen
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; B106
+ a\,B106b\; Oefenpracticum\; (Practicum)\; Voor: Alle groepen
+UID:1799810_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171020T063000Z
+DTEND:20171020T083000Z
+SEQUENCE:623613
+SUMMARY:2.1\; A103\; OG 2.1.08\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw MINGELS Sarah\; A103\; OG 2.1.08\; (Onderwijsgroep)\; Voor gr
+ oep: C
+UID:1782161_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171020T063000Z
+DTEND:20171020T083000Z
+SEQUENCE:623614
+SUMMARY:2.1\; A104\; OG 2.1.08\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; A104\; OG 2.1.08\; (Onderwijsgroep)\; Voo
+ r groep: D
+UID:1782164_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171020T083000Z
+DTEND:20171020T103000Z
+SEQUENCE:623611
+SUMMARY:2.1\; A103\; OG 2.1.08\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw MINGELS Sarah\; A103\; OG 2.1.08\; (Onderwijsgroep)\; Voor gr
+ oep: A
+UID:1782152_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171020T083000Z
+DTEND:20171020T103000Z
+SEQUENCE:623612
+SUMMARY:2.1\; A104\; OG 2.1.08\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; A104\; OG 2.1.08\; (Onderwijsgroep)\; Voo
+ r groep: B
+UID:1782155_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171020T083000Z
+DTEND:20171020T103000Z
+SEQUENCE:640173
+SUMMARY:2.1\; A3\; OG 2.1.08\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw VANDEPOEL Caroline\; A3\; OG 2.1.08\; (Onderwijsgroep)\; Voor
+  groep: E
+UID:1782167_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171020T083000Z
+DTEND:20171020T103000Z
+SEQUENCE:623621
+SUMMARY:2.1\; C4\; OG 2.1.08\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw VAN GEEL Fanny\; C4\; OG 2.1.08\; (Onderwijsgroep)\; Voor gro
+ ep: F
+UID:1799984_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171020T113000Z
+DTEND:20171020T133000Z
+SEQUENCE:623617
+SUMMARY:2.1\; B106a\; PR 2.1.15\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; B106a\; PR 2.1.15\; (Practicum)\; Voor gr
+ oepen: A\, B
+UID:1799987_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171020T113000Z
+DTEND:20171020T133000Z
+SEQUENCE:0
+SUMMARY:2.1\; B106b\; PR 2.1.15\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; Mevr
+ ouw OPSTEYN Lieve\; B106b\; PR 2.1.15\; (Practicum)\; Voor groepe
+ n: C\, D
+UID:1799993_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171020T133000Z
+DTEND:20171020T153000Z
+SEQUENCE:0
+SUMMARY:2.1\; B106a\; PR 2.1.15\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Neurale bewegingssturing en functioneringsproblemen (2956)\; De h
+ eer SCHROYEN Valentin\; B106a\; PR 2.1.15\; (Practicum)\; Voor gr
+ oepen: E\, F
+UID:1799990_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T073000Z
+DTEND:20171106T083000Z
+SEQUENCE:647392
+SUMMARY:SB2.1\; OG-Aud2\; HC 6\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; dr. BRAEKEN Marijke\;
+  OG-Aud2\; HC 6\; (Hoorcollege)\; Voor: Alle groepen
+UID:1845380_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T090000Z
+DTEND:20171106T130000Z
+SEQUENCE:643990
+SUMMARY:SB2.1\; FR-1.06\,FR-1.07\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; FR-1.06\,FR-1.07\; (P
+ racticum)\; Voor groepen: A\, B
+UID:1845452_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T090000Z
+DTEND:20171106T130000Z
+SEQUENCE:643991
+SUMMARY:SB2.1\; FR-0.04\,FR-0.03\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; FR-0.04\,FR-0.03\; (P
+ racticum)\; Voor groepen: C\, D
+UID:1845455_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T090000Z
+DTEND:20171106T130000Z
+SEQUENCE:643993
+SUMMARY:SB2.1\; FR-1.11\,FR-1.12\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; FR-1.11\,FR-1.12\; (P
+ racticum)\; Voor groepen: E\, F
+UID:1845458_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T133000Z
+DTEND:20171106T143000Z
+SEQUENCE:647395
+SUMMARY:SB2.1\; B4\; RC (Diepenbeek)\; (Responsiecollege)\; Voor: Alle gr
+ oepen
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; dr. BRAEKEN Marijke\;
+  B4\; RC (Diepenbeek)\; (Responsiecollege)\; Voor: Alle groepen
+UID:1852079_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171107T073000Z
+DTEND:20171107T080000Z
+SEQUENCE:647432
+SUMMARY:2.2\; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. O
+ P 'T EIJNDE Bert\; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+UID:1840856_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171107T080000Z
+DTEND:20171107T083000Z
+SEQUENCE:645475
+SUMMARY:2.2\; FR-0.13\; OG2.2.1\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VAN ERU
+ M Monique\; FR-0.13\; OG2.2.1\; (Onderwijsgroep)\; Voor groep: A
+UID:1840892_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171107T080000Z
+DTEND:20171107T083000Z
+SEQUENCE:645477
+SUMMARY:2.2\; FR-0.14\; OG 2.2.1\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw MEU
+ LEMANS Iris\; FR-0.14\; OG 2.2.1\; (Onderwijsgroep)\; Voor groep:
+  B
+UID:1840895_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171107T080000Z
+DTEND:20171107T083000Z
+SEQUENCE:647455
+SUMMARY:2.2\; FR-1.04\; OG2.2.1\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw VAN
+  RYCKEGHEM Lisa\; FR-1.04\; OG2.2.1\; (Onderwijsgroep)\; Voor gro
+ ep: E
+UID:1840904_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171107T080000Z
+DTEND:20171107T083000Z
+SEQUENCE:647457
+SUMMARY:2.2\; FR-1.05\; OG 2.2.1\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; De heer KEY
+ TSMAN Charly\; FR-1.05\; OG 2.2.1\; (Onderwijsgroep)\; Voor groep
+ : F
+UID:1840910_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171107T083000Z
+DTEND:20171107T100000Z
+SEQUENCE:645476
+SUMMARY:2.2\; FR-0.13\; OG 2.2.2\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VAN ERU
+ M Monique\; FR-0.13\; OG 2.2.2\; (Onderwijsgroep)\; Voor groep: A
+UID:1840913_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171107T083000Z
+DTEND:20171107T100000Z
+SEQUENCE:645478
+SUMMARY:2.2\; FR-0.14\; OG 2.2.2\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw MEU
+ LEMANS Iris\; FR-0.14\; OG 2.2.2\; (Onderwijsgroep)\; Voor groep:
+  B
+UID:1840916_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171107T083000Z
+DTEND:20171107T100000Z
+SEQUENCE:647456
+SUMMARY:2.2\; FR-1.04\; OG 2.2.2\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw VAN
+  RYCKEGHEM Lisa\; FR-1.04\; OG 2.2.2\; (Onderwijsgroep)\; Voor gr
+ oep: E
+UID:1840925_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171107T083000Z
+DTEND:20171107T100000Z
+SEQUENCE:647458
+SUMMARY:2.2\; FR-1.05\; OG 2.2.1\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; De heer KEY
+ TSMAN Charly\; FR-1.05\; OG 2.2.1\; (Onderwijsgroep)\; Voor groep
+ : F
+UID:1840928_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171107T103000Z
+DTEND:20171107T113000Z
+SEQUENCE:647435
+SUMMARY:2.2\; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. V
+ ANDENABEELE Frank\; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+UID:1852223_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171107T120000Z
+DTEND:20171107T133000Z
+SEQUENCE:645514
+SUMMARY:2.2\; A102\; HC 2.2.5a\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. D
+ ENDALE Paul\; A102\; HC 2.2.5a\; (Hoorcollege)\; Voor: Alle groep
+ en
+UID:1840934_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171107T133000Z
+DTEND:20171107T140000Z
+SEQUENCE:645510
+SUMMARY:2.2\; A106\; OG 2.2.1\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VAN ERU
+ M Monique\; A106\; OG 2.2.1\; (Onderwijsgroep)\; Voor groep: C
+UID:1840898_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171107T133000Z
+DTEND:20171107T140000Z
+SEQUENCE:645511
+SUMMARY:2.2\; A107\; OG 2.2.1\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw MEU
+ LEMANS Iris\; A107\; OG 2.2.1\; (Onderwijsgroep)\; Voor groep: D
+UID:1840901_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171107T140000Z
+DTEND:20171107T153000Z
+SEQUENCE:645509
+SUMMARY:2.2\; A106\; OG 2.2.2\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VAN ERU
+ M Monique\; A106\; OG 2.2.2\; (Onderwijsgroep)\; Voor groep: C
+UID:1840919_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171107T140000Z
+DTEND:20171107T153000Z
+SEQUENCE:645513
+SUMMARY:2.2\; A107\; OG 2.2.2\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw MEU
+ LEMANS Iris\; A107\; OG 2.2.2\; (Onderwijsgroep)\; Voor groep: D
+UID:1840922_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171107T153000Z
+DTEND:20171107T170000Z
+SEQUENCE:645516
+SUMMARY:2.2\; H6\; HC 2.2.3 Arjan Koppert\; (Hoorcollege)\; Voor: Alle gr
+ oepen
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; H6\; HC 2.2
+ .3 Arjan Koppert\; (Hoorcollege)\; Voor: Alle groepen
+UID:1840931_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171109T073000Z
+DTEND:20171109T090000Z
+SEQUENCE:645523
+SUMMARY:2.2\; OG-Aud2\; HC 2.2.4\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. H
+ ANSEN Dominique\; OG-Aud2\; HC 2.2.4\; (Hoorcollege)\; Voor: Alle
+  groepen
+UID:1840937_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171109T090000Z
+DTEND:20171109T110000Z
+SEQUENCE:647442
+SUMMARY:2.2\; FR-1.04\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VAN ERU
+ M Monique\; FR-1.04\; (Onderwijsgroep)\; Voor groep: A
+UID:1840940_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171109T090000Z
+DTEND:20171109T110000Z
+SEQUENCE:647447
+SUMMARY:2.2\; FR-0.15\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; De heer KEY
+ TSMAN Charly\; FR-0.15\; (Onderwijsgroep)\; Voor groep: F
+UID:1840952_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171109T090000Z
+DTEND:20171109T110000Z
+SEQUENCE:647449
+SUMMARY:2.2\; FR-1.11\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw VAN
+  RYCKEGHEM Lisa\; FR-1.11\; (Onderwijsgroep)\; Voor groep: E
+UID:1840955_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171109T103000Z
+DTEND:20171109T123000Z
+SEQUENCE:647451
+SUMMARY:2.2\; FR-1.07\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw MEU
+ LEMANS Iris\; FR-1.07\; (Onderwijsgroep)\; Voor groep: B
+UID:1840943_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171109T130000Z
+DTEND:20171109T143000Z
+SEQUENCE:645543
+SUMMARY:2.2\; OG-Aud2\; HC 2.2.5b Koopman Pieter\; (Hoorcollege)\; Voor: 
+ Alle groepen
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; OG-Aud2\; H
+ C 2.2.5b Koopman Pieter\; (Hoorcollege)\; Voor: Alle groepen
+UID:1840961_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171109T143000Z
+DTEND:20171109T163000Z
+SEQUENCE:647460
+SUMMARY:2.2\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw MEU
+ LEMANS Iris\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+UID:1840949_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171109T144500Z
+DTEND:20171109T164500Z
+SEQUENCE:648190
+SUMMARY:2.2\; FR-1.06\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VAN ERU
+ M Monique\; FR-1.06\; (Onderwijsgroep)\; Voor groep: C
+UID:1840946_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T080000Z
+DTEND:20171113T090000Z
+SEQUENCE:647396
+SUMMARY:SB2.1\; OG-Aud1\; HC 7\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; dr. DINGENEN Bart\; O
+ G-Aud1\; HC 7\; (Hoorcollege)\; Voor: Alle groepen
+UID:1845494_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T093000Z
+DTEND:20171113T130000Z
+SEQUENCE:643999
+SUMMARY:SB2.1\; FR-0.13\,FR-0.14\; HC 7\; (Hoorcollege)\; Voor groepen: A
+ \, B
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; FR-0.13\,FR-0.14\; HC
+  7\; (Hoorcollege)\; Voor groepen: A\, B
+UID:1845497_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T093000Z
+DTEND:20171113T130000Z
+SEQUENCE:644001
+SUMMARY:SB2.1\; FR-0.04\,FR-0.03\; HC 7\; (Hoorcollege)\; Voor groepen: C
+ \, D
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; FR-0.04\,FR-0.03\; HC
+  7\; (Hoorcollege)\; Voor groepen: C\, D
+UID:1845500_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T093000Z
+DTEND:20171113T130000Z
+SEQUENCE:644002
+SUMMARY:SB2.1\; FR-0.05\,FR-0.06\; HC 7\; (Hoorcollege)\; Voor groepen: E
+ \, F
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; FR-0.05\,FR-0.06\; HC
+  7\; (Hoorcollege)\; Voor groepen: E\, F
+UID:1845503_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210515Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T133000Z
+DTEND:20171113T143000Z
+SEQUENCE:0
+SUMMARY:SB2.1\; H3\; RC (Diepenbeek)\; (Responsiecollege)\; Voor: Alle gr
+ oepen
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; dr. DINGENEN Bart\; H
+ 3\; RC (Diepenbeek)\; (Responsiecollege)\; Voor: Alle groepen
+UID:1852082_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T160000Z
+DTEND:20171113T173000Z
+SEQUENCE:648349
+SUMMARY:2.2\; B5\; HC 2.2.6\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. H
+ ANSEN Dominique\; B5\; HC 2.2.6\; (Hoorcollege)\; Voor: Alle groe
+ pen
+UID:1840988_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171115T073000Z
+DTEND:20171115T093000Z
+SEQUENCE:645829
+SUMMARY:2.2\; PR 2.2.10a FITLINK\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. O
+ P 'T EIJNDE Bert\, dr. HUTS Kristof\; PR 2.2.10a FITLINK\; (Pract
+ icum)\; Voor groepen: A\, B
+UID:1840991_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171115T073000Z
+DTEND:20171115T093000Z
+SEQUENCE:647462
+SUMMARY:2.2\; B105b\; PR 2.2.1\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; De heer BUR
+ TIN Chris\; B105b\; PR 2.2.1\; (Practicum)\; Voor groepen: C\, D
+UID:1840994_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171115T073000Z
+DTEND:20171115T093000Z
+SEQUENCE:647473
+SUMMARY:2.2\; B106a\; PR 2.2.6\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. H
+ ANSEN Dominique\; B106a\; PR 2.2.6\; (Practicum)\; Voor groepen: 
+ E\, F
+UID:1840997_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171115T093000Z
+DTEND:20171115T113000Z
+SEQUENCE:648756
+SUMMARY:2.2\; B104\; OG 2.2.4\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VERBOVE
+ N Kenneth\; B104\; OG 2.2.4\; (Onderwijsgroep)\; Voor groep: E
+UID:1840979_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171115T093000Z
+DTEND:20171115T113000Z
+SEQUENCE:647471
+SUMMARY:2.2\; A7\; OG 2.2.4\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; De heer KEY
+ TSMAN Charly\; A7\; OG 2.2.4\; (Onderwijsgroep)\; Voor groep: F
+UID:1840982_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171115T093000Z
+DTEND:20171115T113000Z
+SEQUENCE:647465
+SUMMARY:2.2\; PR 2.2.10a FITLINK\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. O
+ P 'T EIJNDE Bert\, dr. HUTS Kristof\; PR 2.2.10a FITLINK\; (Pract
+ icum)\; Voor groepen: C\, D
+UID:1848440_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171115T093000Z
+DTEND:20171115T113000Z
+SEQUENCE:0
+SUMMARY:2.2\; B105b\; PR 2.2.6\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. H
+ ANSEN Dominique\; B105b\; PR 2.2.6\; (Practicum)\; Voor groepen: 
+ A\, B
+UID:1852229_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171115T120000Z
+DTEND:20171115T140000Z
+SEQUENCE:645590
+SUMMARY:2.2\; A106\; OG 2.2.4\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VAN ERU
+ M Monique\; A106\; OG 2.2.4\; (Onderwijsgroep)\; Voor groep: C
+UID:1840973_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171115T120000Z
+DTEND:20171115T140000Z
+SEQUENCE:645591
+SUMMARY:2.2\; C105\; OG 2.2.4\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw MEU
+ LEMANS Iris\; C105\; OG 2.2.4\; (Onderwijsgroep)\; Voor groep: D
+UID:1840976_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171115T120000Z
+DTEND:20171115T140000Z
+SEQUENCE:645567
+SUMMARY:2.2\; PR 2.2.10a FITLINK\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. O
+ P 'T EIJNDE Bert\, dr. HUTS Kristof\; PR 2.2.10a FITLINK\; (Pract
+ icum)\; Voor groepen: E\, F
+UID:1848131_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171115T120000Z
+DTEND:20171115T140000Z
+SEQUENCE:645569
+SUMMARY:2.2\; B106a\; PR 2.2.1\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; De heer BUR
+ TIN Chris\; B106a\; PR 2.2.1\; (Practicum)\; Voor groepen: A\, B
+UID:1848134_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171115T140000Z
+DTEND:20171115T160000Z
+SEQUENCE:647475
+SUMMARY:2.2\; C104\; OG 2.2.4\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VAN ERU
+ M Monique\; C104\; OG 2.2.4\; (Onderwijsgroep)\; Voor groep: A
+UID:1840967_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171115T140000Z
+DTEND:20171115T160000Z
+SEQUENCE:647476
+SUMMARY:2.2\; C105\; OG 2.2.4\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw MEU
+ LEMANS Iris\; C105\; OG 2.2.4\; (Onderwijsgroep)\; Voor groep: B
+UID:1840970_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171115T140000Z
+DTEND:20171115T160000Z
+SEQUENCE:645570
+SUMMARY:2.2\; B105a\; PR 2.2.1\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; De heer BUR
+ TIN Chris\; B105a\; PR 2.2.1\; (Practicum)\; Voor groepen: E\, F
+UID:1848137_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171115T160000Z
+DTEND:20171115T180000Z
+SEQUENCE:647478
+SUMMARY:2.2\; B106b\; PR 2.2.6\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. H
+ ANSEN Dominique\; B106b\; PR 2.2.6\; (Practicum)\; Voor groepen: 
+ C\, D
+UID:1852226_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171117T083000Z
+DTEND:20171117T103000Z
+SEQUENCE:645867
+SUMMARY:2.2\; C21\; OG 2.2.5\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VAN ERU
+ M Monique\; C21\; OG 2.2.5\; (Onderwijsgroep)\; Voor groep: A
+UID:1848143_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171117T083000Z
+DTEND:20171117T103000Z
+SEQUENCE:645865
+SUMMARY:2.2\; C112\; OG 2.2.5\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw MEU
+ LEMANS Iris\; C112\; OG 2.2.5\; (Onderwijsgroep)\; Voor groep: B
+UID:1848146_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171117T083000Z
+DTEND:20171117T103000Z
+SEQUENCE:648757
+SUMMARY:2.2\; A105\; OG 2.2.5\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. H
+ ANSEN Dominique\; A105\; OG 2.2.5\; (Onderwijsgroep)\; Voor groep
+ : E
+UID:1848152_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171117T103000Z
+DTEND:20171117T123000Z
+SEQUENCE:647529
+SUMMARY:2.2\; B102\; OG 2.2.5\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VAN ERU
+ M Monique\; B102\; OG 2.2.5\; (Onderwijsgroep)\; Voor groep: C
+UID:1848155_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171117T103000Z
+DTEND:20171117T123000Z
+SEQUENCE:647530
+SUMMARY:2.2\; C112\; OG 2.2.5\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw MEU
+ LEMANS Iris\; C112\; OG 2.2.5\; (Onderwijsgroep)\; Voor groep: D
+UID:1848158_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171117T140000Z
+DTEND:20171117T160000Z
+SEQUENCE:647531
+SUMMARY:2.2\; A106\; OG 2.2.5\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; De heer KEY
+ TSMAN Charly\; A106\; OG 2.2.5\; (Onderwijsgroep)\; Voor groep: F
+UID:1848149_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171122T093000Z
+DTEND:20171122T103000Z
+SEQUENCE:0
+SUMMARY:EVALUATIEVERGADERING\; Blok 2.1\; A54\; Voor: Alle groepen
+DESCRIPTION: ()\; A54\; Voor: Alle groepen
+UID:1856006_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171122T103000Z
+DTEND:20171122T123000Z
+SEQUENCE:645613
+SUMMARY:2.2\; C104\; OG 2.2.6\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VAN ERU
+ M Monique\; C104\; OG 2.2.6\; (Onderwijsgroep)\; Voor groep: A
+UID:1848173_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171122T103000Z
+DTEND:20171122T123000Z
+SEQUENCE:647488
+SUMMARY:2.2\; C109\; OG 2.2.6\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VAN SAN
+ DEN Suzy\; C109\; OG 2.2.6\; (Onderwijsgroep)\; Voor groep: E
+UID:1848179_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171122T103000Z
+DTEND:20171122T123000Z
+SEQUENCE:647489
+SUMMARY:2.2\; C105\; OG 2.2.6\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; De heer KEY
+ TSMAN Charly\; C105\; OG 2.2.6\; (Onderwijsgroep)\; Voor groep: F
+UID:1848182_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171122T103000Z
+DTEND:20171122T123000Z
+SEQUENCE:645616
+SUMMARY:2.2\; B103\; OG 2.2.6\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw MEU
+ LEMANS Iris\; B103\; OG 2.2.6\; (Onderwijsgroep)\; Voor groep: B
+UID:1848188_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171122T123000Z
+DTEND:20171122T143000Z
+SEQUENCE:645615
+SUMMARY:2.2\; B103\; OG 2.2.6\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw MEU
+ LEMANS Iris\; B103\; OG 2.2.6\; (Onderwijsgroep)\; Voor groep: D
+UID:1848176_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171122T123000Z
+DTEND:20171122T143000Z
+SEQUENCE:0
+SUMMARY:2.2\; C104\; OG 2.2.6\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VAN ERU
+ M Monique\; C104\; OG 2.2.6\; (Onderwijsgroep)\; Voor groep: C
+UID:1848185_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171122T143000Z
+DTEND:20171122T160000Z
+SEQUENCE:650289
+SUMMARY:2.2\; H6\; HC 2.2.5 Vanfleteren Lowie\; (Hoorcollege)\; Voor: All
+ e groepen
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; H6\; HC 2.2
+ .5 Vanfleteren Lowie\; (Hoorcollege)\; Voor: Alle groepen
+UID:1848170_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171123T070000Z
+DTEND:20171123T083000Z
+SEQUENCE:645994
+SUMMARY:2.2\; H2\; HC 2.2.8 Daenen Marc\; (Hoorcollege)\; Voor: Alle groe
+ pen
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; H2\; HC 2.2
+ .8 Daenen Marc\; (Hoorcollege)\; Voor: Alle groepen
+UID:1848191_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171123T100000Z
+DTEND:20171123T111500Z
+SEQUENCE:650376
+SUMMARY:2.2\; B5\; HC 2.2.9 + 10\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VAN ERU
+ M Monique\; B5\; HC 2.2.9 + 10\; (Hoorcollege)\; Voor: Alle groep
+ en
+UID:1848482_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171123T120000Z
+DTEND:20171123T131500Z
+SEQUENCE:0
+SUMMARY:2.2\; B5\; HC 2.2.9 + 10\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VAN ERU
+ M Monique\; B5\; HC 2.2.9 + 10\; (Hoorcollege)\; Voor: Alle groep
+ en
+UID:1857608_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171123T133000Z
+DTEND:20171123T143000Z
+SEQUENCE:647494
+SUMMARY:2.2\; A102\; HC 2.2.4 CIP\; (Practicum)\; Voor: Alle groepen
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. H
+ ANSEN Dominique\; A102\; HC 2.2.4 CIP\; (Practicum)\; Voor: Alle 
+ groepen
+UID:1848197_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171123T143000Z
+DTEND:20171123T160000Z
+SEQUENCE:647493
+SUMMARY:2.2\; A102\; HC 2.2.5 CIP\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. H
+ ANSEN Dominique\; A102\; HC 2.2.5 CIP\; (Hoorcollege)\; Voor: All
+ e groepen
+UID:1848167_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171124T090000Z
+DTEND:20171124T110000Z
+SEQUENCE:645793
+SUMMARY:2.2\; A105\; OG 2.2.7\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw MEU
+ LEMANS Iris\; A105\; OG 2.2.7\; (Onderwijsgroep)\; Voor groep: B
+UID:1848212_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171124T090000Z
+DTEND:20171124T110000Z
+SEQUENCE:647496
+SUMMARY:2.2\; C110\; OG 2.2.7\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw VAN
+  RYCKEGHEM Lisa\; C110\; OG 2.2.7\; (Onderwijsgroep)\; Voor groep
+ : E
+UID:1848215_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171124T090000Z
+DTEND:20171124T110000Z
+SEQUENCE:647497
+SUMMARY:2.2\; B101\; OG 2.2.7\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; De heer KEY
+ TSMAN Charly\; B101\; OG 2.2.7\; (Onderwijsgroep)\; Voor groep: F
+UID:1848218_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171124T090000Z
+DTEND:20171124T110000Z
+SEQUENCE:645791
+SUMMARY:2.2\; A104\; OG 2.2.7\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VAN ERU
+ M Monique\; A104\; OG 2.2.7\; (Onderwijsgroep)\; Voor groep: A
+UID:1848221_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171124T110000Z
+DTEND:20171124T130000Z
+SEQUENCE:645792
+SUMMARY:2.2\; A104\; OG 2.2.7\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VAN ERU
+ M Monique\; A104\; OG 2.2.7\; (Onderwijsgroep)\; Voor groep: C
+UID:1848209_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171124T110000Z
+DTEND:20171124T130000Z
+SEQUENCE:645794
+SUMMARY:2.2\; A105\; OG 2.2.7\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw MEU
+ LEMANS Iris\; A105\; OG 2.2.7\; (Onderwijsgroep)\; Voor groep: D
+UID:1848224_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171124T130000Z
+DTEND:20171124T150000Z
+SEQUENCE:645790
+SUMMARY:2.2\; B5\; HC 2.2.12\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. V
+ ANDENABEELE Frank\; B5\; HC 2.2.12\; (Hoorcollege)\; Voor: Alle g
+ roepen
+UID:1848206_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T080000Z
+DTEND:20171127T090000Z
+SEQUENCE:0
+SUMMARY:SB2.1\; OG-Aud1\; HC 8\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; Prof. dr. MEESEN Raf\
+ ; OG-Aud1\; HC 8\; (Hoorcollege)\; Voor: Alle groepen
+UID:1845623_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T090000Z
+DTEND:20171127T100000Z
+SEQUENCE:0
+SUMMARY:SB2.1\; OG-Aud1\; HC 9\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; dr. CALSIUS Joeri\; O
+ G-Aud1\; HC 9\; (Hoorcollege)\; Voor: Alle groepen
+UID:1845629_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T103000Z
+DTEND:20171127T140000Z
+SEQUENCE:646015
+SUMMARY:SB2.1\; FR-0.03\,FR-0.04\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; FR-0.03\,FR-0.04\; (P
+ racticum)\; Voor groepen: A\, B
+UID:1845632_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T103000Z
+DTEND:20171127T140000Z
+SEQUENCE:0
+SUMMARY:SB2.1\; FR-0.05\,FR-0.06\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; FR-0.05\,FR-0.06\; (P
+ racticum)\; Voor groepen: C\, D
+UID:1845638_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T103000Z
+DTEND:20171127T140000Z
+SEQUENCE:0
+SUMMARY:SB2.1\; FR-0.13\,FR-0.14\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; FR-0.13\,FR-0.14\; (P
+ racticum)\; Voor groepen: E\, F
+UID:1845641_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T150000Z
+DTEND:20171127T163000Z
+SEQUENCE:644065
+SUMMARY:SB2.1\; OG-Aud1\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; OG-Aud1\; (Responsiec
+ ollege)\; Voor: Alle groepen
+UID:1845866_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171128T080000Z
+DTEND:20171128T100000Z
+SEQUENCE:0
+SUMMARY:2.2\; OG-Aud1\; HC 2.2.13\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VAN ERU
+ M Monique\; OG-Aud1\; HC 2.2.13\; (Hoorcollege)\; Voor: Alle groe
+ pen
+UID:1848233_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171128T100000Z
+DTEND:20171128T120000Z
+SEQUENCE:645632
+SUMMARY:2.2\; FR-1.03\; OG 2.2.8\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VAN ERU
+ M Monique\; FR-1.03\; OG 2.2.8\; (Onderwijsgroep)\; Voor groep: A
+UID:1848239_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171128T100000Z
+DTEND:20171128T120000Z
+SEQUENCE:647500
+SUMMARY:2.2\; FR-1.06\; OG 2.2.8\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw VAN
+  RYCKEGHEM Lisa\; FR-1.06\; OG 2.2.8\; (Onderwijsgroep)\; Voor gr
+ oep: E
+UID:1848245_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171128T100000Z
+DTEND:20171128T120000Z
+SEQUENCE:647501
+SUMMARY:2.2\; FR-1.07\; OG 2.2.8\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; De heer KEY
+ TSMAN Charly\; FR-1.07\; OG 2.2.8\; (Onderwijsgroep)\; Voor groep
+ : F
+UID:1848248_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171128T100000Z
+DTEND:20171128T120000Z
+SEQUENCE:647113
+SUMMARY:2.2\; C112\; OG 2.2.8\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw MEU
+ LEMANS Iris\; C112\; OG 2.2.8\; (Onderwijsgroep)\; Voor groep: B
+UID:1848254_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171128T120000Z
+DTEND:20171128T140000Z
+SEQUENCE:646473
+SUMMARY:2.2\; A6\; OG 2.2.8\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw MEU
+ LEMANS Iris\; A6\; OG 2.2.8\; (Onderwijsgroep)\; Voor groep: D
+UID:1848242_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171128T120000Z
+DTEND:20171128T140000Z
+SEQUENCE:0
+SUMMARY:2.2\; FR-1.03\; OG 2.2.8\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VAN ERU
+ M Monique\; FR-1.03\; OG 2.2.8\; (Onderwijsgroep)\; Voor groep: C
+UID:1848251_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171128T140000Z
+DTEND:20171128T160000Z
+SEQUENCE:0
+SUMMARY:2.2\; OG-Aud1\; HC 2.2.13\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. H
+ ANSEN Dominique\; OG-Aud1\; HC 2.2.13\; (Hoorcollege)\; Voor: All
+ e groepen
+UID:1848236_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171129T080000Z
+DTEND:20171129T093000Z
+SEQUENCE:0
+SUMMARY:2.2\; PR 2.2.10b FTILINK\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. O
+ P 'T EIJNDE Bert\, dr. HUTS Kristof\; PR 2.2.10b FTILINK\; (Pract
+ icum)\; Voor groepen: A\, B
+UID:1848257_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171129T080000Z
+DTEND:20171129T093000Z
+SEQUENCE:647507
+SUMMARY:2.2\; G63\; PR 2.2.3\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. V
+ ANDENABEELE Frank\; G63\; PR 2.2.3\; (Practicum)\; Voor groepen: 
+ E\, F
+UID:1848275_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171129T093000Z
+DTEND:20171129T110000Z
+SEQUENCE:0
+SUMMARY:2.2\; PR 2.2.10b FTILINK\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. O
+ P 'T EIJNDE Bert\, dr. HUTS Kristof\; PR 2.2.10b FTILINK\; (Pract
+ icum)\; Voor groepen: C\, D
+UID:1848260_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171129T093000Z
+DTEND:20171129T110000Z
+SEQUENCE:0
+SUMMARY:2.2\; B105a\; PR 2.2.7\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw MEU
+ LEMANS Iris\; B105a\; PR 2.2.7\; (Practicum)\; Voor groepen: A\, 
+ B
+UID:1848266_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171129T113000Z
+DTEND:20171129T130000Z
+SEQUENCE:0
+SUMMARY:2.2\; PR 2.2.10b FTILINK\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. O
+ P 'T EIJNDE Bert\, dr. HUTS Kristof\; PR 2.2.10b FTILINK\; (Pract
+ icum)\; Voor groepen: E\, F
+UID:1848263_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171129T113000Z
+DTEND:20171129T130000Z
+SEQUENCE:0
+SUMMARY:2.2\; B105a\; PR 2.2.7\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw MEU
+ LEMANS Iris\; B105a\; PR 2.2.7\; (Practicum)\; Voor groepen: C\, 
+ D
+UID:1848269_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171129T113000Z
+DTEND:20171129T130000Z
+SEQUENCE:647503
+SUMMARY:2.2\; G63\; PR 2.2.3\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. V
+ ANDENABEELE Frank\; G63\; PR 2.2.3\; (Practicum)\; Voor groepen: 
+ A\, B
+UID:1848515_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171129T130000Z
+DTEND:20171129T143000Z
+SEQUENCE:647831
+SUMMARY:2.2\; B105a\; PR 2.2.7\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw MEU
+ LEMANS Iris\; B105a\; PR 2.2.7\; (Practicum)\; Voor groepen: E\, 
+ F
+UID:1848272_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171129T130000Z
+DTEND:20171129T143000Z
+SEQUENCE:647504
+SUMMARY:2.2\; G63\; PR 2.2.3\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. V
+ ANDENABEELE Frank\; G63\; PR 2.2.3\; (Practicum)\; Voor groepen: 
+ C\, D
+UID:1848278_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171129T150000Z
+DTEND:20171129T170000Z
+SEQUENCE:651440
+SUMMARY:2.2\; H2\; HC 2.2.11\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. H
+ ANSEN Dominique\; H2\; HC 2.2.11\; (Hoorcollege)\; Voor: Alle gro
+ epen
+UID:1848203_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171201T080000Z
+DTEND:20171201T093000Z
+SEQUENCE:645647
+SUMMARY:2.2\; OG-Aud1\; HC 2.2.15\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. O
+ P 'T EIJNDE Bert\; OG-Aud1\; HC 2.2.15\; (Hoorcollege)\; Voor: Al
+ le groepen
+UID:1848284_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171201T093000Z
+DTEND:20171201T110000Z
+SEQUENCE:0
+SUMMARY:2.2\; OG-Aud1\; HC 2.2.16\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. H
+ ANSEN Dominique\; OG-Aud1\; HC 2.2.16\; (Hoorcollege)\; Voor: All
+ e groepen
+UID:1848287_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171201T113000Z
+DTEND:20171201T133000Z
+SEQUENCE:652300
+SUMMARY:2.2\; FR-2.02\; OG 2.2.9\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VAN ERU
+ M Monique\; FR-2.02\; OG 2.2.9\; (Onderwijsgroep)\; Voor groep: A
+UID:1848290_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171201T113000Z
+DTEND:20171201T133000Z
+SEQUENCE:652302
+SUMMARY:2.2\; FR-1.01\; OG 2.2.9\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw MEU
+ LEMANS Iris\; FR-1.01\; OG 2.2.9\; (Onderwijsgroep)\; Voor groep:
+  B
+UID:1848299_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171201T113000Z
+DTEND:20171201T133000Z
+SEQUENCE:652304
+SUMMARY:2.2\; FR-1.02\; OG 2.2.9\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw VAN
+  RYCKEGHEM Lisa\; FR-1.02\; OG 2.2.9\; (Onderwijsgroep)\; Voor gr
+ oep: E
+UID:1848302_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171201T113000Z
+DTEND:20171201T133000Z
+SEQUENCE:652305
+SUMMARY:2.2\; FR-1.05\; OG 2.2.9\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; De heer KEY
+ TSMAN Charly\; FR-1.05\; OG 2.2.9\; (Onderwijsgroep)\; Voor groep
+ : F
+UID:1848305_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171201T133000Z
+DTEND:20171201T153000Z
+SEQUENCE:652301
+SUMMARY:2.2\; FR-2.02\; OG 2.2.9\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VAN ERU
+ M Monique\; FR-2.02\; OG 2.2.9\; (Onderwijsgroep)\; Voor groep: C
+UID:1848293_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171201T133000Z
+DTEND:20171201T153000Z
+SEQUENCE:652303
+SUMMARY:2.2\; FR-1.01\; OG 2.2.9\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw MEU
+ LEMANS Iris\; FR-1.01\; OG 2.2.9\; (Onderwijsgroep)\; Voor groep:
+  D
+UID:1848296_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171201T153000Z
+DTEND:20171201T170000Z
+SEQUENCE:652299
+SUMMARY:2.2\; OG-Aud2\; HC 2.2.5c\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. D
+ ENDALE Paul\, Mevrouw FREDERIX Ines\; OG-Aud2\; HC 2.2.5c\; (Hoor
+ college)\; Voor: Alle groepen
+UID:1848161_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T070000Z
+DTEND:20171204T170000Z
+SEQUENCE:646024
+SUMMARY:SB2.1\; FR-0.04\; Rapportage Groepsopdr.\; (Practicum)\; Voor: Al
+ le groepen
+DESCRIPTION:Wetenschappelijke vorming (deel 2) (2458)\; dr. BRAEKEN Marijke\;
+  FR-0.04\; Rapportage Groepsopdr.\; (Practicum)\; Voor: Alle groe
+ pen
+UID:1848857_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171206T070000Z
+DTEND:20171206T090000Z
+SEQUENCE:647515
+SUMMARY:2.2\; A7\; PR 2.2.8\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. H
+ ANSEN Dominique\; A7\; PR 2.2.8\; (Practicum)\; Voor groepen: E\,
+  F
+UID:1848308_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171206T090000Z
+DTEND:20171206T110000Z
+SEQUENCE:654240
+SUMMARY:2.2\; A105\; OG 2.2.10\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VAN ERU
+ M Monique\; A105\; OG 2.2.10\; (Onderwijsgroep)\; Voor groep: C
+UID:1848326_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171206T090000Z
+DTEND:20171206T110000Z
+SEQUENCE:645906
+SUMMARY:2.2\; C1\; OG 2.2.10\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw MEU
+ LEMANS Iris\; C1\; OG 2.2.10\; (Onderwijsgroep)\; Voor groep: D
+UID:1848329_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171206T090000Z
+DTEND:20171206T110000Z
+SEQUENCE:647518
+SUMMARY:2.2\; C112\; PR 2.2.8\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. H
+ ANSEN Dominique\; C112\; PR 2.2.8\; (Practicum)\; Voor groepen: A
+ \, B
+UID:1849964_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171206T093000Z
+DTEND:20171206T110000Z
+SEQUENCE:646717
+SUMMARY:2.2\; PR 2.2.11 FITLINK\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. O
+ P 'T EIJNDE Bert\, dr. HUTS Kristof\; PR 2.2.11 FITLINK\; (Practi
+ cum)\; Voor groepen: E\, F
+UID:1848311_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171206T110000Z
+DTEND:20171206T130000Z
+SEQUENCE:654241
+SUMMARY:2.2\; B101\; OG 2.2.10\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VAN ERU
+ M Monique\; B101\; OG 2.2.10\; (Onderwijsgroep)\; Voor groep: A
+UID:1848332_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171206T110000Z
+DTEND:20171206T130000Z
+SEQUENCE:646709
+SUMMARY:2.2\; A102\; OG 2.2.10\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw MEU
+ LEMANS Iris\; A102\; OG 2.2.10\; (Onderwijsgroep)\; Voor groep: B
+UID:1848335_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171206T113000Z
+DTEND:20171206T130000Z
+SEQUENCE:646712
+SUMMARY:2.2\; PR 2.2.11 FITLINK\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. O
+ P 'T EIJNDE Bert\, dr. HUTS Kristof\; PR 2.2.11 FITLINK\; (Practi
+ cum)\; Voor groepen: C\, D
+UID:1848314_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171206T113000Z
+DTEND:20171206T133000Z
+SEQUENCE:653816
+SUMMARY:2.2\; B5\; OG 2.2.10\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw VAN
+  RYCKEGHEM Lisa\; B5\; OG 2.2.10\; (Onderwijsgroep)\; Voor groep:
+  E
+UID:1848338_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171206T113000Z
+DTEND:20171206T133000Z
+SEQUENCE:653815
+SUMMARY:2.2\; B103\; OG 2.2.10\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; De heer KEY
+ TSMAN Charly\; B103\; OG 2.2.10\; (Onderwijsgroep)\; Voor groep: 
+ F
+UID:1848341_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171206T130000Z
+DTEND:20171206T143000Z
+SEQUENCE:646715
+SUMMARY:2.2\; PR 2.2.11 FITLINK\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. O
+ P 'T EIJNDE Bert\, dr. HUTS Kristof\; PR 2.2.11 FITLINK\; (Practi
+ cum)\; Voor groepen: A\, B
+UID:1848317_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171206T133000Z
+DTEND:20171206T153000Z
+SEQUENCE:646731
+SUMMARY:2.2\; C110\; PR 2.2.8\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. H
+ ANSEN Dominique\; C110\; PR 2.2.8\; (Practicum)\; Voor groepen: C
+ \, D
+UID:1848320_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171206T160000Z
+DTEND:20171206T170000Z
+SEQUENCE:652999
+SUMMARY:KE\; A101\; Getuigenis Patiënt\; (Hoorcollege)\; Voor: Alle groep
+ en
+DESCRIPTION:Klinische exploratie (3074)\; Mevrouw MEULEMANS Iris\; A101\; Get
+ uigenis Patiënt\; (Hoorcollege)\; Voor: Alle groepen
+UID:1866758_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T070000Z
+DTEND:20171207T083000Z
+SEQUENCE:646067
+SUMMARY:2.2\; B105b\; PR 2.2.9 Daenen Marc\; (Practicum)\; Voor groepen: 
+ A\, B
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; B105b\; PR 
+ 2.2.9 Daenen Marc\; (Practicum)\; Voor groepen: A\, B
+UID:1848344_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T070000Z
+DTEND:20171207T100000Z
+SEQUENCE:645934
+SUMMARY:2.2\; A107\; OG 2.2.11\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VAN ERU
+ M Monique\; A107\; OG 2.2.11\; (Onderwijsgroep)\; Voor groep: C
+UID:1848362_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T070000Z
+DTEND:20171207T100000Z
+SEQUENCE:645935
+SUMMARY:2.2\; B104\; OG 2.2.11\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw MEU
+ LEMANS Iris\; B104\; OG 2.2.11\; (Onderwijsgroep)\; Voor groep: D
+UID:1848368_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T070000Z
+DTEND:20171207T100000Z
+SEQUENCE:647538
+SUMMARY:2.2\; B102\; OG 2.2.11\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw VAN
+  RYCKEGHEM Lisa\; B102\; OG 2.2.11\; (Onderwijsgroep)\; Voor groe
+ p: E
+UID:1848374_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T070000Z
+DTEND:20171207T100000Z
+SEQUENCE:647539
+SUMMARY:2.2\; A105\; OG 2.2.11\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; De heer KEY
+ TSMAN Charly\; A105\; OG 2.2.11\; (Onderwijsgroep)\; Voor groep: 
+ F
+UID:1848377_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T100000Z
+DTEND:20171207T130000Z
+SEQUENCE:645662
+SUMMARY:2.2\; H1\; OG 2.2.11\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; dr. VAN ERU
+ M Monique\; H1\; OG 2.2.11\; (Onderwijsgroep)\; Voor groep: A
+UID:1848359_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T100000Z
+DTEND:20171207T130000Z
+SEQUENCE:0
+SUMMARY:2.2\; H3\; OG 2.2.11\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Mevrouw MEU
+ LEMANS Iris\; H3\; OG 2.2.11\; (Onderwijsgroep)\; Voor groep: B
+UID:1848371_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T103000Z
+DTEND:20171207T120000Z
+SEQUENCE:647541
+SUMMARY:2.2\; B105b\; PR 2.2.9 Daenen Marc\; (Practicum)\; Voor groepen: 
+ C\, D
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; B105b\; PR 
+ 2.2.9 Daenen Marc\; (Practicum)\; Voor groepen: C\, D
+UID:1848350_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T120000Z
+DTEND:20171207T133000Z
+SEQUENCE:0
+SUMMARY:2.2\; B105b\; PR 2.2.9 Daenen Marc\; (Practicum)\; Voor groepen: 
+ E\, F
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; B105b\; PR 
+ 2.2.9 Daenen Marc\; (Practicum)\; Voor groepen: E\, F
+UID:1848353_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T133000Z
+DTEND:20171207T150000Z
+SEQUENCE:647543
+SUMMARY:2.2\; A102\; PR 2.2.12\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Cardiorespiratoire en inwendige aandoeningen (3073)\; Prof. dr. O
+ P 'T EIJNDE Bert\; A102\; PR 2.2.12\; (Hoorcollege)\; Voor: Alle 
+ groepen
+UID:1848380_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T120000Z
+DTEND:20171218T130000Z
+SEQUENCE:0
+SUMMARY:DBD\; A102\; HC 1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw SWERTS Marga\;
+  A102\; HC 1\; (Hoorcollege)\; Voor: Alle groepen
+UID:1859183_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T130000Z
+DTEND:20171218T131500Z
+SEQUENCE:651237
+SUMMARY:DBD\; A102\; PR 1 opdracht en groepsind\; (Hoorcollege)\; Voor: A
+ lle groepen
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw SWERTS Marga\,
+  Mevrouw NIJS Isa\, Mevrouw MEULEMANS Iris\, Mevrouw DE WIT Katle
+ en\; A102\; PR 1 opdracht en groepsind\; (Hoorcollege)\; Voor: Al
+ le groepen
+UID:1859186_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T133000Z
+DTEND:20171218T150000Z
+SEQUENCE:651238
+SUMMARY:DBD\; PR 2 FTLINK\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw NIJS Isa\; PR 
+ 2 FTLINK\; (Practicum)\; Voor groepen: A\, B
+UID:1859189_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T133000Z
+DTEND:20171218T150000Z
+SEQUENCE:0
+SUMMARY:DBD\; PR 2 FTLINK\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw MEULEMANS Iris
+ \; PR 2 FTLINK\; (Practicum)\; Voor groepen: E\, F
+UID:1859192_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T150000Z
+DTEND:20171218T163000Z
+SEQUENCE:0
+SUMMARY:DBD\; PR 2 FTLINK\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw SWERTS Marga\;
+  PR 2 FTLINK\; (Practicum)\; Voor groepen: C\, D
+UID:1859195_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171219T080000Z
+DTEND:20171219T110000Z
+SEQUENCE:651911
+SUMMARY:2.3\; B5\; Blokopening\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; B5\; Blokopening\
+ ; (Hoorcollege)\; Voor: Alle groepen
+UID:1859615_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210516Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171219T120000Z
+DTEND:20171219T140000Z
+SEQUENCE:651908
+SUMMARY:2.3\; C104\; OG 1\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Psychopathologie (2959)\; dr. CALSIUS Joeri\; C104\; OG 1\; (Onde
+ rwijsgroep)\; Voor groep: A
+UID:1859618_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171219T120000Z
+DTEND:20171219T140000Z
+SEQUENCE:651909
+SUMMARY:2.3\; B104\; OG 1\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; B104\; OG 1\; (On
+ derwijsgroep)\; Voor groep: C
+UID:1859630_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171219T140000Z
+DTEND:20171219T160000Z
+SEQUENCE:651907
+SUMMARY:2.3\; C104\; OG 1\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Psychopathologie (2959)\; dr. CALSIUS Joeri\; C104\; OG 1\; (Onde
+ rwijsgroep)\; Voor groep: B
+UID:1859624_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171219T140000Z
+DTEND:20171219T160000Z
+SEQUENCE:651910
+SUMMARY:2.3\; B104\; OG 1\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; B104\; OG 1\; (On
+ derwijsgroep)\; Voor groep: D
+UID:1859627_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171220T070000Z
+DTEND:20171220T090000Z
+SEQUENCE:655004
+SUMMARY:2.3\; C3\; OG 1 Lyskawa\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Psychopathologie (2959)\; C3\; OG 1 Lyskawa\; (Onderwijsgroep)\; 
+ Voor groep: E
+UID:1859654_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171220T090000Z
+DTEND:20171220T110000Z
+SEQUENCE:655005
+SUMMARY:2.3\; C3\; OG 1 Lyskawa\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Psychopathologie (2959)\; C3\; OG 1 Lyskawa\; (Onderwijsgroep)\; 
+ Voor groep: F
+UID:1859657_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171220T133000Z
+DTEND:20171220T150000Z
+SEQUENCE:654678
+SUMMARY:KE\; H2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Klinische exploratie (3074)\; dr. SPILDOOREN Joke\; H2\; (Hoorcol
+ lege)\; Voor: Alle groepen
+UID:1871429_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171221T070000Z
+DTEND:20171221T090000Z
+SEQUENCE:652011
+SUMMARY:2.3\; B101\; OG 2\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; B101\; OG 2\; (On
+ derwijsgroep)\; Voor groep: C
+UID:1859669_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171221T080000Z
+DTEND:20171221T100000Z
+SEQUENCE:651906
+SUMMARY:2.3\; B102\; OG 2\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Psychopathologie (2959)\; dr. CALSIUS Joeri\; B102\; OG 2\; (Onde
+ rwijsgroep)\; Voor groep: A
+UID:1859660_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171221T090000Z
+DTEND:20171221T110000Z
+SEQUENCE:652012
+SUMMARY:2.3\; B101\; OG 2\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; B101\; OG 2\; (On
+ derwijsgroep)\; Voor groep: D
+UID:1859666_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171221T100000Z
+DTEND:20171221T120000Z
+SEQUENCE:651905
+SUMMARY:2.3\; B102\; OG 2\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Psychopathologie (2959)\; dr. CALSIUS Joeri\; B102\; OG 2\; (Onde
+ rwijsgroep)\; Voor groep: B
+UID:1859663_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171221T120000Z
+DTEND:20171221T140000Z
+SEQUENCE:0
+SUMMARY:2.3\; C110\; OG 2 Lyskawa\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Psychopathologie (2959)\; C110\; OG 2 Lyskawa\; (Onderwijsgroep)\
+ ; Voor groep: E
+UID:1859678_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171221T140000Z
+DTEND:20171221T160000Z
+SEQUENCE:0
+SUMMARY:2.3\; C110\; OG 2 Lyskawa\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Psychopathologie (2959)\; C110\; OG 2 Lyskawa\; (Onderwijsgroep)\
+ ; Voor groep: F
+UID:1859681_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171221T160000Z
+DTEND:20171221T180000Z
+SEQUENCE:654908
+SUMMARY:2.3\; FTLINK\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Psychopathologie (2959)\; De heer REYNAERTS David\; FTLINK\; (Pra
+ cticum)\; Voor groepen: E\, F
+UID:1869143_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180108T073000Z
+DTEND:20180108T090000Z
+SEQUENCE:651239
+SUMMARY:DBD\; PR 3 FITLINK\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw NIJS Isa\; PR 
+ 3 FITLINK\; (Practicum)\; Voor groepen: A\, B
+UID:1859201_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180108T073000Z
+DTEND:20180108T093000Z
+SEQUENCE:655006
+SUMMARY:2.3\; A103\; OG 3 Lyskawa\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Psychopathologie (2959)\; A103\; OG 3 Lyskawa\; (Onderwijsgroep)\
+ ; Voor groep: E
+UID:1862417_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180108T110000Z
+DTEND:20180108T123000Z
+SEQUENCE:651441
+SUMMARY:DBD\; PR 4 FITLINK\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw MEULEMANS Iris
+ \; PR 4 FITLINK\; (Practicum)\; Voor groepen: E\, F
+UID:1859198_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180108T123000Z
+DTEND:20180108T140000Z
+SEQUENCE:651442
+SUMMARY:DBD\; PR 4 FITLINK\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw SWERTS Marga\;
+  PR 4 FITLINK\; (Practicum)\; Voor groepen: C\, D
+UID:1859204_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180108T140000Z
+DTEND:20180108T153000Z
+SEQUENCE:0
+SUMMARY:DBD\; PR 5 FITLINK\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw DE WIT Katleen
+ \; PR 5 FITLINK\; (Practicum)\; Voor groepen: C\, D
+UID:1859207_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180108T153000Z
+DTEND:20180108T170000Z
+SEQUENCE:651443
+SUMMARY:DBD\; PR 5 FITLINK\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw DE WIT Katleen
+ \; PR 5 FITLINK\; (Practicum)\; Voor groepen: E\, F
+UID:1859210_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180109T103000Z
+DTEND:20180109T110000Z
+SEQUENCE:654680
+SUMMARY:2.3\; H5\; CPO\; Voor: Alle groepen
+DESCRIPTION:Psychopathologie (2959)\; dr. NEERINCKX Eddy\; H5\; CPO\; Voor: A
+ lle groepen
+UID:1862441_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180109T110000Z
+DTEND:20180109T130000Z
+SEQUENCE:0
+SUMMARY:2.3\; H5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Psychopathologie (2959)\; dr. NEERINCKX Eddy\; H5\; (Hoorcollege)
+ \; Voor: Alle groepen
+UID:1862414_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180109T130000Z
+DTEND:20180109T150000Z
+SEQUENCE:652055
+SUMMARY:2.3\; B5\; OG 3\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Psychopathologie (2959)\; dr. CALSIUS Joeri\; B5\; OG 3\; (Onderw
+ ijsgroep)\; Voor groep: A
+UID:1862423_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180109T130000Z
+DTEND:20180109T150000Z
+SEQUENCE:657196
+SUMMARY:2.3\; A108\; OG 2\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; A108\; OG 2\; (On
+ derwijsgroep)\; Voor groep: C
+UID:1862429_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180109T150000Z
+DTEND:20180109T170000Z
+SEQUENCE:0
+SUMMARY:2.3\; B5\; OG 3\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Psychopathologie (2959)\; dr. CALSIUS Joeri\; B5\; OG 3\; (Onderw
+ ijsgroep)\; Voor groep: B
+UID:1862426_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180109T150000Z
+DTEND:20180109T170000Z
+SEQUENCE:657197
+SUMMARY:2.3\; A108\; OG 2\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; A108\; OG 2\; (On
+ derwijsgroep)\; Voor groep: D
+UID:1862432_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180110T073000Z
+DTEND:20180110T090000Z
+SEQUENCE:0
+SUMMARY:DBD\; PR 6 SPORTHAL KURINGEN\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw SWERTS Marga\;
+  PR 6 SPORTHAL KURINGEN\; (Practicum)\; Voor groepen: E\, F
+UID:1859213_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180110T080000Z
+DTEND:20180110T100000Z
+SEQUENCE:657200
+SUMMARY:2.3\; A107\; OG 3\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; A107\; OG 3\; (On
+ derwijsgroep)\; Voor groep: C
+UID:1878731_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180110T083000Z
+DTEND:20180110T100000Z
+SEQUENCE:656046
+SUMMARY:DBD\; PR 7 KERMT KERMETA\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw NIJS Isa\; PR 
+ 7 KERMT KERMETA\; (Practicum)\; Voor groepen: A\, B
+UID:1859216_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180110T093000Z
+DTEND:20180110T113000Z
+SEQUENCE:656045
+SUMMARY:2.3\; A106\; lyskawa\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Psychopathologie (2959)\; A106\; lyskawa\; (Onderwijsgroep)\; Voo
+ r groep: E
+UID:1862516_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180110T100000Z
+DTEND:20180110T120000Z
+SEQUENCE:657202
+SUMMARY:2.3\; B102\; OG 3\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; B102\; OG 3\; (On
+ derwijsgroep)\; Voor groep: D
+UID:1878734_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180111T070000Z
+DTEND:20180111T090000Z
+SEQUENCE:652075
+SUMMARY:2.3\; A105\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Psychopathologie (2959)\; dr. CALSIUS Joeri\; A105\; (Onderwijsgr
+ oep)\; Voor groep: A
+UID:1862465_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180111T070000Z
+DTEND:20180111T090000Z
+SEQUENCE:0
+SUMMARY:2.3\; C109\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; C109\; (Onderwijs
+ groep)\; Voor groep: C
+UID:1862504_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180111T090000Z
+DTEND:20180111T110000Z
+SEQUENCE:652073
+SUMMARY:2.3\; C104\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Psychopathologie (2959)\; dr. CALSIUS Joeri\; C104\; (Onderwijsgr
+ oep)\; Voor groep: B
+UID:1862462_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180111T090000Z
+DTEND:20180111T110000Z
+SEQUENCE:652079
+SUMMARY:2.3\; C109\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; C109\; (Onderwijs
+ groep)\; Voor groep: D
+UID:1862510_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180111T120000Z
+DTEND:20180111T140000Z
+SEQUENCE:652144
+SUMMARY:2.3\; A106\; Lyskawa\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Psychopathologie (2959)\; A106\; Lyskawa\; (Onderwijsgroep)\; Voo
+ r groep: F
+UID:1862519_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180111T120000Z
+DTEND:20180111T140000Z
+SEQUENCE:654909
+SUMMARY:2.3\; FITLINK\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Psychopathologie (2959)\; De heer REYNAERTS David\; FITLINK\; (Pr
+ acticum)\; Voor groepen: A\, B
+UID:1869146_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180111T143000Z
+DTEND:20180111T163000Z
+SEQUENCE:655007
+SUMMARY:2.3\; A106\; OG 3 Lyskawa\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Psychopathologie (2959)\; A106\; OG 3 Lyskawa\; (Onderwijsgroep)\
+ ; Voor groep: F
+UID:1862420_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180111T170000Z
+DTEND:20180111T190000Z
+SEQUENCE:654075
+SUMMARY:Lezing Leerstoel Dr. J. Knapen:\; Prof. dr. Kathleen Bogaerts\; 2
+ 0u00 tot 22u00\; H6\; Voor: Alle groepen
+UID:1856456_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180115T073000Z
+DTEND:20180115T090000Z
+SEQUENCE:651241
+SUMMARY:DBD\; PR 3 FITLINK\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw SWERTS Marga\;
+  PR 3 FITLINK\; (Practicum)\; Voor groepen: C\, D
+UID:1859219_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180115T090000Z
+DTEND:20180115T103000Z
+SEQUENCE:651319
+SUMMARY:DBD\; PR 3 FITLINK\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw MEULEMANS Iris
+ \; PR 3 FITLINK\; (Practicum)\; Voor groepen: E\, F
+UID:1859222_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180115T100000Z
+DTEND:20180115T120000Z
+SEQUENCE:658754
+SUMMARY:2.3\; H4\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; H4\; (Onderwijsgr
+ oep)\; Voor groep: C
+UID:1862618_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180115T123000Z
+DTEND:20180115T140000Z
+SEQUENCE:651447
+SUMMARY:DBD\; PR 4 FITLINK\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw NIJS Isa\; PR 
+ 4 FITLINK\; (Practicum)\; Voor groepen: A\, B
+UID:1859225_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180115T140000Z
+DTEND:20180115T153000Z
+SEQUENCE:651445
+SUMMARY:DBD\; PR 5 FITLINK\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw MEULEMANS Iris
+ \; PR 5 FITLINK\; (Practicum)\; Voor groepen: E\, F
+UID:1859228_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180116T070000Z
+DTEND:20180116T090000Z
+SEQUENCE:652119
+SUMMARY:2.3\; A3\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Psychopathologie (2959)\; dr. CALSIUS Joeri\; A3\; (Onderwijsgroe
+ p)\; Voor groep: A
+UID:1862546_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180116T090000Z
+DTEND:20180116T110000Z
+SEQUENCE:0
+SUMMARY:2.3\; A3\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Psychopathologie (2959)\; dr. CALSIUS Joeri\; A3\; (Onderwijsgroe
+ p)\; Voor groep: B
+UID:1862549_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180116T090000Z
+DTEND:20180116T110000Z
+SEQUENCE:658755
+SUMMARY:2.3\; B103\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; B103\; (Onderwijs
+ groep)\; Voor groep: D
+UID:1862621_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180116T133000Z
+DTEND:20180116T153000Z
+SEQUENCE:654910
+SUMMARY:2.3\; B106a\; FTILINK\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Psychopathologie (2959)\; De heer REYNAERTS David\; B106a\; FTILI
+ NK\; (Practicum)\; Voor groepen: C\, D
+UID:1869152_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180117T070000Z
+DTEND:20180117T090000Z
+SEQUENCE:652131
+SUMMARY:2.3\; A5\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; A5\; (Onderwijsgr
+ oep)\; Voor groep: C
+UID:1862558_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180117T070000Z
+DTEND:20180117T090000Z
+SEQUENCE:652122
+SUMMARY:2.3\; A106\; Lyskwa\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Psychopathologie (2959)\; A106\; Lyskwa\; (Onderwijsgroep)\; Voor
+  groep: E
+UID:1862567_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180117T090000Z
+DTEND:20180117T110000Z
+SEQUENCE:0
+SUMMARY:2.3\; A5\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; A5\; (Onderwijsgr
+ oep)\; Voor groep: D
+UID:1862561_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180117T090000Z
+DTEND:20180117T110000Z
+SEQUENCE:0
+SUMMARY:2.3\; A106\; Lyskwa\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Psychopathologie (2959)\; A106\; Lyskwa\; (Onderwijsgroep)\; Voor
+  groep: F
+UID:1862570_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180117T110000Z
+DTEND:20180117T130000Z
+SEQUENCE:0
+SUMMARY:Inzage examens WV2\; C110\; Voor: Alle groepen
+DESCRIPTION: ()\; dr. VAN ERUM Monique\; C110\; Voor: Alle groepen
+UID:1886030_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180117T140000Z
+DTEND:20180117T160000Z
+SEQUENCE:658752
+SUMMARY:2.3\; B4\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; B4\; (Hoorcollege
+ )\; Voor: Alle groepen
+UID:1878728_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180117T160000Z
+DTEND:20180117T173000Z
+SEQUENCE:659034
+SUMMARY:2.3\; B4\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Psychopathologie (2959)\; dr. NEERINCKX Eddy\; B4\; (Hoorcollege)
+ \; Voor: Alle groepen
+UID:1862540_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180118T070000Z
+DTEND:20180118T090000Z
+SEQUENCE:0
+SUMMARY:2.3\; C110\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Psychopathologie (2959)\; dr. CALSIUS Joeri\; C110\; (Onderwijsgr
+ oep)\; Voor groep: A
+UID:1862555_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180118T073000Z
+DTEND:20180118T090000Z
+SEQUENCE:0
+SUMMARY:DBD\; PR 6 SPORTHAL KURINGEN\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw SWERTS Marga\;
+  PR 6 SPORTHAL KURINGEN\; (Practicum)\; Voor groepen: C\, D
+UID:1859234_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180118T090000Z
+DTEND:20180118T110000Z
+SEQUENCE:652133
+SUMMARY:2.3\; C110\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Psychopathologie (2959)\; dr. CALSIUS Joeri\; C110\; (Onderwijsgr
+ oep)\; Voor groep: B
+UID:1862552_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180118T120000Z
+DTEND:20180118T140000Z
+SEQUENCE:0
+SUMMARY:2.3\; C110\; Lyskawa\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Psychopathologie (2959)\; C110\; Lyskawa\; (Onderwijsgroep)\; Voo
+ r groep: E
+UID:1862627_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180118T140000Z
+DTEND:20180118T160000Z
+SEQUENCE:0
+SUMMARY:2.3\; C110\; Lyskawa\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Psychopathologie (2959)\; C110\; Lyskawa\; (Onderwijsgroep)\; Voo
+ r groep: F
+UID:1862630_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180118T160000Z
+DTEND:20180118T173000Z
+SEQUENCE:0
+SUMMARY:KE\; A101\; Voor: Alle groepen
+DESCRIPTION:Klinische exploratie (3074)\; De heer REYNAERTS David\; A101\; Vo
+ or: Alle groepen
+UID:1877003_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180122T073000Z
+DTEND:20180122T093000Z
+SEQUENCE:655003
+SUMMARY:2.3\; A103\; Lyskawa\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Psychopathologie (2959)\; A103\; Lyskawa\; (Onderwijsgroep)\; Voo
+ r groep: E
+UID:1862729_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180122T090000Z
+DTEND:20180122T103000Z
+SEQUENCE:651324
+SUMMARY:DBD\; PR 9 FITLINK\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw NIJS Isa\; PR 
+ 9 FITLINK\; (Practicum)\; Voor groepen: A\, B
+UID:1859237_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180122T123000Z
+DTEND:20180122T140000Z
+SEQUENCE:0
+SUMMARY:DBD\; PR 9 FITLINK\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw NIJS Isa\; PR 
+ 9 FITLINK\; (Practicum)\; Voor groepen: C\, D
+UID:1859240_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180123T070000Z
+DTEND:20180123T090000Z
+SEQUENCE:652175
+SUMMARY:2.3\; A103\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Psychopathologie (2959)\; dr. CALSIUS Joeri\; A103\; (Onderwijsgr
+ oep)\; Voor groep: A
+UID:1862702_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180123T070000Z
+DTEND:20180123T090000Z
+SEQUENCE:0
+SUMMARY:2.3\; A104\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; A104\; (Onderwijs
+ groep)\; Voor groep: C
+UID:1862714_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180123T090000Z
+DTEND:20180123T110000Z
+SEQUENCE:0
+SUMMARY:2.3\; A103\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Psychopathologie (2959)\; dr. CALSIUS Joeri\; A103\; (Onderwijsgr
+ oep)\; Voor groep: B
+UID:1862705_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180123T090000Z
+DTEND:20180123T110000Z
+SEQUENCE:0
+SUMMARY:2.3\; A104\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; A104\; (Onderwijs
+ groep)\; Voor groep: D
+UID:1862717_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180123T113000Z
+DTEND:20180123T133000Z
+SEQUENCE:0
+SUMMARY:2.3\; A101\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Psychopathologie (2959)\; dr. CALSIUS Joeri\; A101\; (Hoorcollege
+ )\; Voor: Alle groepen
+UID:1862741_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180124T083000Z
+DTEND:20180124T100000Z
+SEQUENCE:656047
+SUMMARY:DBD\; PR 7 KERMT KERMETA\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw MEULEMANS Iris
+ \; PR 7 KERMT KERMETA\; (Practicum)\; Voor groepen: E\, F
+UID:1859243_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180124T110000Z
+DTEND:20180124T113000Z
+SEQUENCE:657224
+SUMMARY:2.3\; FR-0.06\; CPO\; Voor: Alle groepen
+DESCRIPTION:Psychopathologie (2959)\; dr. NEERINCKX Eddy\; FR-0.06\; CPO\; Vo
+ or: Alle groepen
+UID:1862783_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180124T113000Z
+DTEND:20180124T133000Z
+SEQUENCE:657222
+SUMMARY:2.3\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Psychopathologie (2959)\; dr. NEERINCKX Eddy\; OG-Aud2\; (Hoorcol
+ lege)\; Voor: Alle groepen
+UID:1862765_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180124T140000Z
+DTEND:20180124T160000Z
+SEQUENCE:657225
+SUMMARY:2.3\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Psychopathologie (2959)\; dr. NEERINCKX Eddy\; OG-Aud2\; (Hoorcol
+ lege)\; Voor: Alle groepen
+UID:1862411_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180124T160000Z
+DTEND:20180124T180000Z
+SEQUENCE:657226
+SUMMARY:2.3\; FR-0.06\; Lyskawa\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Psychopathologie (2959)\; FR-0.06\; Lyskawa\; (Onderwijsgroep)\; 
+ Voor groep: F
+UID:1862732_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180125T070000Z
+DTEND:20180125T090000Z
+SEQUENCE:652178
+SUMMARY:2.3\; A105\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Psychopathologie (2959)\; dr. CALSIUS Joeri\; A105\; (Onderwijsgr
+ oep)\; Voor groep: A
+UID:1862711_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180125T070000Z
+DTEND:20180125T090000Z
+SEQUENCE:0
+SUMMARY:2.3\; A106\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; A106\; (Onderwijs
+ groep)\; Voor groep: C
+UID:1862720_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180125T090000Z
+DTEND:20180125T110000Z
+SEQUENCE:0
+SUMMARY:2.3\; A105\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Psychopathologie (2959)\; dr. CALSIUS Joeri\; A105\; (Onderwijsgr
+ oep)\; Voor groep: B
+UID:1862708_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180125T090000Z
+DTEND:20180125T110000Z
+SEQUENCE:0
+SUMMARY:2.3\; A106\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; A106\; (Onderwijs
+ groep)\; Voor groep: D
+UID:1862723_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180125T110000Z
+DTEND:20180125T113000Z
+SEQUENCE:0
+SUMMARY:2.3\; H5\; CPO\; Voor: Alle groepen
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; H5\; CPO\; Voor: 
+ Alle groepen
+UID:1899902_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180125T113000Z
+DTEND:20180125T133000Z
+SEQUENCE:0
+SUMMARY:2.3\; H5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Psychopathologie (2959)\; dr. CALSIUS Joeri\; H5\; (Hoorcollege)\
+ ; Voor: Alle groepen
+UID:1862762_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180125T140000Z
+DTEND:20180125T160000Z
+SEQUENCE:0
+SUMMARY:2.3\; A103\; Lyskawa\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Psychopathologie (2959)\; A103\; Lyskawa\; (Onderwijsgroep)\; Voo
+ r groep: E
+UID:1862756_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180125T160000Z
+DTEND:20180125T180000Z
+SEQUENCE:0
+SUMMARY:2.3\; A103\; Lyskawa\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Psychopathologie (2959)\; A103\; Lyskawa\; (Onderwijsgroep)\; Voo
+ r groep: F
+UID:1862759_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180125T170000Z
+DTEND:20180125T190000Z
+SEQUENCE:0
+SUMMARY:Lezing Leerstoel Dr. J. Knapen:\; Prof. dr. Sara Willems\; 20u00 
+ tot 22u00\; H6\; \; Voor: Alle groepen
+UID:1869119_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180129T073000Z
+DTEND:20180129T090000Z
+SEQUENCE:0
+SUMMARY:DBD\; PR 10 FITLINK\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw SWERTS Marga\;
+  PR 10 FITLINK\; (Practicum)\; Voor groepen: A\, B
+UID:1859246_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180129T090000Z
+DTEND:20180129T103000Z
+SEQUENCE:0
+SUMMARY:DBD\; PR 10 FITLINK\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw DE WIT Katleen
+ \; PR 10 FITLINK\; (Practicum)\; Voor groepen: E\, F
+UID:1859249_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180129T113000Z
+DTEND:20180129T133000Z
+SEQUENCE:652293
+SUMMARY:2.3\; A109\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Psychopathologie (2959)\; dr. CALSIUS Joeri\; A109\; (Onderwijsgr
+ oep)\; Voor groep: A
+UID:1862993_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180129T113000Z
+DTEND:20180129T133000Z
+SEQUENCE:652296
+SUMMARY:2.3\; B105a\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; B105a\; (Practicu
+ m)\; Voor groepen: E\, F
+UID:1862999_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180129T120000Z
+DTEND:20180129T133000Z
+SEQUENCE:0
+SUMMARY:DBD\; PR 7 SINT LAMBRECHTS HERK\; (Practicum)\; Voor groepen: C\,
+  D
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw MEULEMANS Iris
+ \; PR 7 SINT LAMBRECHTS HERK\; (Practicum)\; Voor groepen: C\, D
+UID:1859252_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180129T133000Z
+DTEND:20180129T153000Z
+SEQUENCE:652295
+SUMMARY:2.3\; A109\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Psychopathologie (2959)\; dr. CALSIUS Joeri\; A109\; (Onderwijsgr
+ oep)\; Voor groep: B
+UID:1862996_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180129T133000Z
+DTEND:20180129T153000Z
+SEQUENCE:652310
+SUMMARY:2.3\; A104\; Lyskawa\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Psychopathologie (2959)\; A104\; Lyskawa\; (Onderwijsgroep)\; Voo
+ r groep: E
+UID:1863005_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180129T153000Z
+DTEND:20180129T173000Z
+SEQUENCE:0
+SUMMARY:2.3\; A104\; Lyskawa\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Psychopathologie (2959)\; A104\; Lyskawa\; (Onderwijsgroep)\; Voo
+ r groep: F
+UID:1863134_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180130T070000Z
+DTEND:20180130T090000Z
+SEQUENCE:652311
+SUMMARY:2.3\; C109\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Psychopathologie (2959)\; dr. CALSIUS Joeri\; C109\; (Onderwijsgr
+ oep)\; Voor groep: A
+UID:1862807_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180130T070000Z
+DTEND:20180130T090000Z
+SEQUENCE:0
+SUMMARY:2.3\; A109\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; A109\; (Onderwijs
+ groep)\; Voor groep: C
+UID:1863146_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180130T090000Z
+DTEND:20180130T110000Z
+SEQUENCE:652220
+SUMMARY:2.3\; C109\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Psychopathologie (2959)\; dr. CALSIUS Joeri\; C109\; (Onderwijsgr
+ oep)\; Voor groep: B
+UID:1862816_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180130T090000Z
+DTEND:20180130T110000Z
+SEQUENCE:0
+SUMMARY:2.3\; A109\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; A109\; (Onderwijs
+ groep)\; Voor groep: D
+UID:1863149_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180130T110000Z
+DTEND:20180130T130000Z
+SEQUENCE:661749
+SUMMARY:2.3\; A3\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; A3\; (Onderwijsgr
+ oep)\; Voor groep: D
+UID:1863185_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180131T070000Z
+DTEND:20180131T090000Z
+SEQUENCE:0
+SUMMARY:2.3\; B105b\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; B105b\; (Practicu
+ m)\; Voor groepen: A\, B
+UID:1863161_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180131T090000Z
+DTEND:20180131T110000Z
+SEQUENCE:0
+SUMMARY:2.3\; B105b\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; B105b\; (Practicu
+ m)\; Voor groepen: C\, D
+UID:1863164_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180131T120000Z
+DTEND:20180131T123000Z
+SEQUENCE:0
+SUMMARY:2.3\; A101\; CPO\; Voor: Alle groepen
+DESCRIPTION:Psychopathologie (2959)\; dr. NEERINCKX Eddy\; A101\; CPO\; Voor:
+  Alle groepen
+UID:1863167_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180131T123000Z
+DTEND:20180131T143000Z
+SEQUENCE:658367
+SUMMARY:2.3\; A101\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Psychopathologie (2959)\; dr. NEERINCKX Eddy\; A101\; (Hoorcolleg
+ e)\; Voor: Alle groepen
+UID:1863173_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180131T143000Z
+DTEND:20180131T160000Z
+SEQUENCE:658381
+SUMMARY:2.3\; A101\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Psychopathologie (2959)\; Mevrouw THYSEN Kris\; A101\; (Hoorcolle
+ ge)\; Voor: Alle groepen
+UID:1884650_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180201T073000Z
+DTEND:20180201T090000Z
+SEQUENCE:651450
+SUMMARY:DBD\; PR 6 SPORTHAL KURINGEN\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw SWERTS Marga\;
+  PR 6 SPORTHAL KURINGEN\; (Practicum)\; Voor groepen: A\, B
+UID:1859390_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180201T080000Z
+DTEND:20180201T100000Z
+SEQUENCE:663925
+SUMMARY:2.3\; B101\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; B101\; (Onderwijs
+ groep)\; Voor groep: C
+UID:1863182_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180201T100000Z
+DTEND:20180201T120000Z
+SEQUENCE:661747
+SUMMARY:2.3\; H5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Psychopathologie (2959)\; dr. BRAEKEN Marijke\; H5\; (Hoorcollege
+ )\; Voor: Alle groepen
+UID:1862774_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180201T120000Z
+DTEND:20180201T140000Z
+SEQUENCE:652349
+SUMMARY:2.3\; B101\; Lyskawa\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Psychopathologie (2959)\; B101\; Lyskawa\; (Onderwijsgroep)\; Voo
+ r groep: E
+UID:1863188_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180201T140000Z
+DTEND:20180201T160000Z
+SEQUENCE:0
+SUMMARY:2.3\; B101\; Lyskawa\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Psychopathologie (2959)\; B101\; Lyskawa\; (Onderwijsgroep)\; Voo
+ r groep: F
+UID:1863194_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180201T173000Z
+DTEND:20180201T190000Z
+SEQUENCE:663314
+SUMMARY:Responsiecollege \; 18u30 tot 20 uur \; Aula H2\; \; Aansluidend 
+ \; Lezing Leerstoel Dr. J. Knapen: \; Dr. Marc Hebbrecht en dhr. 
+ Geert\; 20u00 tot 22u00\; H6\; Voor: Alle groepen
+UID:1856498_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180212T090000Z
+DTEND:20180212T103000Z
+SEQUENCE:0
+SUMMARY:DBD\; PR 9 FITLINK\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw MEULEMANS Iris
+ \; PR 9 FITLINK\; (Practicum)\; Voor groepen: E\, F
+UID:1859255_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180212T123000Z
+DTEND:20180212T140000Z
+SEQUENCE:651243
+SUMMARY:DBD\; PR 8 FITLINK\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw DE WIT Katleen
+ \; PR 8 FITLINK\; (Practicum)\; Voor groepen: A\, B
+UID:1859258_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180212T153000Z
+DTEND:20180212T170000Z
+SEQUENCE:0
+SUMMARY:DBD\; PR 10 FITLINK\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw SWERTS Marga\;
+  PR 10 FITLINK\; (Practicum)\; Voor groepen: C\, D
+UID:1859261_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180213T080000Z
+DTEND:20180213T093000Z
+SEQUENCE:659346
+SUMMARY:2.4\; H5\; blokintroductie\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Prof. dr. MEESEN Raf\; H5\; b
+ lokintroductie\; (Hoorcollege)\; Voor: Alle groepen
+UID:1882967_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180213T120000Z
+DTEND:20180213T160000Z
+SEQUENCE:658901
+SUMMARY:2.4\; A8\; minii onderzoek\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Prof. dr. MEESEN Raf\; A8\; m
+ inii onderzoek\; (Onderwijsgroep)\; Voor groep: A
+UID:1819625_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180213T120000Z
+DTEND:20180213T160000Z
+SEQUENCE:658913
+SUMMARY:2.4\; A9\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Mevrouw VERSTRAELEN Stefanie\
+ ; A9\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: B
+UID:1819628_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180213T120000Z
+DTEND:20180213T160000Z
+SEQUENCE:658920
+SUMMARY:2.4\; A108\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; dr. VERBOVEN Kenneth\; A108\;
+  mini onderzoek\; (Onderwijsgroep)\; Voor groep: C
+UID:1819631_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180213T120000Z
+DTEND:20180213T160000Z
+SEQUENCE:663369
+SUMMARY:2.4\; A104\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; dr. DE BAETS Liesbet\; A104\;
+  mini onderzoek\; (Onderwijsgroep)\; Voor groep: D
+UID:1819634_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180214T080000Z
+DTEND:20180214T120000Z
+SEQUENCE:666180
+SUMMARY:2.4\; A101\; Statistiek\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; dr. NYSEN Ruth\, Prof. dr. ME
+ ESEN Raf\; A101\; Statistiek\; (Hoorcollege)\; Voor: Alle groepen
+UID:1882970_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180214T130000Z
+DTEND:20180214T170000Z
+SEQUENCE:666941
+SUMMARY:2.4\; C21\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Mevrouw BRAUERS Lieke\; C21\;
+  (Onderwijsgroep)\; Voor groep: E
+UID:1819637_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180214T130000Z
+DTEND:20180214T170000Z
+SEQUENCE:659052
+SUMMARY:2.4\; H5\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Prof. dr. MEYNS Pieter\; H5\;
+  mini onderzoek\; (Onderwijsgroep)\; Voor groep: F
+UID:1819640_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180215T073000Z
+DTEND:20180215T103000Z
+SEQUENCE:659055
+SUMMARY:2.4\; H5\; Onderzoeksplan\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Prof. dr. MEESEN Raf\; H5\; O
+ nderzoeksplan\; (Hoorcollege)\; Voor: Alle groepen
+UID:1884926_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180215T120000Z
+DTEND:20180215T160000Z
+SEQUENCE:666181
+SUMMARY:2.4\; H2\; Statistiek\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; dr. NYSEN Ruth\, Prof. dr. ME
+ ESEN Raf\; H2\; Statistiek\; (Hoorcollege)\; Voor: Alle groepen
+UID:1884890_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180216T080000Z
+DTEND:20180216T120000Z
+SEQUENCE:662944
+SUMMARY:2.4\; A103\; oefeningen statistiek\; (Onderwijsgroep)\; Voor groe
+ pen: A\, B
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Prof. dr. MEESEN Raf\; A103\;
+  oefeningen statistiek\; (Onderwijsgroep)\; Voor groepen: A\, B
+UID:1887575_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180216T080000Z
+DTEND:20180216T120000Z
+SEQUENCE:662945
+SUMMARY:2.4\; A105\; oefeningen statistiek\; (Onderwijsgroep)\; Voor groe
+ pen: C\, D
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Mevrouw VERSTRAELEN Stefanie\
+ ; A105\; oefeningen statistiek\; (Onderwijsgroep)\; Voor groepen:
+  C\, D
+UID:1887578_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180216T080000Z
+DTEND:20180216T120000Z
+SEQUENCE:662946
+SUMMARY:2.4\; A109\; oefeningen statistiek\; (Onderwijsgroep)\; Voor groe
+ pen: E\, F
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; dr. NYSEN Ruth\; A109\; oefen
+ ingen statistiek\; (Onderwijsgroep)\; Voor groepen: E\, F
+UID:1887581_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180219T080000Z
+DTEND:20180219T093000Z
+SEQUENCE:0
+SUMMARY:DBD\; A103\; PR 11\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw NIJS Isa\; A10
+ 3\; PR 11\; (Practicum)\; Voor groepen: A\, B
+UID:1859264_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180219T080000Z
+DTEND:20180219T093000Z
+SEQUENCE:0
+SUMMARY:DBD\; A104\; PR 11\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw SWERTS Marga\;
+  A104\; PR 11\; (Practicum)\; Voor groepen: C\, D
+UID:1859267_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180219T080000Z
+DTEND:20180219T093000Z
+SEQUENCE:0
+SUMMARY:DBD\; A105\; PR 11\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw MEULEMANS Iris
+ \; A105\; PR 11\; (Practicum)\; Voor groepen: E\, F
+UID:1859270_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180219T103000Z
+DTEND:20180219T120000Z
+SEQUENCE:651342
+SUMMARY:DBD\; PR 12 ZWEMBAD KAPERMOLEN\; (Practicum)\; Voor groepen: A\, 
+ B
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw NIJS Isa\; PR 
+ 12 ZWEMBAD KAPERMOLEN\; (Practicum)\; Voor groepen: A\, B
+UID:1859273_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180219T123000Z
+DTEND:20180219T140000Z
+SEQUENCE:0
+SUMMARY:DBD\; PR 8 FITLINK\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw MEULEMANS Iris
+ \; PR 8 FITLINK\; (Practicum)\; Voor groepen: C\, D
+UID:1859279_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180219T133000Z
+DTEND:20180219T150000Z
+SEQUENCE:651247
+SUMMARY:DBD\; PR 12 ZWEMBAD KAPERMOLEN\; (Practicum)\; Voor groepen: E\, 
+ F
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw DE WIT Katleen
+ \; PR 12 ZWEMBAD KAPERMOLEN\; (Practicum)\; Voor groepen: E\, F
+UID:1859276_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180220T080000Z
+DTEND:20180220T120000Z
+SEQUENCE:666182
+SUMMARY:2.4\; H5\; Statistiek\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; dr. NYSEN Ruth\, Prof. dr. ME
+ ESEN Raf\; H5\; Statistiek\; (Hoorcollege)\; Voor: Alle groepen
+UID:1885937_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180220T130000Z
+DTEND:20180220T170000Z
+SEQUENCE:658903
+SUMMARY:2.4\; A8\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Prof. dr. MEESEN Raf\; A8\; m
+ ini onderzoek\; (Onderwijsgroep)\; Voor groep: A
+UID:1819691_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210517Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180220T130000Z
+DTEND:20180220T170000Z
+SEQUENCE:658914
+SUMMARY:2.4\; A9\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Mevrouw VERSTRAELEN Stefanie\
+ ; A9\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: B
+UID:1819703_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180220T130000Z
+DTEND:20180220T170000Z
+SEQUENCE:658921
+SUMMARY:2.4\; A108\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; dr. VERBOVEN Kenneth\; A108\;
+  mini onderzoek\; (Onderwijsgroep)\; Voor groep: C
+UID:1819715_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180220T130000Z
+DTEND:20180220T170000Z
+SEQUENCE:658949
+SUMMARY:2.4\; A109\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; dr. DE BAETS Liesbet\; A109\;
+  mini onderzoek\; (Onderwijsgroep)\; Voor groep: D
+UID:1819727_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180220T130000Z
+DTEND:20180220T170000Z
+SEQUENCE:664372
+SUMMARY:2.4\; C6\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Prof. dr. MEYNS Pieter\; C6\;
+  mini onderzoek\; (Onderwijsgroep)\; Voor groep: F
+UID:1819751_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180221T080000Z
+DTEND:20180221T100000Z
+SEQUENCE:659030
+SUMMARY:2.4\; A101\; Inl.Kwalitatief onderzoek\; (Hoorcollege)\; Voor: Al
+ le groepen
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Prof. dr. MEESEN Raf\; A101\;
+  Inl.Kwalitatief onderzoek\; (Hoorcollege)\; Voor: Alle groepen
+UID:1885943_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180221T100000Z
+DTEND:20180221T110000Z
+SEQUENCE:0
+SUMMARY:EVALUATIEVERGADERING\; A109\; Voor: Alle groepen
+DESCRIPTION: ()\; A109\; Voor: Alle groepen
+UID:1905089_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180221T120000Z
+DTEND:20180221T160000Z
+SEQUENCE:666904
+SUMMARY:2.4\; FR-1.05\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Mevrouw BRAUERS Lieke\; FR-1.
+ 05\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: E
+UID:1819739_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180222T130000Z
+DTEND:20180222T170000Z
+SEQUENCE:667335
+SUMMARY:2.4\; B103\; Oefeningen Statistiek\; (Onderwijsgroep)\; Voor groe
+ pen: A\, B
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Prof. dr. MEESEN Raf\; B103\;
+  Oefeningen Statistiek\; (Onderwijsgroep)\; Voor groepen: A\, B
+UID:1819763_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180222T130000Z
+DTEND:20180222T170000Z
+SEQUENCE:667334
+SUMMARY:2.4\; oefeningen statistiek\; (Onderwijsgroep)\; Voor groepen: C\
+ , D
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Mevrouw VERSTRAELEN Stefanie\
+ ; oefeningen statistiek\; (Onderwijsgroep)\; Voor groepen: C\, D
+UID:1819775_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180222T130000Z
+DTEND:20180222T170000Z
+SEQUENCE:666185
+SUMMARY:2.4\; H6\; oefeningen statistiek\; (Onderwijsgroep)\; Voor groepe
+ n: E\, F
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; dr. NYSEN Ruth\; H6\; oefenin
+ gen statistiek\; (Onderwijsgroep)\; Voor groepen: E\, F
+UID:1819787_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180226T073000Z
+DTEND:20180226T090000Z
+SEQUENCE:0
+SUMMARY:DBD\; PR 13 FITLINK\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw DE WIT Katleen
+ \; PR 13 FITLINK\; (Practicum)\; Voor groepen: A\, B
+UID:1859282_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180226T090000Z
+DTEND:20180226T103000Z
+SEQUENCE:0
+SUMMARY:DBD\; PR 13 FITLINK\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw MEULEMANS Iris
+ \; PR 13 FITLINK\; (Practicum)\; Voor groepen: E\, F
+UID:1859285_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180226T104500Z
+DTEND:20180226T121500Z
+SEQUENCE:651276
+SUMMARY:DBD\; PR 12 ZWEMBAD KAPERMOLEN\; (Practicum)\; Voor groepen: C\, 
+ D
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw DE WIT Katleen
+ \; PR 12 ZWEMBAD KAPERMOLEN\; (Practicum)\; Voor groepen: C\, D
+UID:1859288_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180226T123000Z
+DTEND:20180226T140000Z
+SEQUENCE:0
+SUMMARY:DBD\; PR 8 FITLINK\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw SWERTS Marga\;
+  PR 8 FITLINK\; (Practicum)\; Voor groepen: E\, F
+UID:1859291_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180226T140000Z
+DTEND:20180226T153000Z
+SEQUENCE:0
+SUMMARY:DBD\; PR 13 FITLINK\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw SWERTS Marga\;
+  PR 13 FITLINK\; (Practicum)\; Voor groepen: C\, D
+UID:1859294_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180226T153000Z
+DTEND:20180226T163000Z
+SEQUENCE:652284
+SUMMARY:DBD\; VRIJ OEFENMOMENT FITLINK\; (Practicum)\; Voor: Alle groepen
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw SWERTS Marga\,
+  Mevrouw MEULEMANS Iris\; VRIJ OEFENMOMENT FITLINK\; (Practicum)\
+ ; Voor: Alle groepen
+UID:1859297_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180227T080000Z
+DTEND:20180227T090000Z
+SEQUENCE:659410
+SUMMARY:KE\; A102\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Klinische exploratie (3074)\; dr. SPILDOOREN Joke\; A102\; (Hoorc
+ ollege)\; Voor: Alle groepen
+UID:1890008_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180227T093000Z
+DTEND:20180227T113000Z
+SEQUENCE:659028
+SUMMARY:2.4\; A101\; Kwalitatief onderzoek\; (Hoorcollege)\; Voor: Alle g
+ roepen
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; dr. CALSIUS Joeri\; A101\; Kw
+ alitatief onderzoek\; (Hoorcollege)\; Voor: Alle groepen
+UID:1885946_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180227T120000Z
+DTEND:20180227T160000Z
+SEQUENCE:667282
+SUMMARY:2.4\; C105\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Prof. dr. MEESEN Raf\; C105\;
+  mini onderzoek\; (Onderwijsgroep)\; Voor groep: A
+UID:1819694_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180227T120000Z
+DTEND:20180227T160000Z
+SEQUENCE:658916
+SUMMARY:2.4\; A9\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Mevrouw VERSTRAELEN Stefanie\
+ ; A9\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: B
+UID:1819706_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180227T120000Z
+DTEND:20180227T160000Z
+SEQUENCE:658922
+SUMMARY:2.4\; A108\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; dr. VERBOVEN Kenneth\; A108\;
+  mini onderzoek\; (Onderwijsgroep)\; Voor groep: C
+UID:1819718_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180227T120000Z
+DTEND:20180227T160000Z
+SEQUENCE:667284
+SUMMARY:2.4\; A8\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; dr. DE BAETS Liesbet\; A8\; m
+ ini onderzoek\; (Onderwijsgroep)\; Voor groep: D
+UID:1819730_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180227T120000Z
+DTEND:20180227T160000Z
+SEQUENCE:667285
+SUMMARY:2.4\; A109\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Prof. dr. MEYNS Pieter\; A109
+ \; mini onderzoek\; (Onderwijsgroep)\; Voor groep: F
+UID:1819754_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180228T120000Z
+DTEND:20180228T160000Z
+SEQUENCE:666905
+SUMMARY:2.4\; FR-1.05\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Mevrouw BRAUERS Lieke\; FR-1.
+ 05\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: E
+UID:1819742_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180301T090000Z
+DTEND:20180301T100000Z
+SEQUENCE:0
+SUMMARY:INZAGE EXAMENS\; A108\; Voor: Alle groepen
+DESCRIPTION: ()\; dr. BRAEKEN Marijke\; A108\; Voor: Alle groepen
+UID:1907399_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180302T080000Z
+DTEND:20180302T120000Z
+SEQUENCE:662947
+SUMMARY:2.4\; A102\; oefeningen statistiek\; (Onderwijsgroep)\; Voor groe
+ pen: A\, B
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Prof. dr. MEESEN Raf\; A102\;
+  oefeningen statistiek\; (Onderwijsgroep)\; Voor groepen: A\, B
+UID:1885973_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180302T080000Z
+DTEND:20180302T120000Z
+SEQUENCE:667296
+SUMMARY:2.4\; C20\; ofeningen Statistiek\; (Onderwijsgroep)\; Voor groepe
+ n: C\, D
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Mevrouw VERSTRAELEN Stefanie\
+ ; C20\; ofeningen Statistiek\; (Onderwijsgroep)\; Voor groepen: C
+ \, D
+UID:1885976_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180302T080000Z
+DTEND:20180302T120000Z
+SEQUENCE:666186
+SUMMARY:2.4\; H6\; oefeningen statistiek\; (Onderwijsgroep)\; Voor groepe
+ n: E\, F
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; dr. NYSEN Ruth\; H6\; oefenin
+ gen statistiek\; (Onderwijsgroep)\; Voor groepen: E\, F
+UID:1885979_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180305T073000Z
+DTEND:20180305T093000Z
+SEQUENCE:0
+SUMMARY:DBD\; PR 14 FITLINK\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw MEULEMANS Iris
+ \; PR 14 FITLINK\; (Practicum)\; Voor groepen: E\, F
+UID:1859300_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180305T073000Z
+DTEND:20180305T093000Z
+SEQUENCE:0
+SUMMARY:DBD\; PR 14 FITLINK\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw SWERTS Marga\;
+  PR 14 FITLINK\; (Practicum)\; Voor groepen: C\, D
+UID:1859303_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180305T093000Z
+DTEND:20180305T110000Z
+SEQUENCE:0
+SUMMARY:DBD\; PR 15 FITLINK\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw MEULEMANS Iris
+ \; PR 15 FITLINK\; (Practicum)\; Voor groepen: E\, F
+UID:1859306_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180305T093000Z
+DTEND:20180305T110000Z
+SEQUENCE:0
+SUMMARY:DBD\; PR 15 FITLINK\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw SWERTS Marga\;
+  PR 15 FITLINK\; (Practicum)\; Voor groepen: C\, D
+UID:1859309_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180305T113000Z
+DTEND:20180305T133000Z
+SEQUENCE:651256
+SUMMARY:DBD\; PR 14 FITLINK\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw NIJS Isa\; PR 
+ 14 FITLINK\; (Practicum)\; Voor groepen: A\, B
+UID:1859312_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180305T133000Z
+DTEND:20180305T150000Z
+SEQUENCE:0
+SUMMARY:DBD\; PR 15 FITLINK\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw NIJS Isa\; PR 
+ 15 FITLINK\; (Practicum)\; Voor groepen: A\, B
+UID:1859315_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180305T150000Z
+DTEND:20180305T160000Z
+SEQUENCE:0
+SUMMARY:DBD\; Vrij oefenmoment FITLINK\; (Practicum)\; Voor: Alle groepen
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw NIJS Isa\, Mev
+ rouw DE WIT Katleen\; Vrij oefenmoment FITLINK\; (Practicum)\; Vo
+ or: Alle groepen
+UID:1859318_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180306T120000Z
+DTEND:20180306T160000Z
+SEQUENCE:667286
+SUMMARY:2.4\; B103\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Prof. dr. MEESEN Raf\; B103\;
+  mini onderzoek\; (Onderwijsgroep)\; Voor groep: A
+UID:1819697_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180306T120000Z
+DTEND:20180306T160000Z
+SEQUENCE:658917
+SUMMARY:2.4\; C20\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Mevrouw VERSTRAELEN Stefanie\
+ ; C20\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: B
+UID:1885994_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180306T120000Z
+DTEND:20180306T160000Z
+SEQUENCE:658924
+SUMMARY:2.4\; C21\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; dr. VERBOVEN Kenneth\; C21\; 
+ mini onderzoek\; (Onderwijsgroep)\; Voor groep: C
+UID:1885997_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180306T120000Z
+DTEND:20180306T160000Z
+SEQUENCE:658951
+SUMMARY:2.4\; B102\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; dr. DE BAETS Liesbet\; B102\;
+  mini onderzoek\; (Onderwijsgroep)\; Voor groep: D
+UID:1886000_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180306T120000Z
+DTEND:20180306T160000Z
+SEQUENCE:667287
+SUMMARY:2.4\; C105\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Prof. dr. MEYNS Pieter\; C105
+ \; mini onderzoek\; (Onderwijsgroep)\; Voor groep: F
+UID:1886006_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180307T073000Z
+DTEND:20180307T113000Z
+SEQUENCE:666183
+SUMMARY:2.4\; OG-Aud1\; Statistiek\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; dr. NYSEN Ruth\, Prof. dr. ME
+ ESEN Raf\; OG-Aud1\; Statistiek\; (Hoorcollege)\; Voor: Alle groe
+ pen
+UID:1886009_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180307T123000Z
+DTEND:20180307T163000Z
+SEQUENCE:666926
+SUMMARY:2.4\; FR-2.03\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Mevrouw BRAUERS Lieke\; FR-2.
+ 03\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: E
+UID:1886003_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180309T120000Z
+DTEND:20180309T160000Z
+SEQUENCE:662953
+SUMMARY:2.4\; H2\; Oefeningen Statistiek\; (Onderwijsgroep)\; Voor groepe
+ n: A\, B
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Prof. dr. MEESEN Raf\; H2\; O
+ efeningen Statistiek\; (Onderwijsgroep)\; Voor groepen: A\, B
+UID:1819769_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180309T120000Z
+DTEND:20180309T160000Z
+SEQUENCE:662956
+SUMMARY:2.4\; H4\; oefeningen statistiek\; (Onderwijsgroep)\; Voor groepe
+ n: C\, D
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Mevrouw VERSTRAELEN Stefanie\
+ ; H4\; oefeningen statistiek\; (Onderwijsgroep)\; Voor groepen: C
+ \, D
+UID:1819781_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180309T120000Z
+DTEND:20180309T160000Z
+SEQUENCE:662957
+SUMMARY:2.4\; B103\; oefeningen statistiek\; (Onderwijsgroep)\; Voor groe
+ pen: E\, F
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; dr. NYSEN Ruth\; B103\; oefen
+ ingen statistiek\; (Onderwijsgroep)\; Voor groepen: E\, F
+UID:1819793_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180312T073000Z
+DTEND:20180312T093000Z
+SEQUENCE:651261
+SUMMARY:DBD\; PR 16 FITLINK\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw NIJS Isa\; PR 
+ 16 FITLINK\; (Practicum)\; Voor groepen: A\, B
+UID:1859321_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180312T093000Z
+DTEND:20180312T110000Z
+SEQUENCE:651264
+SUMMARY:DBD\; PR 17 FITLINK\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw NIJS Isa\; PR 
+ 17 FITLINK\; (Practicum)\; Voor groepen: A\, B
+UID:1859324_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180312T110000Z
+DTEND:20180312T120000Z
+SEQUENCE:0
+SUMMARY:DBD\; EXAMEN FITLINK\; (Practicum)\; Voor groepen: A\, B
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw NIJS Isa\; EXA
+ MEN FITLINK\; (Practicum)\; Voor groepen: A\, B
+UID:1859327_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180312T123000Z
+DTEND:20180312T143000Z
+SEQUENCE:651453
+SUMMARY:DBD\; PR 16 FITLINK\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw MEULEMANS Iris
+ \; PR 16 FITLINK\; (Practicum)\; Voor groepen: E\, F
+UID:1859330_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180312T123000Z
+DTEND:20180312T143000Z
+SEQUENCE:0
+SUMMARY:DBD\; PR 16 FITLINK\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw SWERTS Marga\;
+  PR 16 FITLINK\; (Practicum)\; Voor groepen: C\, D
+UID:1859333_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180312T143000Z
+DTEND:20180312T160000Z
+SEQUENCE:0
+SUMMARY:DBD\; PR 17 FITLINK\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw SWERTS Marga\;
+  PR 17 FITLINK\; (Practicum)\; Voor groepen: C\, D
+UID:1859336_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180312T143000Z
+DTEND:20180312T160000Z
+SEQUENCE:0
+SUMMARY:DBD\; PR 17 FITLINK\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw MEULEMANS Iris
+ \; PR 17 FITLINK\; (Practicum)\; Voor groepen: E\, F
+UID:1859339_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180312T160000Z
+DTEND:20180312T170000Z
+SEQUENCE:0
+SUMMARY:DBD\; EXAMEN FTILINK\; (Practicum)\; Voor groepen: C\, D
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw SWERTS Marga\;
+  EXAMEN FTILINK\; (Practicum)\; Voor groepen: C\, D
+UID:1859342_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180312T160000Z
+DTEND:20180312T170000Z
+SEQUENCE:0
+SUMMARY:DBD\; EXAMEN FTILINK\; (Practicum)\; Voor groepen: E\, F
+DESCRIPTION:Didactiek begeleiding doelgroepen (2459)\; Mevrouw MEULEMANS Iris
+ \; EXAMEN FTILINK\; (Practicum)\; Voor groepen: E\, F
+UID:1859348_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180313T080000Z
+DTEND:20180313T100000Z
+SEQUENCE:666184
+SUMMARY:2.4\; A102\; Statistiek\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; dr. NYSEN Ruth\, Prof. dr. ME
+ ESEN Raf\; A102\; Statistiek\; (Responsiecollege)\; Voor: Alle gr
+ oepen
+UID:1886573_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180313T130000Z
+DTEND:20180313T170000Z
+SEQUENCE:667288
+SUMMARY:2.4\; C105\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Prof. dr. MEESEN Raf\; C105\;
+  mini onderzoek\; (Onderwijsgroep)\; Voor groep: A
+UID:1819700_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180313T130000Z
+DTEND:20180313T170000Z
+SEQUENCE:658919
+SUMMARY:2.4\; A9\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Mevrouw VERSTRAELEN Stefanie\
+ ; A9\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: B
+UID:1819712_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180313T130000Z
+DTEND:20180313T170000Z
+SEQUENCE:667290
+SUMMARY:2.4\; A8\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; dr. VERBOVEN Kenneth\; A8\; m
+ ini onderzoek\; (Onderwijsgroep)\; Voor groep: C
+UID:1819724_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180313T130000Z
+DTEND:20180313T170000Z
+SEQUENCE:658952
+SUMMARY:2.4\; A109\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; dr. DE BAETS Liesbet\; A109\;
+  mini onderzoek\; (Onderwijsgroep)\; Voor groep: D
+UID:1819736_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180313T130000Z
+DTEND:20180313T170000Z
+SEQUENCE:667294
+SUMMARY:2.4\; B102\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: F
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Prof. dr. MEYNS Pieter\; B102
+ \; mini onderzoek\; (Onderwijsgroep)\; Voor groep: F
+UID:1819760_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180314T080000Z
+DTEND:20180314T120000Z
+SEQUENCE:662958
+SUMMARY:2.4\; B4\; Oefeningen Statistiek\; (Onderwijsgroep)\; Voor groepe
+ n: A\, B
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Prof. dr. MEESEN Raf\; B4\; O
+ efeningen Statistiek\; (Onderwijsgroep)\; Voor groepen: A\, B
+UID:1819772_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180314T080000Z
+DTEND:20180314T120000Z
+SEQUENCE:667301
+SUMMARY:2.4\; C112\; oefeningen statistiek\; (Onderwijsgroep)\; Voor groe
+ pen: C\, D
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Mevrouw VERSTRAELEN Stefanie\
+ ; C112\; oefeningen statistiek\; (Onderwijsgroep)\; Voor groepen:
+  C\, D
+UID:1819784_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180314T080000Z
+DTEND:20180314T120000Z
+SEQUENCE:662960
+SUMMARY:2.4\; A102\; oefeningen statistiek\; (Onderwijsgroep)\; Voor groe
+ pen: E\, F
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; dr. NYSEN Ruth\; A102\; oefen
+ ingen statistiek\; (Onderwijsgroep)\; Voor groepen: E\, F
+UID:1819796_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180314T173000Z
+DTEND:20180314T190000Z
+SEQUENCE:0
+SUMMARY:WORLD EVENING\; \; 17 tot 21 uur \; \; Campus Diepenbeek \; Voor:
+  Alle groepen
+UID:1813733_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180315T083000Z
+DTEND:20180315T123000Z
+SEQUENCE:667953
+SUMMARY:2.4\; A9\; mini onderzoek\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Wetenschappelijk onderzoek (2960)\; Mevrouw BRAUERS Lieke\; A9\; 
+ mini onderzoek\; (Onderwijsgroep)\; Voor groep: E
+UID:1819748_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180316T080000Z
+DTEND:20180316T110000Z
+SEQUENCE:658277
+SUMMARY:Mini symposium\; AGO\; Voor: Alle groepen
+DESCRIPTION: ()\; Prof. dr. MEESEN Raf\, Mevrouw HERMANS Lisa\, dr. NYSEN Rut
+ h\, dr. SPILDOOREN Joke\, Mevrouw VERSTRAELEN Stefanie\, dr. VERB
+ OVEN Kenneth\, dr. DE BAETS Liesbet\; AGO\; Voor: Alle groepen
+UID:1884362_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180316T120000Z
+DTEND:20180316T163000Z
+SEQUENCE:661296
+SUMMARY:ORAL Presentation\; H4\,H5\; Voor: Alle groepen
+DESCRIPTION: ()\; Prof. dr. MEESEN Raf\, Mevrouw HERMANS Lisa\, dr. NYSEN Rut
+ h\, dr. SPILDOOREN Joke\, Mevrouw VERSTRAELEN Stefanie\, Prof. dr
+ . HANSEN Dominique\, Prof. dr. TIMMERMANS Annick\, dr. WENS Inez\
+ ; H4\,H5\; Voor: Alle groepen
+UID:1884371_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210518Z
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

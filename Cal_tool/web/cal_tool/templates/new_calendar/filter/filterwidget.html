@@ -1,0 +1,21 @@
+    <li id="filterWidget">
+        <!-- HEADER --------------------------------------->
+        <div class="collapsible-header source-header row">
+            <i class="material-icons header-start-icon col" style="color: teal">assignment_turned_in</i>
+            <div class="source_title header-title">Filters</div>
+            <i  class="material-icons header-end-icon" style="color: teal">expand_more</i>
+        </div>
+
+        <!-- BODY --------------------------------------->
+        <div class="collapsible-body filter-body">
+            <div class="row filterContent" style="display: none;">
+                <div class="col s12 m12 l12">
+                  <ul class="tabs addTab">
+
+                  </ul>
+                </div>
+            </div>
+            <label class="newfilter addFilterButton" onclick="newCalendar.getFilter().addFilter()">Nieuwe filter</label>
+            <button form="filterForm" class="addFilterButton saveFilter" style="float: right; display: none;" onclick="newCalendar.saveAllFilters(true)">Pas filters toe</button>
+        </div>
+    </li>

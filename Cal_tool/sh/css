@@ -1,0 +1,13 @@
+#!/bin/bash
+
+script_name=$0
+script_directory=$(dirname "$0")
+user_directory=$(pwd)
+cd $script_directory
+
+./compass
+ ./manage collectstatic
+
+cd $user_directory
+
+

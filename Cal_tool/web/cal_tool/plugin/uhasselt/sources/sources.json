@@ -1,0 +1,89 @@
+{
+  "sources":
+  [
+
+    {
+      "name": "3de bachelorjaar in de informatica",
+      "path": "http://collegeroosters.uhasselt.be/1401_2017_2018.ics",
+      "type": "URL"
+    }
+  ,
+
+    {
+      "name": "2de bachelorjaar in de informatica",
+      "path": "http://collegeroosters.uhasselt.be/1395_2017_2018.ics",
+      "type": "URL"
+    }
+  ,
+
+    {
+      "name": "2de bachelorjaar in de fysica",
+      "path": "http://collegeroosters.uhasselt.be/1394_2017_2018.ics",
+      "type": "URL"
+    }
+  ,
+
+    {
+      "name": "Master in de informatica",
+      "path": "http://collegeroosters.uhasselt.be/1405_2017_2018.ics",
+      "type": "URL"
+    }
+  ,
+
+    {
+      "name": "1ste bachelorjaar in de biologie",
+      "path": "http://collegeroosters.uhasselt.be/1387_2017_2018.ics",
+      "type": "URL"
+    }
+  ,
+
+    {
+      "name": "1ste bachelorjaar in de chemie",
+      "path": "http://collegeroosters.uhasselt.be/1388_2017_2018.ics",
+      "type": "URL"
+    }
+  ,
+
+    {
+      "name": "1ste bachelorjaar in de fysica",
+      "path": "http://collegeroosters.uhasselt.be/1389_2017_2018.ics",
+      "type": "URL"
+    }
+  ,
+
+    {
+      "name": "1ste bachelorjaar in de wiskunde",
+      "path": "http://collegeroosters.uhasselt.be/1390_2017_2018.ics",
+      "type": "URL"
+    }
+  ,
+
+    {
+      "name": "2de bachelorjaar in de biologie",
+      "path": "http://collegeroosters.uhasselt.be/1387_2017_2018.ics",
+      "type": "URL"
+    }
+  ,
+
+    {
+      "name": "2de bachelorjaar in de chemie",
+      "path": "http://collegeroosters.uhasselt.be/1393_2017_2018.ics",
+      "type": "URL"
+    }
+  ,
+
+    {
+      "name": "2de bachelorjaar in de fysica",
+      "path": "http://collegeroosters.uhasselt.be/1394_2017_2018.ics",
+      "type": "URL"
+    }
+  ,
+
+    {
+      "name": "2de bachelorjaar in de wiskunde",
+      "path": "http://collegeroosters.uhasselt.be/1396_2017_2018.ics",
+      "type": "URL"
+    }
+
+  ]
+}

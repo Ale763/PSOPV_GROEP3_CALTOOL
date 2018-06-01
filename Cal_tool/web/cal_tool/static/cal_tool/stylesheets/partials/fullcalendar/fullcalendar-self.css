@@ -1,0 +1,50 @@
+/* line 1, ../../../sass/partials/fullcalendar/fullcalendar-self.scss */
+.calendarview.btn-default {
+  background-color: black;
+  color: rgba(255, 255, 255, 0.84);
+  color: rgba(0, 0, 0, 0.84);
+}
+
+/* line 7, ../../../sass/partials/fullcalendar/fullcalendar-self.scss */
+.fc-button .fc-button-inner:hover {
+  background-color: red !important;
+  color: #fff !important;
+}
+
+/* line 12, ../../../sass/partials/fullcalendar/fullcalendar-self.scss */
+.fc-button.fc-state-active .fc-button-inner {
+  background-color: green !important;
+  color: #fff !important;
+}
+
+/* line 17, ../../../sass/partials/fullcalendar/fullcalendar-self.scss */
+.fc-button .fc-button-inner {
+  background-color: #000 !important;
+  color: #fff !important;
+}
+
+/* line 22, ../../../sass/partials/fullcalendar/fullcalendar-self.scss */
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+/* line 28, ../../../sass/partials/fullcalendar/fullcalendar-self.scss */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: grey;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+/* line 42, ../../../sass/partials/fullcalendar/fullcalendar-self.scss */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}

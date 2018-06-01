@@ -1,0 +1,2 @@
+00 03 * * * python3 /data/web/manage.py full_calendar_checkup
+*/15 * * * * python3 /data/web/manage.py short_term_calendar_checkup

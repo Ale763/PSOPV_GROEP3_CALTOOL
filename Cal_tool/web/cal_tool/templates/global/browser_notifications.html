@@ -1,0 +1,34 @@
+{#<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>#}
+<script type="text/javascript">
+// setup some JSON to use
+
+var email = "noreplycaltool@gmail.com";
+
+window.onload = function() {
+    // setup the button click
+    Notification.requestPermission();
+    setInterval(get_notifications(email), 60000);
+}
+
+    function get_notifications(p_email) {
+        // ajax the JSON to the server
+        $.ajax({
+        url: '/ajax/check_notifications/',
+        data: {
+          'email': p_email
+        },
+        dataType: 'json',
+        success: function (result) {
+              var notifications = result;
+              if(notifications.length>1)
+                  send_notifications("There are multiple updates in your calendars, check your email for specific updates");
+              else if(notifications.length==1)
+                send_notifications(notifications[0]['message']);
+            }
+        });
+    }
+
+    function send_notifications(p_message){
+        var e = new Notification("Calendar editing tool", {body: p_message.split('\n\n')[0]});
+    }
+</script>

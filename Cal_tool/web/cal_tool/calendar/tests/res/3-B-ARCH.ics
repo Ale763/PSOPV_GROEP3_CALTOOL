@@ -1,0 +1,3347 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uhasselt/lesroosters//NONSGML v1.0//EN
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UHasselt Uurroosters
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+DTSTART:20170918T063000Z
+DTEND:20170918T103000Z
+SEQUENCE:634715
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1825916_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170918T063000Z
+DTEND:20170918T103000Z
+SEQUENCE:634714
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1825964_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170918T113000Z
+DTEND:20170918T133000Z
+SEQUENCE:0
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1829138_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170918T113000Z
+DTEND:20170918T133000Z
+SEQUENCE:0
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1829141_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170918T140000Z
+DTEND:20170918T153000Z
+SEQUENCE:634723
+SUMMARY:   \; \;      OPENINGSLEZING\; \; \; \; "Auditorium Louis Verhaeg
+ en " (OG-Aud1)\; Campus Hasselt\; \; Voor: Alle groepen
+UID:1826834_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170920T063000Z
+DTEND:20170920T103000Z
+SEQUENCE:636984
+SUMMARY:OWP S\; E-C09\,E-C10\,E-C03\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Prof.int.arch. KLAPS Johannes\
+ ; E-C09\,E-C10\,E-C03\; (Werkzitting)\; Voor groep: 1
+UID:1826105_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170920T063000Z
+DTEND:20170920T103000Z
+SEQUENCE:633461
+SUMMARY:OWP S\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Int.arch. VERVOORT Roger\; E-C
+ 11\,E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826108_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170920T113000Z
+DTEND:20170920T153000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Prof.int.arch. KLAPS Johannes\
+ ; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1826111_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170920T113000Z
+DTEND:20170920T153000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Int.arch. VERVOORT Roger\; E-C
+ 11\,E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826114_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170921T073000Z
+DTEND:20170921T103000Z
+SEQUENCE:0
+SUMMARY:C&M S\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constructie en materiaalleer scenografie (2410)\; Arch.int.arch. 
+ FIRMAN Peter\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+UID:1826264_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170921T113000Z
+DTEND:20170921T143000Z
+SEQUENCE:0
+SUMMARY:ASR\; E-C2\; Retail Design\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Actualia scenografie en retail design (2413)\; dr. QUARTIER Katel
+ ijn\, Int.arch. CLAES Stephanie\; E-C2\; Retail Design\; (Hoorcol
+ lege)\; Voor: Alle groepen
+UID:1826282_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170922T063000Z
+DTEND:20170922T083000Z
+SEQUENCE:633467
+SUMMARY:PMAN\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Projectmanagement (2416)\; Int.arch. LANGENDRIES Johan\; E-C1\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1826309_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170922T083000Z
+DTEND:20170922T103000Z
+SEQUENCE:0
+SUMMARY:PMAN\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Projectmanagement (2416)\; Int.arch. LANGENDRIES Johan\; E-C1\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1826348_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170922T113000Z
+DTEND:20170922T143000Z
+SEQUENCE:0
+SUMMARY:C&M R\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constructie en materiaalleer retail design (2415)\; Arch.int.arch
+ . FIRMAN Peter\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+UID:1826372_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170925T063000Z
+DTEND:20170925T103000Z
+SEQUENCE:633429
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1825913_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170925T063000Z
+DTEND:20170925T103000Z
+SEQUENCE:633400
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1825967_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170925T113000Z
+DTEND:20170925T153000Z
+SEQUENCE:633430
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1826012_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170925T113000Z
+DTEND:20170925T153000Z
+SEQUENCE:633402
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826060_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170927T063000Z
+DTEND:20170927T103000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Prof.int.arch. KLAPS Johannes\
+ ; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1826117_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170927T063000Z
+DTEND:20170927T103000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Int.arch. VERVOORT Roger\; E-C
+ 11\,E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826153_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170927T113000Z
+DTEND:20170927T153000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Prof.int.arch. KLAPS Johannes\
+ ; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1826189_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170927T113000Z
+DTEND:20170927T153000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Int.arch. VERVOORT Roger\; E-C
+ 11\,E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826225_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T073000Z
+DTEND:20170928T103000Z
+SEQUENCE:0
+SUMMARY:C&M S\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constructie en materiaalleer scenografie (2410)\; Arch.int.arch. 
+ FIRMAN Peter\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+UID:1826267_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T113000Z
+DTEND:20170928T143000Z
+SEQUENCE:0
+SUMMARY:ASR\; E-C2\; Retail Design\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Actualia scenografie en retail design (2413)\; dr. QUARTIER Katel
+ ijn\, Int.arch. CLAES Stephanie\; E-C2\; Retail Design\; (Hoorcol
+ lege)\; Voor: Alle groepen
+UID:1826285_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T063000Z
+DTEND:20170929T083000Z
+SEQUENCE:639843
+SUMMARY:PMAN\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Projectmanagement (2416)\; Prof. dr. DRAYE Anne Mie\; E-C1\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1826312_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T083000Z
+DTEND:20170929T103000Z
+SEQUENCE:0
+SUMMARY:PMAN\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Projectmanagement (2416)\; Int.arch. LANGENDRIES Johan\; E-C1\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1826351_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T113000Z
+DTEND:20170929T143000Z
+SEQUENCE:0
+SUMMARY:C&M R\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constructie en materiaalleer retail design (2415)\; Arch.int.arch
+ . FIRMAN Peter\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+UID:1826375_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T063000Z
+DTEND:20171002T103000Z
+SEQUENCE:633431
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1825925_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T063000Z
+DTEND:20171002T103000Z
+SEQUENCE:633403
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1825970_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210057Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T113000Z
+DTEND:20171002T153000Z
+SEQUENCE:633456
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1826015_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T113000Z
+DTEND:20171002T153000Z
+SEQUENCE:633404
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826063_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171004T063000Z
+DTEND:20171004T103000Z
+SEQUENCE:641413
+SUMMARY:OWP S\; E-C09\,E-C10\,E-C04\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Prof.int.arch. KLAPS Johannes\
+ ; E-C09\,E-C10\,E-C04\; (Werkzitting)\; Voor groep: 1
+UID:1826120_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171004T063000Z
+DTEND:20171004T103000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Int.arch. VERVOORT Roger\; E-C
+ 11\,E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826156_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171004T113000Z
+DTEND:20171004T153000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Prof.int.arch. KLAPS Johannes\
+ ; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1826192_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171004T113000Z
+DTEND:20171004T153000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Int.arch. VERVOORT Roger\; E-C
+ 11\,E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826228_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171005T073000Z
+DTEND:20171005T103000Z
+SEQUENCE:0
+SUMMARY:C&M S\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constructie en materiaalleer scenografie (2410)\; Arch.int.arch. 
+ FIRMAN Peter\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+UID:1826270_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171005T113000Z
+DTEND:20171005T143000Z
+SEQUENCE:0
+SUMMARY:ASR\; E-C2\; Retail Design\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Actualia scenografie en retail design (2413)\; dr. QUARTIER Katel
+ ijn\, Int.arch. CLAES Stephanie\; E-C2\; Retail Design\; (Hoorcol
+ lege)\; Voor: Alle groepen
+UID:1826288_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171006T063000Z
+DTEND:20171006T083000Z
+SEQUENCE:639846
+SUMMARY:PMAN\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Projectmanagement (2416)\; Int.arch. LANGENDRIES Johan\; E-C1\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1826315_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171006T083000Z
+DTEND:20171006T103000Z
+SEQUENCE:0
+SUMMARY:PMAN\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Projectmanagement (2416)\; Int.arch. LANGENDRIES Johan\; E-C1\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1826354_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171006T113000Z
+DTEND:20171006T143000Z
+SEQUENCE:0
+SUMMARY:C&M R\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constructie en materiaalleer retail design (2415)\; Arch.int.arch
+ . FIRMAN Peter\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+UID:1826378_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T063000Z
+DTEND:20171009T103000Z
+SEQUENCE:633457
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1825928_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T063000Z
+DTEND:20171009T103000Z
+SEQUENCE:633405
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1825973_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T113000Z
+DTEND:20171009T153000Z
+SEQUENCE:633458
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1826018_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T113000Z
+DTEND:20171009T153000Z
+SEQUENCE:633406
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826066_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171011T063000Z
+DTEND:20171011T103000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Prof.int.arch. KLAPS Johannes\
+ ; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1826123_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171011T063000Z
+DTEND:20171011T103000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Int.arch. VERVOORT Roger\; E-C
+ 11\,E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826159_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171011T113000Z
+DTEND:20171011T153000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Prof.int.arch. KLAPS Johannes\
+ ; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1826195_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171011T113000Z
+DTEND:20171011T153000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Int.arch. VERVOORT Roger\; E-C
+ 11\,E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826231_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171012T073000Z
+DTEND:20171012T103000Z
+SEQUENCE:0
+SUMMARY:C&M S\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constructie en materiaalleer scenografie (2410)\; Arch.int.arch. 
+ FIRMAN Peter\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+UID:1826273_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171012T113000Z
+DTEND:20171012T143000Z
+SEQUENCE:0
+SUMMARY:ASR\; E-C2\; Retail Design\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Actualia scenografie en retail design (2413)\; dr. QUARTIER Katel
+ ijn\, Int.arch. CLAES Stephanie\; E-C2\; Retail Design\; (Hoorcol
+ lege)\; Voor: Alle groepen
+UID:1826291_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171013T063000Z
+DTEND:20171013T083000Z
+SEQUENCE:639847
+SUMMARY:PMAN\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Projectmanagement (2416)\; De heer DE GENDT Tom\; E-C1\; (Hoorcol
+ lege)\; Voor: Alle groepen
+UID:1826318_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171013T083000Z
+DTEND:20171013T103000Z
+SEQUENCE:0
+SUMMARY:PMAN\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Projectmanagement (2416)\; Int.arch. LANGENDRIES Johan\; E-C1\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1826360_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171013T113000Z
+DTEND:20171013T143000Z
+SEQUENCE:0
+SUMMARY:C&M R\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constructie en materiaalleer retail design (2415)\; Arch.int.arch
+ . FIRMAN Peter\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+UID:1826381_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T063000Z
+DTEND:20171016T103000Z
+SEQUENCE:633434
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1825931_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T063000Z
+DTEND:20171016T103000Z
+SEQUENCE:633407
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1825976_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T113000Z
+DTEND:20171016T153000Z
+SEQUENCE:633435
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1826021_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T113000Z
+DTEND:20171016T153000Z
+SEQUENCE:633408
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826069_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171018T063000Z
+DTEND:20171018T103000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Prof.int.arch. KLAPS Johannes\
+ ; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1826126_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171018T063000Z
+DTEND:20171018T103000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Int.arch. VERVOORT Roger\; E-C
+ 11\,E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826162_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171018T113000Z
+DTEND:20171018T153000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Prof.int.arch. KLAPS Johannes\
+ ; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1826198_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171018T113000Z
+DTEND:20171018T153000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Int.arch. VERVOORT Roger\; E-C
+ 11\,E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826234_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171019T073000Z
+DTEND:20171019T103000Z
+SEQUENCE:0
+SUMMARY:C&M S\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constructie en materiaalleer scenografie (2410)\; Arch.int.arch. 
+ FIRMAN Peter\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+UID:1826276_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171019T113000Z
+DTEND:20171019T143000Z
+SEQUENCE:0
+SUMMARY:ASR\; E-C2\; Retail Design\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Actualia scenografie en retail design (2413)\; dr. QUARTIER Katel
+ ijn\, Int.arch. CLAES Stephanie\; E-C2\; Retail Design\; (Hoorcol
+ lege)\; Voor: Alle groepen
+UID:1826294_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171019T153000Z
+DTEND:20171019T180000Z
+SEQUENCE:640513
+SUMMARY:\; \; "internationale avond/ international evening fac ARK"\; \; 
+ van 17 tot 20u30 \; \; Agora Gebouw E\; \; \; Voor: Alle groepen
+UID:1839086_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171020T063000Z
+DTEND:20171020T083000Z
+SEQUENCE:0
+SUMMARY:PMAN\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Projectmanagement (2416)\; Prof. dr. DRAYE Anne Mie\; E-C1\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1826321_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171020T083000Z
+DTEND:20171020T103000Z
+SEQUENCE:0
+SUMMARY:PMAN\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Projectmanagement (2416)\; Int.arch. LANGENDRIES Johan\; E-C1\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1826363_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171020T113000Z
+DTEND:20171020T143000Z
+SEQUENCE:0
+SUMMARY:C&M R\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constructie en materiaalleer retail design (2415)\; Arch.int.arch
+ . FIRMAN Peter\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+UID:1826384_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171023T063000Z
+DTEND:20171023T103000Z
+SEQUENCE:633436
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1825934_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171023T063000Z
+DTEND:20171023T103000Z
+SEQUENCE:633409
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1825979_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171023T113000Z
+DTEND:20171023T153000Z
+SEQUENCE:633437
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1826024_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171023T113000Z
+DTEND:20171023T153000Z
+SEQUENCE:633410
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826072_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171025T063000Z
+DTEND:20171025T103000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Prof.int.arch. KLAPS Johannes\
+ ; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1826129_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171025T063000Z
+DTEND:20171025T103000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Int.arch. VERVOORT Roger\; E-C
+ 11\,E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826165_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171025T113000Z
+DTEND:20171025T153000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Prof.int.arch. KLAPS Johannes\
+ ; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1826201_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171025T113000Z
+DTEND:20171025T153000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Int.arch. VERVOORT Roger\; E-C
+ 11\,E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826237_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171026T113000Z
+DTEND:20171026T143000Z
+SEQUENCE:0
+SUMMARY:ASR\; E-C2\; Retail Design\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Actualia scenografie en retail design (2413)\; dr. QUARTIER Katel
+ ijn\, Int.arch. CLAES Stephanie\; E-C2\; Retail Design\; (Hoorcol
+ lege)\; Voor: Alle groepen
+UID:1826297_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171027T063000Z
+DTEND:20171027T083000Z
+SEQUENCE:640505
+SUMMARY:PMAN\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Projectmanagement (2416)\; Int.arch. LANGENDRIES Johan\; E-C1\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1826324_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171027T083000Z
+DTEND:20171027T103000Z
+SEQUENCE:640506
+SUMMARY:PMAN\; E-C1\; Mevr. Smits\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Projectmanagement (2416)\; E-C1\; Mevr. Smits\; (Hoorcollege)\; V
+ oor: Alle groepen
+UID:1826366_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171030T073000Z
+DTEND:20171030T113000Z
+SEQUENCE:633438
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1825937_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171030T073000Z
+DTEND:20171030T113000Z
+SEQUENCE:633411
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1825982_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171030T123000Z
+DTEND:20171030T163000Z
+SEQUENCE:633439
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1826027_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171030T123000Z
+DTEND:20171030T163000Z
+SEQUENCE:633412
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826075_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T073000Z
+DTEND:20171106T113000Z
+SEQUENCE:633440
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1825940_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T073000Z
+DTEND:20171106T113000Z
+SEQUENCE:633413
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1825985_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T123000Z
+DTEND:20171106T163000Z
+SEQUENCE:633441
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1826030_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T123000Z
+DTEND:20171106T163000Z
+SEQUENCE:633414
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826078_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171108T073000Z
+DTEND:20171108T113000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Prof.int.arch. KLAPS Johannes\
+ ; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1826132_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171108T073000Z
+DTEND:20171108T113000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Int.arch. VERVOORT Roger\; E-C
+ 11\,E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826168_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171108T123000Z
+DTEND:20171108T163000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Prof.int.arch. KLAPS Johannes\
+ ; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1826204_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171108T123000Z
+DTEND:20171108T163000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Int.arch. VERVOORT Roger\; E-C
+ 11\,E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826240_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171109T083000Z
+DTEND:20171109T113000Z
+SEQUENCE:646565
+SUMMARY:C&M S\; E-C2\; gastcollege Akoestiek\; (Hoorcollege)\; Voor: Alle
+  groepen
+DESCRIPTION:Constructie en materiaalleer scenografie (2410)\; Arch.int.arch. 
+ FIRMAN Peter\; E-C2\; gastcollege Akoestiek\; (Hoorcollege)\; Voo
+ r: Alle groepen
+UID:1826279_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171109T123000Z
+DTEND:20171109T163000Z
+SEQUENCE:634721
+SUMMARY:ASR\; E-C2\; Scenografie\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Actualia scenografie en retail design (2413)\; Mevrouw GRUSON Edi
+ th\; E-C2\; Scenografie\; (Hoorcollege)\; Voor: Alle groepen
+UID:1826300_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171110T073000Z
+DTEND:20171110T093000Z
+SEQUENCE:640507
+SUMMARY:PMAN\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Projectmanagement (2416)\; Int.arch. LANGENDRIES Johan\; E-C1\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1839080_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171110T093000Z
+DTEND:20171110T113000Z
+SEQUENCE:0
+SUMMARY:PMAN\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Projectmanagement (2416)\; Int.arch. LANGENDRIES Johan\; E-C1\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1826369_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171110T123000Z
+DTEND:20171110T153000Z
+SEQUENCE:0
+SUMMARY:C&M R\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constructie en materiaalleer retail design (2415)\; Arch.int.arch
+ . FIRMAN Peter\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+UID:1826390_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T073000Z
+DTEND:20171113T113000Z
+SEQUENCE:633442
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1825943_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T073000Z
+DTEND:20171113T113000Z
+SEQUENCE:633415
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1825988_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T123000Z
+DTEND:20171113T163000Z
+SEQUENCE:633443
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1826033_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T123000Z
+DTEND:20171113T163000Z
+SEQUENCE:633416
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826081_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171115T073000Z
+DTEND:20171115T113000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Prof.int.arch. KLAPS Johannes\
+ ; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1826135_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171115T073000Z
+DTEND:20171115T113000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Int.arch. VERVOORT Roger\; E-C
+ 11\,E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826171_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171115T123000Z
+DTEND:20171115T163000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Prof.int.arch. KLAPS Johannes\
+ ; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1826207_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171115T123000Z
+DTEND:20171115T163000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Int.arch. VERVOORT Roger\; E-C
+ 11\,E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826243_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171116T083000Z
+DTEND:20171116T113000Z
+SEQUENCE:646566
+SUMMARY:C&M S\; E-C1\; (Hoorcollege)\; Voor groepen: 1\, 2
+DESCRIPTION:Constructie en materiaalleer scenografie (2410)\; Arch.int.arch. 
+ FIRMAN Peter\; E-C1\; (Hoorcollege)\; Voor groepen: 1\, 2
+UID:1826261_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171116T123000Z
+DTEND:20171116T163000Z
+SEQUENCE:0
+SUMMARY:ASR\; E-C2\; Scenografie\; (Hoorcollege)\; Voor groep: A
+DESCRIPTION:Actualia scenografie en retail design (2413)\; Mevrouw GRUSON Edi
+ th\; E-C2\; Scenografie\; (Hoorcollege)\; Voor groep: A
+UID:1829144_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171117T080000Z
+DTEND:20171117T113000Z
+SEQUENCE:633466
+SUMMARY:PMAN\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Projectmanagement (2416)\; Int.arch. LANGENDRIES Johan\; E-C1\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1826330_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171117T123000Z
+DTEND:20171117T153000Z
+SEQUENCE:646564
+SUMMARY:C&M R\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constructie en materiaalleer retail design (2415)\; Arch.int.arch
+ . FIRMAN Peter\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+UID:1826387_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171120T073000Z
+DTEND:20171120T113000Z
+SEQUENCE:633444
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1825946_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171120T073000Z
+DTEND:20171120T113000Z
+SEQUENCE:633417
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1825991_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171120T123000Z
+DTEND:20171120T163000Z
+SEQUENCE:633445
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1826036_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171120T123000Z
+DTEND:20171120T163000Z
+SEQUENCE:633418
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826084_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171122T073000Z
+DTEND:20171122T113000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Prof.int.arch. KLAPS Johannes\
+ ; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1826138_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171122T073000Z
+DTEND:20171122T113000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Int.arch. VERVOORT Roger\; E-C
+ 11\,E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826174_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171122T123000Z
+DTEND:20171122T163000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Prof.int.arch. KLAPS Johannes\
+ ; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1826210_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171122T123000Z
+DTEND:20171122T163000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Int.arch. VERVOORT Roger\; E-C
+ 11\,E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826246_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171123T123000Z
+DTEND:20171123T163000Z
+SEQUENCE:634717
+SUMMARY:ASR\; E-C2\; Scenografie\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Actualia scenografie en retail design (2413)\; Mevrouw GRUSON Edi
+ th\; E-C2\; Scenografie\; (Hoorcollege)\; Voor: Alle groepen
+UID:1826306_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171124T080000Z
+DTEND:20171124T113000Z
+SEQUENCE:0
+SUMMARY:PMAN\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Projectmanagement (2416)\; Int.arch. LANGENDRIES Johan\; E-C1\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1826333_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T073000Z
+DTEND:20171127T113000Z
+SEQUENCE:633446
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1825949_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T073000Z
+DTEND:20171127T113000Z
+SEQUENCE:633419
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1825994_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T123000Z
+DTEND:20171127T163000Z
+SEQUENCE:633447
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1826039_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T123000Z
+DTEND:20171127T163000Z
+SEQUENCE:633420
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826087_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171129T073000Z
+DTEND:20171129T113000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Prof.int.arch. KLAPS Johannes\
+ ; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1826141_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171129T073000Z
+DTEND:20171129T113000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Int.arch. VERVOORT Roger\; E-C
+ 11\,E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826177_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171129T113000Z
+DTEND:20171129T123000Z
+SEQUENCE:0
+SUMMARY:EVALUATIEVERGADERING\; E-A35\; Voor: Alle groepen
+DESCRIPTION: ()\; E-A35\; Voor: Alle groepen
+UID:1844978_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210058Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171129T123000Z
+DTEND:20171129T163000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Prof.int.arch. KLAPS Johannes\
+ ; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1826213_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171129T123000Z
+DTEND:20171129T163000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Int.arch. VERVOORT Roger\; E-C
+ 11\,E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826249_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171130T093000Z
+DTEND:20171130T113000Z
+SEQUENCE:0
+SUMMARY:OWP R\; E-C03\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Ontwerpstudio retail design (2414)\; dr. QUARTIER Katelijn\; E-C0
+ 3\; (Werkzitting)\; Voor: Alle groepen
+UID:1858109_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171130T123000Z
+DTEND:20171130T163000Z
+SEQUENCE:634718
+SUMMARY:ASR\; E-C2\; Scenografie\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Actualia scenografie en retail design (2413)\; Mevrouw GRUSON Edi
+ th\; E-C2\; Scenografie\; (Hoorcollege)\; Voor: Alle groepen
+UID:1826303_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171201T080000Z
+DTEND:20171201T113000Z
+SEQUENCE:0
+SUMMARY:PMAN\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Projectmanagement (2416)\; Int.arch. LANGENDRIES Johan\; E-C1\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1826336_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T073000Z
+DTEND:20171204T113000Z
+SEQUENCE:633448
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1825955_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T073000Z
+DTEND:20171204T113000Z
+SEQUENCE:633421
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1825997_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T123000Z
+DTEND:20171204T163000Z
+SEQUENCE:633449
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1826042_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T123000Z
+DTEND:20171204T163000Z
+SEQUENCE:633423
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826090_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171206T073000Z
+DTEND:20171206T113000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Prof.int.arch. KLAPS Johannes\
+ ; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1826144_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171206T073000Z
+DTEND:20171206T113000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Int.arch. VERVOORT Roger\; E-C
+ 11\,E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826180_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171206T123000Z
+DTEND:20171206T163000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Prof.int.arch. KLAPS Johannes\
+ ; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1826216_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171206T123000Z
+DTEND:20171206T163000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Int.arch. VERVOORT Roger\; E-C
+ 11\,E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826252_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171208T080000Z
+DTEND:20171208T113000Z
+SEQUENCE:0
+SUMMARY:PMAN\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Projectmanagement (2416)\; Int.arch. LANGENDRIES Johan\; E-C1\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1826339_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171211T073000Z
+DTEND:20171211T113000Z
+SEQUENCE:633450
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1825958_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171211T073000Z
+DTEND:20171211T113000Z
+SEQUENCE:633424
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826000_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171211T123000Z
+DTEND:20171211T163000Z
+SEQUENCE:633451
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1826045_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171211T123000Z
+DTEND:20171211T163000Z
+SEQUENCE:633425
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826093_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171213T073000Z
+DTEND:20171213T113000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Prof.int.arch. KLAPS Johannes\
+ ; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1826147_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171213T073000Z
+DTEND:20171213T113000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Int.arch. VERVOORT Roger\; E-C
+ 11\,E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826183_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171213T123000Z
+DTEND:20171213T163000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Prof.int.arch. KLAPS Johannes\
+ ; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1826219_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171213T123000Z
+DTEND:20171213T163000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Int.arch. VERVOORT Roger\; E-C
+ 11\,E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826255_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171215T080000Z
+DTEND:20171215T113000Z
+SEQUENCE:0
+SUMMARY:PMAN\; E-C1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Projectmanagement (2416)\; Int.arch. LANGENDRIES Johan\; E-C1\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1826342_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T073000Z
+DTEND:20171218T113000Z
+SEQUENCE:633452
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1825961_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T073000Z
+DTEND:20171218T113000Z
+SEQUENCE:633426
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826003_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T123000Z
+DTEND:20171218T163000Z
+SEQUENCE:633453
+SUMMARY:OWP R\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. SWARTENBROUX Phili
+ ppe\, dr. QUARTIER Katelijn\; E-C11\; (Werkzitting)\; Voor groep:
+  1
+UID:1826048_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T123000Z
+DTEND:20171218T163000Z
+SEQUENCE:633427
+SUMMARY:OWP R\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio retail design (2414)\; Int.arch. CLAES Stephanie\; 
+ E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826051_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171220T073000Z
+DTEND:20171220T113000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Prof.int.arch. KLAPS Johannes\
+ ; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1826150_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171220T073000Z
+DTEND:20171220T113000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Int.arch. VERVOORT Roger\; E-C
+ 11\,E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826186_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171220T123000Z
+DTEND:20171220T163000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Prof.int.arch. KLAPS Johannes\
+ ; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1826222_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171220T123000Z
+DTEND:20171220T163000Z
+SEQUENCE:0
+SUMMARY:OWP S\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio scenografie (2409)\; Int.arch. VERVOORT Roger\; E-C
+ 11\,E-C12\; (Werkzitting)\; Voor groep: 2
+UID:1826258_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180212T073000Z
+DTEND:20180212T113000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. CLAES Gilberte\; E-C11\; 
+ (Werkzitting)\; Voor groep: 1
+UID:1863638_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180212T073000Z
+DTEND:20180212T113000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. LANGENDRIES Johan\; E-C12
+ \; (Werkzitting)\; Voor groep: 2
+UID:1863641_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180212T123000Z
+DTEND:20180212T163000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. LANGENDRIES Johan\; E-C12
+ \; (Werkzitting)\; Voor groep: 2
+UID:1863644_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180212T123000Z
+DTEND:20180212T163000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. CLAES Gilberte\; E-C11\; 
+ (Werkzitting)\; Voor groep: 1
+UID:1863647_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180213T073000Z
+DTEND:20180213T093000Z
+SEQUENCE:0
+SUMMARY:AMH\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Actualia meubel en herbestemming (2418)\; Prof.arch.int.arch. HEY
+ NICKX Saidja\, Mevrouw VAN DEN BOSCH Linde\; E-C1\; (Werkzitting)
+ \; Voor: Alle groepen
+UID:1863770_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180213T093000Z
+DTEND:20180213T113000Z
+SEQUENCE:654365
+SUMMARY:AMH\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Actualia meubel en herbestemming (2418)\; Arch. LENS Karen\; E-C1
+ \; (Werkzitting)\; Voor: Alle groepen
+UID:1863773_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180213T123000Z
+DTEND:20180213T143000Z
+SEQUENCE:654383
+SUMMARY:C&M H\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Constructie en materiaalleer herbestemming (2420)\; Arch. MINTEN 
+ Dimitri\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+UID:1863776_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180214T073000Z
+DTEND:20180214T113000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Int.arch. SWARTENBROUX Phili
+ ppe\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1864514_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180214T073000Z
+DTEND:20180214T113000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Arch. LEUS Maria\; E-C11\,E-
+ C12\; (Werkzitting)\; Voor groep: 2
+UID:1864520_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180214T123000Z
+DTEND:20180214T163000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Int.arch. SWARTENBROUX Phili
+ ppe\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1864610_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180214T123000Z
+DTEND:20180214T163000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Arch. LEUS Maria\; E-C11\,E-
+ C12\; (Werkzitting)\; Voor groep: 2
+UID:1864613_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180215T073000Z
+DTEND:20180215T113000Z
+SEQUENCE:654535
+SUMMARY:C&M M\; E-A03\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constructie en materiaalleer meubel (2412)\; Int.arch. LANGENDRIE
+ S Johan\; E-A03\; (Hoorcollege)\; Voor: Alle groepen
+UID:1872365_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180215T123000Z
+DTEND:20180215T143000Z
+SEQUENCE:663080
+SUMMARY:P&OI\; E-A01\; Inleiding Portfolio\; (Hoorcollege)\; Voor: Alle g
+ roepen
+DESCRIPTION:Portfolio en ontwerpersidentiteit (3285)\; dr.ir.arch. ROES Remco
+ \; E-A01\; Inleiding Portfolio\; (Hoorcollege)\; Voor: Alle groep
+ en
+UID:1864754_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180215T143000Z
+DTEND:20180215T163000Z
+SEQUENCE:663081
+SUMMARY:P&OI\; E-A01\; Inleiding oefeningen\; (Hoorcollege)\; Voor: Alle 
+ groepen
+DESCRIPTION:Portfolio en ontwerpersidentiteit (3285)\; Mevrouw GRUSON Edith\;
+  E-A01\; Inleiding oefeningen\; (Hoorcollege)\; Voor: Alle groepe
+ n
+UID:1900295_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180219T073000Z
+DTEND:20180219T113000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. CLAES Gilberte\; E-C11\; 
+ (Werkzitting)\; Voor groep: 1
+UID:1863650_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180219T073000Z
+DTEND:20180219T113000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. LANGENDRIES Johan\; E-C12
+ \; (Werkzitting)\; Voor groep: 2
+UID:1863680_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180219T123000Z
+DTEND:20180219T163000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. CLAES Gilberte\; E-C11\; 
+ (Werkzitting)\; Voor groep: 1
+UID:1863710_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180219T123000Z
+DTEND:20180219T163000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. LANGENDRIES Johan\; E-C12
+ \; (Werkzitting)\; Voor groep: 2
+UID:1863740_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180220T073000Z
+DTEND:20180220T093000Z
+SEQUENCE:0
+SUMMARY:AMH\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Actualia meubel en herbestemming (2418)\; Prof.arch.int.arch. HEY
+ NICKX Saidja\, Mevrouw VAN DEN BOSCH Linde\; E-C1\; (Werkzitting)
+ \; Voor: Alle groepen
+UID:1863815_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180220T093000Z
+DTEND:20180220T113000Z
+SEQUENCE:654367
+SUMMARY:AMH\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Actualia meubel en herbestemming (2418)\; Arch. LENS Karen\; E-C1
+ \; (Werkzitting)\; Voor: Alle groepen
+UID:1863791_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180220T123000Z
+DTEND:20180220T143000Z
+SEQUENCE:654384
+SUMMARY:C&M H\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Constructie en materiaalleer herbestemming (2420)\; Arch. MINTEN 
+ Dimitri\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+UID:1863779_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180221T073000Z
+DTEND:20180221T113000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Int.arch. SWARTENBROUX Phili
+ ppe\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1864529_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180221T073000Z
+DTEND:20180221T113000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Arch. LEUS Maria\; E-C11\,E-
+ C12\; (Werkzitting)\; Voor groep: 2
+UID:1864571_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180221T123000Z
+DTEND:20180221T163000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Int.arch. SWARTENBROUX Phili
+ ppe\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1864616_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180221T123000Z
+DTEND:20180221T163000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Arch. LEUS Maria\; E-C11\,E-
+ C12\; (Werkzitting)\; Voor groep: 2
+UID:1864652_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180221T160000Z
+DTEND:20180221T170000Z
+SEQUENCE:663948
+SUMMARY:MASTERBEURS\; Aud. E-B4\; Voor: Alle groepen
+UID:1901342_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180222T073000Z
+DTEND:20180222T113000Z
+SEQUENCE:663082
+SUMMARY:P&OI\; E-A35\; (Werkcollege)\; Voor groep: 1
+DESCRIPTION:Portfolio en ontwerpersidentiteit (3285)\; dr.ir.arch. ROES Remco
+ \, Mevrouw GRUSON Edith\; E-A35\; (Werkcollege)\; Voor groep: 1
+UID:1864757_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180222T123000Z
+DTEND:20180222T163000Z
+SEQUENCE:663083
+SUMMARY:P&OI\; E-A35\; (Werkcollege)\; Voor groep: 2
+DESCRIPTION:Portfolio en ontwerpersidentiteit (3285)\; dr.ir.arch. ROES Remco
+ \, Mevrouw GRUSON Edith\; E-A35\; (Werkcollege)\; Voor groep: 2
+UID:1864769_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180223T073000Z
+DTEND:20180223T113000Z
+SEQUENCE:666713
+SUMMARY:C&M M\; E-C03\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constructie en materiaalleer meubel (2412)\; Int.arch. LANGENDRIE
+ S Johan\; E-C03\; (Hoorcollege)\; Voor: Alle groepen
+UID:1872368_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180226T073000Z
+DTEND:20180226T113000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. CLAES Gilberte\; E-C11\; 
+ (Werkzitting)\; Voor groep: 1
+UID:1863653_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180226T073000Z
+DTEND:20180226T113000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. LANGENDRIES Johan\; E-C12
+ \; (Werkzitting)\; Voor groep: 2
+UID:1863683_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180226T123000Z
+DTEND:20180226T163000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. CLAES Gilberte\; E-C11\; 
+ (Werkzitting)\; Voor groep: 1
+UID:1863713_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180226T123000Z
+DTEND:20180226T163000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. LANGENDRIES Johan\; E-C12
+ \; (Werkzitting)\; Voor groep: 2
+UID:1863743_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180227T073000Z
+DTEND:20180227T093000Z
+SEQUENCE:0
+SUMMARY:AMH\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Actualia meubel en herbestemming (2418)\; Prof.arch.int.arch. HEY
+ NICKX Saidja\, Mevrouw VAN DEN BOSCH Linde\; E-C1\; (Werkzitting)
+ \; Voor: Alle groepen
+UID:1863818_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180227T123000Z
+DTEND:20180227T143000Z
+SEQUENCE:654386
+SUMMARY:C&M H\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Constructie en materiaalleer herbestemming (2420)\; Arch. MINTEN 
+ Dimitri\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+UID:1863782_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180228T073000Z
+DTEND:20180228T113000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Int.arch. SWARTENBROUX Phili
+ ppe\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1864532_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180228T073000Z
+DTEND:20180228T113000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Arch. LEUS Maria\; E-C11\,E-
+ C12\; (Werkzitting)\; Voor groep: 2
+UID:1864574_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180228T123000Z
+DTEND:20180228T163000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Int.arch. SWARTENBROUX Phili
+ ppe\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1864619_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180228T123000Z
+DTEND:20180228T163000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Arch. LEUS Maria\; E-C11\,E-
+ C12\; (Werkzitting)\; Voor groep: 2
+UID:1864655_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180301T123000Z
+DTEND:20180301T163000Z
+SEQUENCE:663945
+SUMMARY:FACsTORIES\; Voor: Alle groepen
+DESCRIPTION: ()\; Voor: Alle groepen
+UID:1901345_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180302T073000Z
+DTEND:20180302T113000Z
+SEQUENCE:666699
+SUMMARY:P&OI\; E-A01\; (Werkcollege)\; Voor groep: 2
+DESCRIPTION:Portfolio en ontwerpersidentiteit (3285)\; dr.ir.arch. ROES Remco
+ \, Mevrouw GRUSON Edith\; E-A01\; (Werkcollege)\; Voor groep: 2
+UID:1864892_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180302T123000Z
+DTEND:20180302T163000Z
+SEQUENCE:666700
+SUMMARY:P&OI\; E-A01\; (Werkcollege)\; Voor groep: 1
+DESCRIPTION:Portfolio en ontwerpersidentiteit (3285)\; dr.ir.arch. ROES Remco
+ \, Mevrouw GRUSON Edith\; E-A01\; (Werkcollege)\; Voor groep: 1
+UID:1864874_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180305T073000Z
+DTEND:20180305T113000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. CLAES Gilberte\; E-C11\; 
+ (Werkzitting)\; Voor groep: 1
+UID:1863656_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180305T073000Z
+DTEND:20180305T113000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. LANGENDRIES Johan\; E-C12
+ \; (Werkzitting)\; Voor groep: 2
+UID:1863686_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180305T123000Z
+DTEND:20180305T163000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. CLAES Gilberte\; E-C11\; 
+ (Werkzitting)\; Voor groep: 1
+UID:1863716_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180305T123000Z
+DTEND:20180305T163000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. LANGENDRIES Johan\; E-C12
+ \; (Werkzitting)\; Voor groep: 2
+UID:1863746_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180306T073000Z
+DTEND:20180306T093000Z
+SEQUENCE:0
+SUMMARY:AMH\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Actualia meubel en herbestemming (2418)\; Prof.arch.int.arch. HEY
+ NICKX Saidja\, Mevrouw VAN DEN BOSCH Linde\; E-C1\; (Werkzitting)
+ \; Voor: Alle groepen
+UID:1863821_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180306T093000Z
+DTEND:20180306T113000Z
+SEQUENCE:654370
+SUMMARY:AMH\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Actualia meubel en herbestemming (2418)\; Arch. LENS Karen\; E-C1
+ \; (Werkzitting)\; Voor: Alle groepen
+UID:1863797_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180306T123000Z
+DTEND:20180306T143000Z
+SEQUENCE:654387
+SUMMARY:C&M H\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Constructie en materiaalleer herbestemming (2420)\; Arch. MINTEN 
+ Dimitri\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+UID:1863785_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180307T073000Z
+DTEND:20180307T113000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Int.arch. SWARTENBROUX Phili
+ ppe\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1864535_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180307T073000Z
+DTEND:20180307T113000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Arch. LEUS Maria\; E-C11\,E-
+ C12\; (Werkzitting)\; Voor groep: 2
+UID:1864577_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180307T123000Z
+DTEND:20180307T163000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Int.arch. SWARTENBROUX Phili
+ ppe\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1864622_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180307T123000Z
+DTEND:20180307T163000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Arch. LEUS Maria\; E-C11\,E-
+ C12\; (Werkzitting)\; Voor groep: 2
+UID:1864658_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180308T073000Z
+DTEND:20180308T163000Z
+SEQUENCE:668194
+SUMMARY:C&M M\; LANGENDRIES Johan\; \; BEDRIJFSBEZOEK NIKO-DESSO-BULO\; 8
+ :00: vertrek met bus op parking ARC Diepenbeek\; 19:00: aankomst 
+ in Diepenbeek\; \; Voor: Alle groepen
+UID:1872362_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180309T083000Z
+DTEND:20180309T163000Z
+SEQUENCE:663087
+SUMMARY:P&OI\; E-A01\; Presentaties portfolio\; (Werkcollege)\; Voor: All
+ e groepen
+DESCRIPTION:Portfolio en ontwerpersidentiteit (3285)\; dr.ir.arch. ROES Remco
+ \, Arch.int.arch. HARZE Gitte\, Prof.int.arch. KLAPS Johannes\; E
+ -A01\; Presentaties portfolio\; (Werkcollege)\; Voor: Alle groepe
+ n
+UID:1872371_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180312T073000Z
+DTEND:20180312T113000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. CLAES Gilberte\; E-C11\; 
+ (Werkzitting)\; Voor groep: 1
+UID:1863659_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180312T073000Z
+DTEND:20180312T113000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. LANGENDRIES Johan\; E-C12
+ \; (Werkzitting)\; Voor groep: 2
+UID:1863689_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180312T123000Z
+DTEND:20180312T163000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. CLAES Gilberte\; E-C11\; 
+ (Werkzitting)\; Voor groep: 1
+UID:1863719_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180312T123000Z
+DTEND:20180312T163000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. LANGENDRIES Johan\; E-C12
+ \; (Werkzitting)\; Voor groep: 2
+UID:1863749_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180313T073000Z
+DTEND:20180313T093000Z
+SEQUENCE:0
+SUMMARY:AMH\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Actualia meubel en herbestemming (2418)\; Prof.arch.int.arch. HEY
+ NICKX Saidja\, Mevrouw VAN DEN BOSCH Linde\; E-C1\; (Werkzitting)
+ \; Voor: Alle groepen
+UID:1863824_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180313T093000Z
+DTEND:20180313T113000Z
+SEQUENCE:654371
+SUMMARY:AMH\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Actualia meubel en herbestemming (2418)\; Arch. LENS Karen\; E-C1
+ \; (Werkzitting)\; Voor: Alle groepen
+UID:1863800_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180313T123000Z
+DTEND:20180313T143000Z
+SEQUENCE:654389
+SUMMARY:C&M H\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Constructie en materiaalleer herbestemming (2420)\; Arch. MINTEN 
+ Dimitri\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+UID:1863788_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180314T073000Z
+DTEND:20180314T113000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Int.arch. SWARTENBROUX Phili
+ ppe\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1864538_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180314T073000Z
+DTEND:20180314T113000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Arch. LEUS Maria\; E-C11\,E-
+ C12\; (Werkzitting)\; Voor groep: 2
+UID:1864580_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180314T123000Z
+DTEND:20180314T163000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Int.arch. SWARTENBROUX Phili
+ ppe\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1864625_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180314T123000Z
+DTEND:20180314T163000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Arch. LEUS Maria\; E-C11\,E-
+ C12\; (Werkzitting)\; Voor groep: 2
+UID:1864661_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180314T173000Z
+DTEND:20180314T190000Z
+SEQUENCE:0
+SUMMARY:WORLD EVENING\; \; 17 tot 21 uur \; \; Campus Diepenbeek \; Voor:
+  Alle groepen
+UID:1835831_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210059Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180315T073000Z
+DTEND:20180315T113000Z
+SEQUENCE:666714
+SUMMARY:C&M M\; E-C03\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constructie en materiaalleer meubel (2412)\; Int.arch. LANGENDRIE
+ S Johan\; E-C03\; (Hoorcollege)\; Voor: Alle groepen
+UID:1864811_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180316T083000Z
+DTEND:20180316T113000Z
+SEQUENCE:666701
+SUMMARY:P&OI\; E-C1\; CAAD Photoshop\; (Werkcollege)\; Voor: Alle groepen
+DESCRIPTION:Portfolio en ontwerpersidentiteit (3285)\; Arch.int.arch. HARZE G
+ itte\, Arch. BASTIAENS Jan\; E-C1\; CAAD Photoshop\; (Werkcollege
+ )\; Voor: Alle groepen
+UID:1864877_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180319T073000Z
+DTEND:20180319T113000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. CLAES Gilberte\; E-C11\; 
+ (Werkzitting)\; Voor groep: 1
+UID:1863662_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180319T073000Z
+DTEND:20180319T113000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. LANGENDRIES Johan\; E-C12
+ \; (Werkzitting)\; Voor groep: 2
+UID:1863692_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180319T123000Z
+DTEND:20180319T163000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. CLAES Gilberte\; E-C11\; 
+ (Werkzitting)\; Voor groep: 1
+UID:1863722_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180319T123000Z
+DTEND:20180319T163000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. LANGENDRIES Johan\; E-C12
+ \; (Werkzitting)\; Voor groep: 2
+UID:1863752_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180320T073000Z
+DTEND:20180320T093000Z
+SEQUENCE:0
+SUMMARY:AMH\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Actualia meubel en herbestemming (2418)\; Prof.arch.int.arch. HEY
+ NICKX Saidja\, Mevrouw VAN DEN BOSCH Linde\; E-C1\; (Werkzitting)
+ \; Voor: Alle groepen
+UID:1863827_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180320T093000Z
+DTEND:20180320T113000Z
+SEQUENCE:654373
+SUMMARY:AMH\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Actualia meubel en herbestemming (2418)\; Arch. LENS Karen\; E-C1
+ \; (Werkzitting)\; Voor: Alle groepen
+UID:1863803_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180320T123000Z
+DTEND:20180320T143000Z
+SEQUENCE:667776
+SUMMARY:AMH\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Actualia meubel en herbestemming (2418)\; Arch. LENS Karen\; E-C1
+ \; (Werkzitting)\; Voor: Alle groepen
+UID:1863794_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180321T073000Z
+DTEND:20180321T113000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Int.arch. SWARTENBROUX Phili
+ ppe\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1864541_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180321T073000Z
+DTEND:20180321T113000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Arch. LEUS Maria\; E-C11\,E-
+ C12\; (Werkzitting)\; Voor groep: 2
+UID:1864583_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180321T123000Z
+DTEND:20180321T163000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Int.arch. SWARTENBROUX Phili
+ ppe\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1864628_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180321T123000Z
+DTEND:20180321T163000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Arch. LEUS Maria\; E-C11\,E-
+ C12\; (Werkzitting)\; Voor groep: 2
+UID:1864664_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180322T073000Z
+DTEND:20180322T113000Z
+SEQUENCE:666715
+SUMMARY:C&M M\; E-C03\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constructie en materiaalleer meubel (2412)\; Int.arch. LANGENDRIE
+ S Johan\; E-C03\; (Hoorcollege)\; Voor: Alle groepen
+UID:1864814_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180323T083000Z
+DTEND:20180323T113000Z
+SEQUENCE:666702
+SUMMARY:P&OI\; E-C1\; CAAD Schetsen\; (Werkcollege)\; Voor: Alle groepen
+DESCRIPTION:Portfolio en ontwerpersidentiteit (3285)\; Arch.int.arch. HARZE G
+ itte\, Arch. BASTIAENS Jan\; E-C1\; CAAD Schetsen\; (Werkcollege)
+ \; Voor: Alle groepen
+UID:1864880_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180323T123000Z
+DTEND:20180323T153000Z
+SEQUENCE:0
+SUMMARY:P&OI\; E-C1\; (Werkcollege)\; Voor: Alle groepen
+DESCRIPTION:Portfolio en ontwerpersidentiteit (3285)\; Prof.int.arch. KLAPS J
+ ohannes\; E-C1\; (Werkcollege)\; Voor: Alle groepen
+UID:1900298_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180416T063000Z
+DTEND:20180416T103000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. CLAES Gilberte\; E-C11\; 
+ (Werkzitting)\; Voor groep: 1
+UID:1863665_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180416T063000Z
+DTEND:20180416T103000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. LANGENDRIES Johan\; E-C12
+ \; (Werkzitting)\; Voor groep: 2
+UID:1863695_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180416T113000Z
+DTEND:20180416T153000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. CLAES Gilberte\; E-C11\; 
+ (Werkzitting)\; Voor groep: 1
+UID:1863725_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180416T113000Z
+DTEND:20180416T153000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. LANGENDRIES Johan\; E-C12
+ \; (Werkzitting)\; Voor groep: 2
+UID:1863755_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180417T063000Z
+DTEND:20180417T083000Z
+SEQUENCE:0
+SUMMARY:AMH\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Actualia meubel en herbestemming (2418)\; Prof.arch.int.arch. HEY
+ NICKX Saidja\, Mevrouw VAN DEN BOSCH Linde\; E-C1\; (Werkzitting)
+ \; Voor: Alle groepen
+UID:1863830_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180417T083000Z
+DTEND:20180417T103000Z
+SEQUENCE:654374
+SUMMARY:AMH\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Actualia meubel en herbestemming (2418)\; Arch. LENS Karen\; E-C1
+ \; (Werkzitting)\; Voor: Alle groepen
+UID:1863806_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180418T063000Z
+DTEND:20180418T103000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Int.arch. SWARTENBROUX Phili
+ ppe\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1864544_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180418T063000Z
+DTEND:20180418T103000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Arch. LEUS Maria\; E-C11\,E-
+ C12\; (Werkzitting)\; Voor groep: 2
+UID:1864586_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180418T113000Z
+DTEND:20180418T153000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Int.arch. SWARTENBROUX Phili
+ ppe\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1864631_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180418T113000Z
+DTEND:20180418T153000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Arch. LEUS Maria\; E-C11\,E-
+ C12\; (Werkzitting)\; Voor groep: 2
+UID:1864667_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180419T063000Z
+DTEND:20180419T103000Z
+SEQUENCE:666716
+SUMMARY:C&M M\; E-C03\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constructie en materiaalleer meubel (2412)\; Int.arch. LANGENDRIE
+ S Johan\; E-C03\; (Hoorcollege)\; Voor: Alle groepen
+UID:1864820_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180420T070000Z
+DTEND:20180420T103000Z
+SEQUENCE:663091
+SUMMARY:P&OI\; E-C1\; (Werkcollege)\; Voor groep: 1
+DESCRIPTION:Portfolio en ontwerpersidentiteit (3285)\; dr.ir.arch. ROES Remco
+ \; E-C1\; (Werkcollege)\; Voor groep: 1
+UID:1864883_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180420T113000Z
+DTEND:20180420T150000Z
+SEQUENCE:663092
+SUMMARY:P&OI\; E-C1\; (Werkcollege)\; Voor groep: 2
+DESCRIPTION:Portfolio en ontwerpersidentiteit (3285)\; dr.ir.arch. ROES Remco
+ \; E-C1\; (Werkcollege)\; Voor groep: 2
+UID:1864895_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180423T063000Z
+DTEND:20180423T103000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. CLAES Gilberte\; E-C11\; 
+ (Werkzitting)\; Voor groep: 1
+UID:1863668_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180423T063000Z
+DTEND:20180423T103000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. LANGENDRIES Johan\; E-C12
+ \; (Werkzitting)\; Voor groep: 2
+UID:1863698_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180423T113000Z
+DTEND:20180423T153000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. CLAES Gilberte\; E-C11\; 
+ (Werkzitting)\; Voor groep: 1
+UID:1863728_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180423T113000Z
+DTEND:20180423T153000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. LANGENDRIES Johan\; E-C12
+ \; (Werkzitting)\; Voor groep: 2
+UID:1863758_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180424T063000Z
+DTEND:20180424T083000Z
+SEQUENCE:0
+SUMMARY:AMH\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Actualia meubel en herbestemming (2418)\; Prof.arch.int.arch. HEY
+ NICKX Saidja\, Mevrouw VAN DEN BOSCH Linde\; E-C1\; (Werkzitting)
+ \; Voor: Alle groepen
+UID:1863833_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180424T083000Z
+DTEND:20180424T103000Z
+SEQUENCE:654376
+SUMMARY:AMH\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Actualia meubel en herbestemming (2418)\; Arch. LENS Karen\; E-C1
+ \; (Werkzitting)\; Voor: Alle groepen
+UID:1863809_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180425T063000Z
+DTEND:20180425T103000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Int.arch. SWARTENBROUX Phili
+ ppe\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1864547_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180425T063000Z
+DTEND:20180425T103000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Arch. LEUS Maria\; E-C11\,E-
+ C12\; (Werkzitting)\; Voor groep: 2
+UID:1864589_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180425T113000Z
+DTEND:20180425T153000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Int.arch. SWARTENBROUX Phili
+ ppe\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1864634_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180425T113000Z
+DTEND:20180425T153000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Arch. LEUS Maria\; E-C11\,E-
+ C12\; (Werkzitting)\; Voor groep: 2
+UID:1864670_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180426T063000Z
+DTEND:20180426T103000Z
+SEQUENCE:666717
+SUMMARY:C&M M\; E-C03\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constructie en materiaalleer meubel (2412)\; Int.arch. LANGENDRIE
+ S Johan\; E-C03\; (Hoorcollege)\; Voor: Alle groepen
+UID:1864823_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180502T063000Z
+DTEND:20180502T103000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Int.arch. SWARTENBROUX Phili
+ ppe\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1864550_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180502T063000Z
+DTEND:20180502T103000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Arch. LEUS Maria\; E-C11\,E-
+ C12\; (Werkzitting)\; Voor groep: 2
+UID:1864592_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180502T113000Z
+DTEND:20180502T153000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Int.arch. SWARTENBROUX Phili
+ ppe\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1864637_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180502T113000Z
+DTEND:20180502T153000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Arch. LEUS Maria\; E-C11\,E-
+ C12\; (Werkzitting)\; Voor groep: 2
+UID:1864673_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180503T063000Z
+DTEND:20180503T103000Z
+SEQUENCE:666718
+SUMMARY:C&M M\; E-C03\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Constructie en materiaalleer meubel (2412)\; Int.arch. LANGENDRIE
+ S Johan\; E-C03\; (Hoorcollege)\; Voor: Alle groepen
+UID:1864826_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180504T070000Z
+DTEND:20180504T103000Z
+SEQUENCE:663093
+SUMMARY:P&OI\; E-C1\; (Werkcollege)\; Voor groep: 1
+DESCRIPTION:Portfolio en ontwerpersidentiteit (3285)\; dr.ir.arch. ROES Remco
+ \; E-C1\; (Werkcollege)\; Voor groep: 1
+UID:1864889_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180504T113000Z
+DTEND:20180504T150000Z
+SEQUENCE:663094
+SUMMARY:P&OI\; E-C1\; (Hoorcollege)\; Voor groep: 2
+DESCRIPTION:Portfolio en ontwerpersidentiteit (3285)\; dr.ir.arch. ROES Remco
+ \; E-C1\; (Hoorcollege)\; Voor groep: 2
+UID:1864901_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180507T063000Z
+DTEND:20180507T103000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. CLAES Gilberte\; E-C11\; 
+ (Werkzitting)\; Voor groep: 1
+UID:1863671_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180507T063000Z
+DTEND:20180507T103000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. LANGENDRIES Johan\; E-C12
+ \; (Werkzitting)\; Voor groep: 2
+UID:1863701_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180507T113000Z
+DTEND:20180507T153000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. CLAES Gilberte\; E-C11\; 
+ (Werkzitting)\; Voor groep: 1
+UID:1863731_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180507T113000Z
+DTEND:20180507T153000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. LANGENDRIES Johan\; E-C12
+ \; (Werkzitting)\; Voor groep: 2
+UID:1863761_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180508T063000Z
+DTEND:20180508T083000Z
+SEQUENCE:0
+SUMMARY:AMH\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Actualia meubel en herbestemming (2418)\; Prof.arch.int.arch. HEY
+ NICKX Saidja\, Mevrouw VAN DEN BOSCH Linde\; E-C1\; (Werkzitting)
+ \; Voor: Alle groepen
+UID:1863836_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180508T083000Z
+DTEND:20180508T103000Z
+SEQUENCE:654378
+SUMMARY:AMH\; E-C1\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Actualia meubel en herbestemming (2418)\; Arch. LENS Karen\; E-C1
+ \; (Werkzitting)\; Voor: Alle groepen
+UID:1863812_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180509T063000Z
+DTEND:20180509T103000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Int.arch. SWARTENBROUX Phili
+ ppe\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1864553_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180509T063000Z
+DTEND:20180509T103000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Arch. LEUS Maria\; E-C11\,E-
+ C12\; (Werkzitting)\; Voor groep: 2
+UID:1864595_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180509T113000Z
+DTEND:20180509T153000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Int.arch. SWARTENBROUX Phili
+ ppe\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1864640_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180509T113000Z
+DTEND:20180509T153000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Arch. LEUS Maria\; E-C11\,E-
+ C12\; (Werkzitting)\; Voor groep: 2
+UID:1864676_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180514T063000Z
+DTEND:20180514T103000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. CLAES Gilberte\; E-C11\; 
+ (Werkzitting)\; Voor groep: 1
+UID:1863674_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180514T063000Z
+DTEND:20180514T103000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. LANGENDRIES Johan\; E-C12
+ \; (Werkzitting)\; Voor groep: 2
+UID:1863704_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180514T113000Z
+DTEND:20180514T153000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. CLAES Gilberte\; E-C11\; 
+ (Werkzitting)\; Voor groep: 1
+UID:1863734_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180514T113000Z
+DTEND:20180514T153000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. LANGENDRIES Johan\; E-C12
+ \; (Werkzitting)\; Voor groep: 2
+UID:1863764_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180516T063000Z
+DTEND:20180516T103000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Int.arch. SWARTENBROUX Phili
+ ppe\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1864556_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180516T063000Z
+DTEND:20180516T103000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Arch. LEUS Maria\; E-C11\,E-
+ C12\; (Werkzitting)\; Voor groep: 2
+UID:1864598_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180516T113000Z
+DTEND:20180516T153000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Int.arch. SWARTENBROUX Phili
+ ppe\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1864643_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180516T113000Z
+DTEND:20180516T153000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Arch. LEUS Maria\; E-C11\,E-
+ C12\; (Werkzitting)\; Voor groep: 2
+UID:1864679_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180523T063000Z
+DTEND:20180523T103000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Int.arch. SWARTENBROUX Phili
+ ppe\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1864559_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180523T063000Z
+DTEND:20180523T103000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Arch. LEUS Maria\; E-C11\,E-
+ C12\; (Werkzitting)\; Voor groep: 2
+UID:1864601_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180523T113000Z
+DTEND:20180523T153000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Int.arch. SWARTENBROUX Phili
+ ppe\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1864646_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180523T113000Z
+DTEND:20180523T153000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Arch. LEUS Maria\; E-C11\,E-
+ C12\; (Werkzitting)\; Voor groep: 2
+UID:1864682_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180528T063000Z
+DTEND:20180528T103000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. CLAES Gilberte\; E-C11\; 
+ (Werkzitting)\; Voor groep: 1
+UID:1863677_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180528T063000Z
+DTEND:20180528T103000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. LANGENDRIES Johan\; E-C12
+ \; (Werkzitting)\; Voor groep: 2
+UID:1863707_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180528T113000Z
+DTEND:20180528T153000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C11\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. CLAES Gilberte\; E-C11\; 
+ (Werkzitting)\; Voor groep: 1
+UID:1863737_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180528T113000Z
+DTEND:20180528T153000Z
+SEQUENCE:0
+SUMMARY:OWP M\; E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio meubel (2411)\; Int.arch. LANGENDRIES Johan\; E-C12
+ \; (Werkzitting)\; Voor groep: 2
+UID:1863767_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180530T063000Z
+DTEND:20180530T103000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Int.arch. SWARTENBROUX Phili
+ ppe\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1864562_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180530T063000Z
+DTEND:20180530T103000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Arch. LEUS Maria\; E-C11\,E-
+ C12\; (Werkzitting)\; Voor groep: 2
+UID:1864604_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180530T113000Z
+DTEND:20180530T153000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Int.arch. SWARTENBROUX Phili
+ ppe\; E-C09\,E-C10\; (Werkzitting)\; Voor groep: 1
+UID:1864649_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180530T113000Z
+DTEND:20180530T153000Z
+SEQUENCE:0
+SUMMARY:OWP H\; E-C11\,E-C12\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Ontwerpstudio herbestemming (2417)\; Arch. LEUS Maria\; E-C11\,E-
+ C12\; (Werkzitting)\; Voor groep: 2
+UID:1864685_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210100Z
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

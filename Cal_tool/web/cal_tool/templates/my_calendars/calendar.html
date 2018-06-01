@@ -1,0 +1,94 @@
+
+
+<div id="calendar{{ calendar.get_id }}" class="source-header row">
+    <i class="material-icons header-start-icon " style="color: {{ calendar.get_calendar_color }} ">brightness_1</i>
+    <p class="list_cal">
+        {% if context.id == calendar.get_id %}
+                <input id="{{ calendar.get_id }}" type="checkbox"  checked="checked" onchange="CalendarView.change_calendar({{ calendar.get_id }});"  id="{{ calendar.get_id }}" name="{{ calendar.get_id }}" value="HIDE" />
+            {% else %}
+                <input id="{{ calendar.get_id }}" type="checkbox" onchange="CalendarView.change_calendar({{ calendar.get_id }});"  id="{{ calendar.get_id }}" name="{{ calendar.get_id }}" value="SHOW" />
+        {% endif %}
+        <label for="{{ calendar.get_id }}">{{ calendar.get_calendar_name }}</label>
+    </p>
+    <div id="header" class="header-end-icon">
+
+        <!---
+        <span title="Wijzigen">
+            <i alt="edit" class="material-icons iconButton">edit</i>
+        </span>
+        --->
+
+        <span title="Delen">
+        <a class="material-icons iconButton modal-trigger"  href="#sharingPopUp" onclick="newSharedCalendar.load_shared_data({{ calendar.get_id }});"> share</a>
+        </span>
+
+        <form id="export_form_{{ calendar.get_id }}" method="post" enctype="multipart/form-data" action="{% url 'export'%}" style="display: inline-block">
+            {% csrf_token %}
+            <input type="hidden" name="cal_id" value="{{ calendar.get_id }}">
+            <span title="Downloaden">
+                <a class="material-icons iconButton" onclick="document.getElementById('export_form_{{ calendar.get_id }}').submit();" type="submit" name="export" id="export" value="Export ICal">file_download</a>
+            </span>
+        </form>
+
+        <span title="Verwijderen">
+            <i class='material-icons iconButton sourceDelete deleteFilter' onclick='delete_calendar({{ calendar.get_id }})'>delete</i>
+        </span>
+
+    </div>
+</div>
+
+
+
+
+
+<script>
+
+
+var events = [];
+
+
+    {% for source in calendar.get_sources %}
+
+        {% for event in source.get_event_list %}
+
+            var monthNames = ["January", "February", "March", "April", "May", "June","July", "August", "September", "October", "November", "December"];
+
+
+
+            var summary = "{{ event.summary }}";
+            var description = "{{ event.description }}";
+            var start = "{{ event.dtstart.dt.month }}/{{ event.dtstart.dt.day }}/{{ event.dtstart.dt.year}} {{ event.dtstart.dt.hour}}:{{ event.dtstart.dt.minute}}:{{ event.dtstart.dt.second}}";
+
+            var end = "{{ event.dtend.dt.month }}/{{ event.dtend.dt.day }}/{{ event.dtend.dt.year}} {{ event.dtend.dt.hour}}:{{ event.dtend.dt.minute}}:{{ event.dtend.dt.second}}";
+
+
+            start =  Date.UTC({{ event.dtstart.dt.year}}, {{ event.dtstart.dt.month }}-1, {{ event.dtstart.dt.day }}, {{ event.dtstart.dt.hour}}, {{ event.dtstart.dt.minute}}, {{ event.dtstart.dt.second}});
+            end =  Date.UTC({{ event.dtend.dt.year}}, {{ event.dtend.dt.month }}-1, {{ event.dtend.dt.day }}, {{ event.dtend.dt.hour}}, {{ event.dtend.dt.minute}}, {{ event.dtend.dt.second}});
+
+
+
+
+            start = new Date(start);
+            end = new Date(end);
+
+
+
+            var newEvent = new Object();
+            newEvent.id =  "{{ calendar.get_id }}" ;
+            newEvent.title = summary;
+            newEvent.color =  "{{ calendar.get_calendar_color }}";
+            newEvent.start = start;
+            newEvent.end = end;
+            newEvent.className = "event_id" +"{{ calendar.get_id }}";
+            events.push(newEvent);
+
+
+
+
+        {% endfor %}
+    {% endfor %}
+
+cal = new calendar({{ calendar.get_id }},"{{ calendar.get_calendar_color }}",events);
+CalendarView.add_calendar(cal);
+
+</script>

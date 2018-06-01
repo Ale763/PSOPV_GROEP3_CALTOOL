@@ -1,0 +1,79 @@
+{% extends 'global/template.html' %}
+
+
+{% load static %}
+
+{% block content %}
+
+    <!--FORM-->
+    <div class="section"><h5>Nieuwe kalender</h5>
+        <div class="divider"></div>
+    </div>
+    <div id="FormSection" class="row" >
+        <!-- content section -->
+        <div id="content" >
+            <form id="newCalendarForm" method="post" enctype="multipart/form-data" action="{% url 'make_calendar' %}">
+                {% csrf_token %}
+                <!--FORM HEADER-->
+                <div class="row">
+                    <div class="input-field col s6">
+                      <input required maxlength="30" name="newCalendarName" id="newCalendarName" type="text" class="validate">
+                      <label class="" for="calendar_name">Naam kalender</label>
+                    </div>
+
+                    <div class="col s6 picker-wrapper">
+                        <span>Kleur</span>
+                        <button id="newCalendarColorPicker" type="button" class="btn" style="background-color: #0075DC;"></button>
+                        <input required id="newCalendarColor" type="hidden" name="newCalendarColor" class="btn" value="#0075DC">
+                    </div>
+                    <div class="col s12 color-picker">
+                        </div>
+                </div>
+                <div class="buttonContainer" >
+                    <input id="SubmitButton" class="button right" type="submit" value="Volgende">
+                </div>
+
+{#                Test if error variable is set#}
+                <div class="error">{{ error }}</div>
+                <div id="generated-sources"></div>
+{#                {% include "new_calendar/sourcewidget.html" %}#}
+
+                {% include "new_calendar/newsourceheader.html" %}
+{#                {% include "new_calendar/filter/filterwidget.html" %}#}
+            </form>
+        </div>
+    </div>
+
+    {% include "new_calendar/filter/filter_editor.html" %}
+    <div id="sourcewidgetResource" class="resources">
+    {% block include_sourcewidget %}
+        {% include "new_calendar/sourcewidget.html" %}
+    {% endblock include_sourcewidget %}
+        {% include "global/widgets/preloader/preloader_green.html" %}
+        </div>
+
+
+{% endblock  %}
+
+
+{% block page_specific_scripts %}
+    <script src="{% static 'cal_tool/js/colorpicker/piklor.js' %}"></script>
+    <script src="{% static 'cal_tool/js/colorpicker/handlers.js' %}"></script>
+    <script src="{% static 'cal_tool/js/newcalendar/newcalendar.js' %}"></script>
+     <script src="{% static 'cal_tool/js/fullcalendar/locale/nl-be.js' %}"></script>
+    <script>
+    $("#newcalendar_nav").addClass("active");
+    </script>
+
+    <script>
+        $(document).ready(function ()
+        {
+            $('.modal').modal();
+            $("#FilterEditor select").material_select();
+        });
+    </script>
+
+    {% include "global/browser_notifications.html" %}
+
+{% endblock %}
+

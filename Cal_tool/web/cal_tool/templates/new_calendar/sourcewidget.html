@@ -1,0 +1,99 @@
+<ul id="sourceWidget" class="collapsible sourceWidgets" data-collapsible="expandable">
+    <li>
+        <!-- HEADER --------------------------------------->
+        <div id="header" class="collapsible-header source-header row">
+            <i class="material-icons header-start-icon col" style="color: teal">perm_contact_calendar</i>
+            <div class="source_title header-title ">Nieuwe bron</div>
+            <i  class="material-icons header-end-icon" style="color: teal">expand_more</i>
+        </div>
+
+        <!-- BODY --------------------------------------->
+        <div class="collapsible-body source-body">
+            <div class="row">
+                <div class="row">
+                    <div class="input-field col s12">
+                        <input maxlength="30" required id="calendarName" name="calendarName" class="source_name validate" type="text">
+                        <label class="active">Naam bron</label>
+                    </div>
+                </div>
+                <div class="row selector">
+                    <div class="input-field col s6">
+                        <select id="sourceType" required name="sourceType" onchange="newCalendar.sourceTypeSwitcher();">
+                            <option selected value="file">Bestand</option>
+                            <option value="url">URL</option>
+                            {% block sourcetype %}
+                            {% endblock sourcetype %}
+                        </select>
+                        <label>Upload van</label>
+                    </div>
+                    <div class="input-field col s6">
+{#                        <div class=" ">#}
+                            <div class=" URL">
+                                <input name="urlInput" id="urlInput" type="url" class="validate" onchange="newCalendar.saveUrl();">
+                                <label>URL</label>
+                            </div>
+{#                        </div>#}
+                        <div class="file-field File">
+                            <div class="fileInputButton " style="width: 10rem">
+                                <label for="fileInput">Kies bestand</label>
+                                <input required name="fileInput" id="fileInput" type="file" accept=".ics,.ical" placeholder="Kies bestand" onchange="newCalendar.saveFile();">
+                            </div>
+                            <div class="file-path-wrapper">
+                                <input class="file-path validate" type="text">
+                            </div>
+                        </div>
+                        <div class=" Source" >
+                                <select id="sourceInput" required name="sourceInput" onchange="newCalendar.saveCourse();">
+                                    {% block sources %}
+                                         <option value="null"></option>
+                                    {% endblock sources %}
+                                </select>
+                        </div>
+                    </div>
+                </div>
+                <i id="deleteSource" class="material-icons iconButton right sourceDelete" onclick="newCalendar.deleteSource();">delete</i>
+            </div>
+
+            <div id="filterResultsDiv" style="display: none; overflow-y: scroll; max-height: 200px;">
+                <h5>Filter resultaten:</h5>
+                <table>
+                    <thead>
+                    <tr>
+                        <th>Event</th>
+                        <th>van</th>
+                        <th>tot</th>
+                    </tr>
+                    </thead>
+                    <tbody id="filterResults">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </li>
+
+
+
+
+
+    {% include "new_calendar/filter/filterwidget.html" %}
+
+</ul>
+
+
+<script>
+
+    var listCreated = false;
+
+    function appendToList(){
+
+        //Create the listview if not created
+        if(!listCreated){
+            $("#content").append("<ul id='list' data-role='listview' data-inset='true'></ul>");
+            listCreated = true;
+            $("#content").trigger("create");
+        }
+        $("#list").append("<li>Item</li>");
+        $("#list").listview("refresh");
+
+    }
+</script>

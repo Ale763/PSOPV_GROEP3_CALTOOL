@@ -1,0 +1,3665 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uhasselt/lesroosters//NONSGML v1.0//EN
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UHasselt Uurroosters
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+DTSTART:20170918T083000Z
+DTEND:20170918T100000Z
+SEQUENCE:619257
+SUMMARY:L&FPR\; C109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; Prof. dr. KUIJPERS B
+ art\; C109\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785314_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170918T101500Z
+DTEND:20170918T150000Z
+SEQUENCE:619245
+SUMMARY:L&FPR\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785290_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170919T071500Z
+DTEND:20170919T084500Z
+SEQUENCE:619250
+SUMMARY:A&D\; C109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; Prof. dr. GYSSENS Marc\; C1
+ 09\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785320_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170919T090000Z
+DTEND:20170919T134500Z
+SEQUENCE:619246
+SUMMARY:A&D\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1785293_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170919T140000Z
+DTEND:20170919T150000Z
+SEQUENCE:0
+SUMMARY:A&D\; B103\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; B103\; (Responsiecollege)\;
+  Voor: Alle groepen
+UID:1785296_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170920T080000Z
+DTEND:20170920T100000Z
+SEQUENCE:619255
+SUMMARY:OOPII\; H1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; Prof. dr. LUYTEN Kri
+ s\; H1\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785299_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170920T101500Z
+DTEND:20170920T150000Z
+SEQUENCE:619253
+SUMMARY:OOPII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785302_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170921T070000Z
+DTEND:20170921T083000Z
+SEQUENCE:0
+SUMMARY:L&FPR\; C110\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; C110\; (Responsiecol
+ lege)\; Voor: Alle groepen
+UID:1785338_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170921T083000Z
+DTEND:20170921T100000Z
+SEQUENCE:0
+SUMMARY:L&FPR\; C110\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; Prof. dr. KUIJPERS B
+ art\; C110\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785335_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170921T101500Z
+DTEND:20170921T150000Z
+SEQUENCE:0
+SUMMARY:L&FPR\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785332_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170922T070000Z
+DTEND:20170922T083000Z
+SEQUENCE:619252
+SUMMARY:HSAI\; C105\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; Prof. dr. 
+ CONINX Karin\; C105\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785326_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170922T084500Z
+DTEND:20170922T150000Z
+SEQUENCE:619256
+SUMMARY:HSAI\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; C23\,C50\;
+  (Zelfstudieopdracht)\; Voor: Alle groepen
+UID:1785311_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170925T070000Z
+DTEND:20170925T083000Z
+SEQUENCE:619259
+SUMMARY:L&FPR\; A107\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; A107\; (Responsiecol
+ lege)\; Voor: Alle groepen
+UID:1785362_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170925T083000Z
+DTEND:20170925T100000Z
+SEQUENCE:619260
+SUMMARY:L&FPR\; A107\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; Prof. dr. KUIJPERS B
+ art\; A107\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785365_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170925T101500Z
+DTEND:20170925T150000Z
+SEQUENCE:619266
+SUMMARY:L&FPR\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785341_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170926T071500Z
+DTEND:20170926T084500Z
+SEQUENCE:619270
+SUMMARY:A&D\; C110\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; Prof. dr. GYSSENS Marc\; C1
+ 10\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785368_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170926T090000Z
+DTEND:20170926T134500Z
+SEQUENCE:619262
+SUMMARY:A&D\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1785344_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170926T140000Z
+DTEND:20170926T160000Z
+SEQUENCE:639314
+SUMMARY:A&D\; B103\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; B103\; (Responsiecollege)\;
+  Voor: Alle groepen
+UID:1785347_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170927T070000Z
+DTEND:20170927T083000Z
+SEQUENCE:619523
+SUMMARY:TINF\; B103\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; dr. BRIJDER Robert\; B103\; (Re
+ sponsiecollege)\; Voor: Alle groepen
+UID:1785377_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170927T084500Z
+DTEND:20170927T100000Z
+SEQUENCE:619268
+SUMMARY:TINF\; B103\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; Prof. dr. GYSSENS Marc\; B103\;
+  (Hoorcollege)\; Voor: Alle groepen
+UID:1785350_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170927T101500Z
+DTEND:20170927T150000Z
+SEQUENCE:619269
+SUMMARY:TINF\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; C23\,C50\; (Zelfstudieopdracht)
+ \; Voor: Alle groepen
+UID:1785353_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T071500Z
+DTEND:20170928T084500Z
+SEQUENCE:619272
+SUMMARY:A&D\; C109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; Prof. dr. GYSSENS Marc\; C1
+ 09\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785371_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T090000Z
+DTEND:20170928T134500Z
+SEQUENCE:0
+SUMMARY:A&D\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1785374_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T140000Z
+DTEND:20170928T150000Z
+SEQUENCE:0
+SUMMARY:A&D\; B103\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; B103\; (Responsiecollege)\;
+  Voor: Alle groepen
+UID:1785380_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T073000Z
+DTEND:20170929T090000Z
+SEQUENCE:639703
+SUMMARY:OOPII\; C109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; Prof. dr. LUYTEN Kri
+ s\; C109\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785356_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T091500Z
+DTEND:20170929T150000Z
+SEQUENCE:639704
+SUMMARY:OOPII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785359_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T070000Z
+DTEND:20171002T083000Z
+SEQUENCE:619276
+SUMMARY:L&FPR\; B103\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; B103\; (Responsiecol
+ lege)\; Voor: Alle groepen
+UID:1785383_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T083000Z
+DTEND:20171002T100000Z
+SEQUENCE:0
+SUMMARY:L&FPR\; B103\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; Prof. dr. KUIJPERS B
+ art\; B103\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785386_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T101500Z
+DTEND:20171002T150000Z
+SEQUENCE:619277
+SUMMARY:L&FPR\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785389_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171003T071500Z
+DTEND:20171003T084500Z
+SEQUENCE:619298
+SUMMARY:A&D\; C110\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; Prof. dr. GYSSENS Marc\; C1
+ 10\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785416_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171003T090000Z
+DTEND:20171003T134500Z
+SEQUENCE:619279
+SUMMARY:A&D\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1785392_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171003T140000Z
+DTEND:20171003T150000Z
+SEQUENCE:619278
+SUMMARY:A&D\; B103\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; B103\; (Responsiecollege)\;
+  Voor: Alle groepen
+UID:1785395_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171004T070000Z
+DTEND:20171004T083000Z
+SEQUENCE:635715
+SUMMARY:HSAI\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; Prof. dr. 
+ CONINX Karin\; C104\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785419_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171004T084500Z
+DTEND:20171004T110000Z
+SEQUENCE:635721
+SUMMARY:HSAI\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; C23\,C50\;
+  (Zelfstudieopdracht)\; Voor: Alle groepen
+UID:1785398_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171004T110000Z
+DTEND:20171004T120000Z
+SEQUENCE:635719
+SUMMARY:HSAI\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; De heer BR
+ ULMANS Jens\; C104\; (Hoorcollege)\; Voor: Alle groepen
+UID:1830710_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171004T120000Z
+DTEND:20171004T150000Z
+SEQUENCE:635718
+SUMMARY:HSAI\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; C23\,C50\;
+  (Zelfstudieopdracht)\; Voor: Alle groepen
+UID:1830713_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171005T071500Z
+DTEND:20171005T084500Z
+SEQUENCE:619288
+SUMMARY:A&D\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; Prof. dr. GYSSENS Marc\; C1
+ 04\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785422_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171005T090000Z
+DTEND:20171005T134500Z
+SEQUENCE:619281
+SUMMARY:A&D\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1785407_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171005T140000Z
+DTEND:20171005T150000Z
+SEQUENCE:0
+SUMMARY:A&D\; C109\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; C109\; (Responsiecollege)\;
+  Voor: Alle groepen
+UID:1785410_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171006T073000Z
+DTEND:20171006T090000Z
+SEQUENCE:639705
+SUMMARY:OOPII\; C109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; Prof. dr. LUYTEN Kri
+ s\; C109\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785425_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171006T091500Z
+DTEND:20171006T150000Z
+SEQUENCE:619285
+SUMMARY:OOPII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785413_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T070000Z
+DTEND:20171009T083000Z
+SEQUENCE:619299
+SUMMARY:L&FPR\; B103\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; B103\; (Responsiecol
+ lege)\; Voor: Alle groepen
+UID:1785449_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T083000Z
+DTEND:20171009T100000Z
+SEQUENCE:619300
+SUMMARY:L&FPR\; B103\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; Prof. dr. KUIJPERS B
+ art\; B103\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785452_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T101500Z
+DTEND:20171009T150000Z
+SEQUENCE:619301
+SUMMARY:L&FPR\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785428_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171010T071500Z
+DTEND:20171010T084500Z
+SEQUENCE:619415
+SUMMARY:A&D\; C105\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; Prof. dr. GYSSENS Marc\; C1
+ 05\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785461_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171010T090000Z
+DTEND:20171010T134500Z
+SEQUENCE:619303
+SUMMARY:A&D\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1785431_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171010T140000Z
+DTEND:20171010T150000Z
+SEQUENCE:0
+SUMMARY:A&D\; B103\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; B103\; (Responsiecollege)\;
+  Voor: Alle groepen
+UID:1785434_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171011T070000Z
+DTEND:20171011T083000Z
+SEQUENCE:619414
+SUMMARY:HSAI\; C109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; Prof. dr. 
+ CONINX Karin\; C109\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785455_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171011T084500Z
+DTEND:20171011T150000Z
+SEQUENCE:619304
+SUMMARY:HSAI\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; C23\,C50\;
+  (Zelfstudieopdracht)\; Voor: Alle groepen
+UID:1785437_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171012T070000Z
+DTEND:20171012T083000Z
+SEQUENCE:619412
+SUMMARY:TINF\; C104\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; dr. BRIJDER Robert\; C104\; (Re
+ sponsiecollege)\; Voor: Alle groepen
+UID:1785464_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171012T084500Z
+DTEND:20171012T100000Z
+SEQUENCE:619413
+SUMMARY:TINF\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; Prof. dr. GYSSENS Marc\; C104\;
+  (Hoorcollege)\; Voor: Alle groepen
+UID:1785458_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171012T101500Z
+DTEND:20171012T150000Z
+SEQUENCE:619305
+SUMMARY:TINF\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; C23\,C50\; (Zelfstudieopdracht)
+ \; Voor: Alle groepen
+UID:1785440_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171013T073000Z
+DTEND:20171013T090000Z
+SEQUENCE:639707
+SUMMARY:OOPII\; B103\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; Prof. dr. LUYTEN Kri
+ s\; B103\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785443_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171013T091500Z
+DTEND:20171013T150000Z
+SEQUENCE:619308
+SUMMARY:OOPII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785446_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T070000Z
+DTEND:20171016T083000Z
+SEQUENCE:619313
+SUMMARY:L&FPR\; C109\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; C109\; (Responsiecol
+ lege)\; Voor: Alle groepen
+UID:1785497_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T083000Z
+DTEND:20171016T100000Z
+SEQUENCE:619314
+SUMMARY:L&FPR\; C109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; Prof. dr. KUIJPERS B
+ art\; C109\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785521_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T101500Z
+DTEND:20171016T150000Z
+SEQUENCE:0
+SUMMARY:L&FPR\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785467_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171017T071500Z
+DTEND:20171017T084500Z
+SEQUENCE:619312
+SUMMARY:A&D\; C110\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; Prof. dr. GYSSENS Marc\; C1
+ 10\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785524_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171017T090000Z
+DTEND:20171017T134500Z
+SEQUENCE:619310
+SUMMARY:A&D\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1785500_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171017T140000Z
+DTEND:20171017T150000Z
+SEQUENCE:0
+SUMMARY:A&D\; C109\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; C109\; (Responsiecollege)\;
+  Voor: Alle groepen
+UID:1785503_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171018T070000Z
+DTEND:20171018T150000Z
+SEQUENCE:638658
+SUMMARY:HSAI\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; C23\,C50\;
+  (Project)\; Voor: Alle groepen
+UID:1785506_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171019T070000Z
+DTEND:20171019T083000Z
+SEQUENCE:619331
+SUMMARY:TINF\; A107\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; dr. BRIJDER Robert\; A107\; (Re
+ sponsiecollege)\; Voor: Alle groepen
+UID:1785533_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171019T084500Z
+DTEND:20171019T100000Z
+SEQUENCE:0
+SUMMARY:TINF\; A107\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; Prof. dr. GYSSENS Marc\; A107\;
+  (Hoorcollege)\; Voor: Alle groepen
+UID:1785536_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171019T110000Z
+DTEND:20171019T150000Z
+SEQUENCE:619529
+SUMMARY:TINF\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; C23\,C50\; (Zelfstudieopdracht)
+ \; Voor: Alle groepen
+UID:1785539_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171020T073000Z
+DTEND:20171020T090000Z
+SEQUENCE:639710
+SUMMARY:OOPII\; C110\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; Prof. dr. LUYTEN Kri
+ s\; C110\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785515_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171020T091500Z
+DTEND:20171020T150000Z
+SEQUENCE:619335
+SUMMARY:OOPII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785518_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171023T070000Z
+DTEND:20171023T083000Z
+SEQUENCE:619344
+SUMMARY:L&FPR\; C105\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; C105\; (Responsiecol
+ lege)\; Voor: Alle groepen
+UID:1785542_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171023T083000Z
+DTEND:20171023T100000Z
+SEQUENCE:0
+SUMMARY:L&FPR\; C105\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; Prof. dr. KUIJPERS B
+ art\; C105\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785545_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171023T101500Z
+DTEND:20171023T150000Z
+SEQUENCE:0
+SUMMARY:L&FPR\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785470_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171024T071500Z
+DTEND:20171024T084500Z
+SEQUENCE:0
+SUMMARY:A&D\; C110\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; Prof. dr. GYSSENS Marc\; C1
+ 10\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785548_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171024T090000Z
+DTEND:20171024T134500Z
+SEQUENCE:619347
+SUMMARY:A&D\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1785551_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171024T140000Z
+DTEND:20171024T150000Z
+SEQUENCE:0
+SUMMARY:A&D\; A103\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; A103\; (Responsiecollege)\;
+  Voor: Alle groepen
+UID:1785554_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171025T070000Z
+DTEND:20171025T080000Z
+SEQUENCE:638655
+SUMMARY:HSAI\; C109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; De heer BR
+ ULMANS Jens\; C109\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785578_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171025T080000Z
+DTEND:20171025T150000Z
+SEQUENCE:638656
+SUMMARY:HSAI\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; C23\,C50\;
+  (Project)\; Voor: Alle groepen
+UID:1785557_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171026T070000Z
+DTEND:20171026T083000Z
+SEQUENCE:619360
+SUMMARY:TINF\; C109\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; dr. BRIJDER Robert\; C109\; (Re
+ sponsiecollege)\; Voor: Alle groepen
+UID:1785560_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171026T084500Z
+DTEND:20171026T100000Z
+SEQUENCE:619361
+SUMMARY:TINF\; C109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; Prof. dr. GYSSENS Marc\; C109\;
+  (Hoorcollege)\; Voor: Alle groepen
+UID:1785563_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171026T101500Z
+DTEND:20171026T150000Z
+SEQUENCE:619364
+SUMMARY:TINF\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; C23\,C50\; (Zelfstudieopdracht)
+ \; Voor: Alle groepen
+UID:1785566_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171027T073000Z
+DTEND:20171027T090000Z
+SEQUENCE:639713
+SUMMARY:OOPII\; C110\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; Prof. dr. LUYTEN Kri
+ s\; C110\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785719_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171027T091500Z
+DTEND:20171027T150000Z
+SEQUENCE:619354
+SUMMARY:OOPII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785572_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171030T080000Z
+DTEND:20171030T093000Z
+SEQUENCE:621654
+SUMMARY:TINF\; C104\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; dr. BRIJDER Robert\; C104\; (Re
+ sponsiecollege)\; Voor: Alle groepen
+UID:1785581_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171030T094500Z
+DTEND:20171030T110000Z
+SEQUENCE:621655
+SUMMARY:TINF\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; Prof. dr. GYSSENS Marc\; C104\;
+  (Hoorcollege)\; Voor: Alle groepen
+UID:1785584_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171030T111500Z
+DTEND:20171030T160000Z
+SEQUENCE:0
+SUMMARY:TINF\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; C23\,C50\; (Zelfstudieopdracht)
+ \; Voor: Alle groepen
+UID:1785587_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171031T081500Z
+DTEND:20171031T094500Z
+SEQUENCE:0
+SUMMARY:A&D\; C109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; Prof. dr. GYSSENS Marc\; C1
+ 09\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785590_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171031T100000Z
+DTEND:20171031T144500Z
+SEQUENCE:0
+SUMMARY:A&D\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1785593_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171031T150000Z
+DTEND:20171031T160000Z
+SEQUENCE:0
+SUMMARY:A&D\; B102\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; B102\; (Responsiecollege)\;
+  Voor: Alle groepen
+UID:1785596_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T080000Z
+DTEND:20171106T093000Z
+SEQUENCE:619369
+SUMMARY:L&FPR\; B103\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; B103\; (Responsiecol
+ lege)\; Voor: Alle groepen
+UID:1785623_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T093000Z
+DTEND:20171106T110000Z
+SEQUENCE:0
+SUMMARY:L&FPR\; B103\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; Prof. dr. KUIJPERS B
+ art\; B103\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785599_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T111500Z
+DTEND:20171106T160000Z
+SEQUENCE:0
+SUMMARY:L&FPR\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785476_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171107T083000Z
+DTEND:20171107T100000Z
+SEQUENCE:639731
+SUMMARY:OOPII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; Prof. dr. LUYTEN Kri
+ s\; C104\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785569_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171107T101500Z
+DTEND:20171107T160000Z
+SEQUENCE:619389
+SUMMARY:OOPII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785629_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171108T080000Z
+DTEND:20171108T120000Z
+SEQUENCE:648085
+SUMMARY:HSAI\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; C23\,C50\;
+  (Project)\; Voor: Alle groepen
+UID:1785611_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171108T120000Z
+DTEND:20171108T130000Z
+SEQUENCE:648086
+SUMMARY:HSAI\; A6\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; De heer BR
+ ULMANS Jens\; A6\; (Responsiecollege)\; Voor: Alle groepen
+UID:1836746_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171108T130000Z
+DTEND:20171108T160000Z
+SEQUENCE:0
+SUMMARY:HSAI\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; C23\,C50\;
+  (Project)\; Voor: Alle groepen
+UID:1853081_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171109T080000Z
+DTEND:20171109T093000Z
+SEQUENCE:619411
+SUMMARY:TINF\; B102\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; dr. BRIJDER Robert\; B102\; (Re
+ sponsiecollege)\; Voor: Alle groepen
+UID:1785617_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171109T094500Z
+DTEND:20171109T110000Z
+SEQUENCE:619410
+SUMMARY:TINF\; B102\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; Prof. dr. GYSSENS Marc\; B102\;
+  (Hoorcollege)\; Voor: Alle groepen
+UID:1785626_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171109T111500Z
+DTEND:20171109T160000Z
+SEQUENCE:619383
+SUMMARY:TINF\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; C23\,C50\; (Zelfstudieopdracht)
+ \; Voor: Alle groepen
+UID:1785620_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171110T081500Z
+DTEND:20171110T094500Z
+SEQUENCE:619380
+SUMMARY:A&D\; B103\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; Prof. dr. GYSSENS Marc\; B1
+ 03\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785602_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171110T100000Z
+DTEND:20171110T144500Z
+SEQUENCE:619377
+SUMMARY:A&D\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1785605_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171110T150000Z
+DTEND:20171110T160000Z
+SEQUENCE:619378
+SUMMARY:A&D\; B103\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; B103\; (Responsiecollege)\;
+  Voor: Alle groepen
+UID:1785608_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T080000Z
+DTEND:20171113T093000Z
+SEQUENCE:619394
+SUMMARY:L&FPR\; C105\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; C105\; (Responsiecol
+ lege)\; Voor: Alle groepen
+UID:1785635_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T093000Z
+DTEND:20171113T110000Z
+SEQUENCE:0
+SUMMARY:L&FPR\; C105\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; Prof. dr. KUIJPERS B
+ art\; C105\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785638_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T111500Z
+DTEND:20171113T160000Z
+SEQUENCE:0
+SUMMARY:L&FPR\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785479_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171114T083000Z
+DTEND:20171114T100000Z
+SEQUENCE:639730
+SUMMARY:OOPII\; C110\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; Prof. dr. LUYTEN Kri
+ s\; C110\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785665_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171114T100000Z
+DTEND:20171114T110000Z
+SEQUENCE:0
+SUMMARY:EVALUATIEVERGADERING\; E139\; Voor: Alle groepen
+DESCRIPTION: ()\; E139\; Voor: Alle groepen
+UID:1849757_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171114T101500Z
+DTEND:20171114T160000Z
+SEQUENCE:0
+SUMMARY:OOPII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785674_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171115T080000Z
+DTEND:20171115T100000Z
+SEQUENCE:638667
+SUMMARY:HSAI\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; dr. PIERSO
+ N Jo\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785650_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171115T100000Z
+DTEND:20171115T120000Z
+SEQUENCE:638668
+SUMMARY:HSAI\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; C23\,C50\;
+  (Project)\; Voor: Alle groepen
+UID:1785653_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171115T120000Z
+DTEND:20171115T160000Z
+SEQUENCE:638669
+SUMMARY:HSAI\; EDM\; Tussentijdse presentaties\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; EDM\; Tuss
+ entijdse presentaties\; Voor: Alle groepen
+UID:1836749_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171116T080000Z
+DTEND:20171116T093000Z
+SEQUENCE:619409
+SUMMARY:TINF\; C105\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; dr. BRIJDER Robert\; C105\; (Re
+ sponsiecollege)\; Voor: Alle groepen
+UID:1785659_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171116T094500Z
+DTEND:20171116T110000Z
+SEQUENCE:619408
+SUMMARY:TINF\; C105\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; Prof. dr. GYSSENS Marc\; C105\;
+  (Hoorcollege)\; Voor: Alle groepen
+UID:1785671_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171116T111500Z
+DTEND:20171116T160000Z
+SEQUENCE:619407
+SUMMARY:TINF\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; C23\,C50\; (Zelfstudieopdracht)
+ \; Voor: Alle groepen
+UID:1785662_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171117T083000Z
+DTEND:20171117T100000Z
+SEQUENCE:639729
+SUMMARY:OOPII\; B102\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; Prof. dr. LUYTEN Kri
+ s\; B102\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785677_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171117T101500Z
+DTEND:20171117T160000Z
+SEQUENCE:619402
+SUMMARY:OOPII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785668_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T080000Z
+DTEND:20171127T093000Z
+SEQUENCE:619416
+SUMMARY:L&FPR\; C104\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; C104\; (Responsiecol
+ lege)\; Voor: Alle groepen
+UID:1785680_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T093000Z
+DTEND:20171127T110000Z
+SEQUENCE:619417
+SUMMARY:L&FPR\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; Prof. dr. KUIJPERS B
+ art\; C104\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785710_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T111500Z
+DTEND:20171127T160000Z
+SEQUENCE:0
+SUMMARY:L&FPR\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785482_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171128T081500Z
+DTEND:20171128T100000Z
+SEQUENCE:624594
+SUMMARY:A&D\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; Prof. dr. GYSSENS Marc\; C1
+ 04\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785713_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171128T100000Z
+DTEND:20171128T144500Z
+SEQUENCE:619438
+SUMMARY:A&D\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1785698_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171128T150000Z
+DTEND:20171128T160000Z
+SEQUENCE:619437
+SUMMARY:A&D\; C110\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; C110\; (Responsiecollege)\;
+  Voor: Alle groepen
+UID:1785701_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171129T080000Z
+DTEND:20171129T160000Z
+SEQUENCE:651760
+SUMMARY:HSAI\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; C23\,C50\;
+  (Project)\; Voor: Alle groepen
+UID:1785692_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171130T080000Z
+DTEND:20171130T093000Z
+SEQUENCE:619433
+SUMMARY:TINF\; A101\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; dr. BRIJDER Robert\; A101\; (Re
+ sponsiecollege)\; Voor: Alle groepen
+UID:1785683_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171130T094500Z
+DTEND:20171130T110000Z
+SEQUENCE:619434
+SUMMARY:TINF\; A101\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; Prof. dr. GYSSENS Marc\; A101\;
+  (Hoorcollege)\; Voor: Alle groepen
+UID:1785686_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171130T111500Z
+DTEND:20171130T160000Z
+SEQUENCE:619429
+SUMMARY:TINF\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; C23\,C50\; (Zelfstudieopdracht)
+ \; Voor: Alle groepen
+UID:1785689_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171201T083000Z
+DTEND:20171201T100000Z
+SEQUENCE:639728
+SUMMARY:OOPII\; B102\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; Prof. dr. LUYTEN Kri
+ s\; B102\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785704_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171201T101500Z
+DTEND:20171201T160000Z
+SEQUENCE:619419
+SUMMARY:OOPII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785707_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T080000Z
+DTEND:20171204T093000Z
+SEQUENCE:619528
+SUMMARY:L&FPR\; B103\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; B103\; (Responsiecol
+ lege)\; Voor: Alle groepen
+UID:1785725_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T093000Z
+DTEND:20171204T110000Z
+SEQUENCE:619439
+SUMMARY:L&FPR\; B103\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; Prof. dr. KUIJPERS B
+ art\; B103\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785728_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T111500Z
+DTEND:20171204T160000Z
+SEQUENCE:0
+SUMMARY:L&FPR\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785485_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171205T081500Z
+DTEND:20171205T094500Z
+SEQUENCE:624596
+SUMMARY:A&D\; C110\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; Prof. dr. GYSSENS Marc\; C1
+ 10\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785758_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171205T094500Z
+DTEND:20171205T144500Z
+SEQUENCE:619450
+SUMMARY:A&D\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1785743_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171205T150000Z
+DTEND:20171205T160000Z
+SEQUENCE:619447
+SUMMARY:A&D\; C110\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; C110\; (Responsiecollege)\;
+  Voor: Alle groepen
+UID:1785746_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171206T080000Z
+DTEND:20171206T100000Z
+SEQUENCE:638674
+SUMMARY:HSAI\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; dr. PIERSO
+ N Jo\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785755_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171206T100000Z
+DTEND:20171206T160000Z
+SEQUENCE:638675
+SUMMARY:HSAI\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; C23\,C50\;
+  (Project)\; Voor: Alle groepen
+UID:1785740_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T080000Z
+DTEND:20171207T093000Z
+SEQUENCE:619454
+SUMMARY:TINF\; C105\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; dr. BRIJDER Robert\; C105\; (Re
+ sponsiecollege)\; Voor: Alle groepen
+UID:1785731_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T094500Z
+DTEND:20171207T110000Z
+SEQUENCE:619455
+SUMMARY:TINF\; C105\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; Prof. dr. GYSSENS Marc\; C105\;
+  (Hoorcollege)\; Voor: Alle groepen
+UID:1785734_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T111500Z
+DTEND:20171207T160000Z
+SEQUENCE:619453
+SUMMARY:TINF\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; C23\,C50\; (Zelfstudieopdracht)
+ \; Voor: Alle groepen
+UID:1785737_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171208T083000Z
+DTEND:20171208T100000Z
+SEQUENCE:639727
+SUMMARY:OOPII\; B102\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; Prof. dr. LUYTEN Kri
+ s\; B102\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785749_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171208T101500Z
+DTEND:20171208T160000Z
+SEQUENCE:619458
+SUMMARY:OOPII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785752_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171211T080000Z
+DTEND:20171211T093000Z
+SEQUENCE:650612
+SUMMARY:L&FPR\; A101\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; A101\; (Responsiecol
+ lege)\; Voor: Alle groepen
+UID:1785761_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171211T093000Z
+DTEND:20171211T110000Z
+SEQUENCE:650613
+SUMMARY:L&FPR\; A101\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; Prof. dr. KUIJPERS B
+ art\; A101\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785764_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171211T111500Z
+DTEND:20171211T160000Z
+SEQUENCE:0
+SUMMARY:L&FPR\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785488_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171212T081500Z
+DTEND:20171212T094500Z
+SEQUENCE:619463
+SUMMARY:A&D\; B103\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; Prof. dr. GYSSENS Marc\; B1
+ 03\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785794_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171212T100000Z
+DTEND:20171212T150000Z
+SEQUENCE:619471
+SUMMARY:A&D\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1785782_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171212T150000Z
+DTEND:20171212T160000Z
+SEQUENCE:619472
+SUMMARY:A&D\; C110\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; C110\; (Responsiecollege)\;
+  Voor: Alle groepen
+UID:1785785_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171213T080000Z
+DTEND:20171213T100000Z
+SEQUENCE:638678
+SUMMARY:HSAI\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; dr. PIERSO
+ N Jo\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785776_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171213T100000Z
+DTEND:20171213T160000Z
+SEQUENCE:638679
+SUMMARY:HSAI\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; C23\,C50\;
+  (Project)\; Voor: Alle groepen
+UID:1785779_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171214T080000Z
+DTEND:20171214T093000Z
+SEQUENCE:619466
+SUMMARY:TINF\; B103\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; dr. BRIJDER Robert\; B103\; (Re
+ sponsiecollege)\; Voor: Alle groepen
+UID:1785767_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171214T094500Z
+DTEND:20171214T110000Z
+SEQUENCE:619468
+SUMMARY:TINF\; B103\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; Prof. dr. GYSSENS Marc\; B103\;
+  (Hoorcollege)\; Voor: Alle groepen
+UID:1785770_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171214T120000Z
+DTEND:20171214T130000Z
+SEQUENCE:619483
+SUMMARY:INFOSESSIE\; PSOPV introductie\; B103\; Voor: Alle groepen
+DESCRIPTION: ()\; Prof. dr. LAMOTTE Wim\; B103\; Voor: Alle groepen
+UID:1785803_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171214T130000Z
+DTEND:20171214T160000Z
+SEQUENCE:619479
+SUMMARY:TINF\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; C23\,C50\; (Zelfstudieopdracht)
+ \; Voor: Alle groepen
+UID:1785773_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171215T083000Z
+DTEND:20171215T100000Z
+SEQUENCE:639726
+SUMMARY:OOPII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; Prof. dr. LUYTEN Kri
+ s\; C104\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785797_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171215T101500Z
+DTEND:20171215T160000Z
+SEQUENCE:619485
+SUMMARY:OOPII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785788_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T081500Z
+DTEND:20171218T094500Z
+SEQUENCE:619497
+SUMMARY:A&D\; B102\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; Prof. dr. GYSSENS Marc\; B1
+ 02\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785833_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T100000Z
+DTEND:20171218T144500Z
+SEQUENCE:619489
+SUMMARY:A&D\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1785815_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T150000Z
+DTEND:20171218T160000Z
+SEQUENCE:619490
+SUMMARY:A&D\; C110\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; C110\; (Responsiecollege)\;
+  Voor: Alle groepen
+UID:1785818_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171219T081500Z
+DTEND:20171219T094500Z
+SEQUENCE:619498
+SUMMARY:A&D\; C110\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; Prof. dr. GYSSENS Marc\; C1
+ 10\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785836_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171219T100000Z
+DTEND:20171219T144500Z
+SEQUENCE:0
+SUMMARY:A&D\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1785839_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171219T150000Z
+DTEND:20171219T160000Z
+SEQUENCE:0
+SUMMARY:A&D\; C110\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; C110\; (Responsiecollege)\;
+  Voor: Alle groepen
+UID:1785842_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171220T080000Z
+DTEND:20171220T093000Z
+SEQUENCE:654901
+SUMMARY:HSAI\; C110\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; Prof. dr. 
+ CONINX Karin\; C110\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785809_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171220T093000Z
+DTEND:20171220T160000Z
+SEQUENCE:638681
+SUMMARY:HSAI\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; C23\,C50\;
+  (Project)\; Voor: Alle groepen
+UID:1785812_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171221T080000Z
+DTEND:20171221T093000Z
+SEQUENCE:619499
+SUMMARY:TINF\; C109\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; dr. BRIJDER Robert\; C109\; (Re
+ sponsiecollege)\; Voor: Alle groepen
+UID:1785827_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171221T094500Z
+DTEND:20171221T110000Z
+SEQUENCE:619500
+SUMMARY:TINF\; C109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; Prof. dr. GYSSENS Marc\; C109\;
+  (Hoorcollege)\; Voor: Alle groepen
+UID:1785830_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171221T111500Z
+DTEND:20171221T160000Z
+SEQUENCE:619492
+SUMMARY:TINF\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; C23\,C50\; (Zelfstudieopdracht)
+ \; Voor: Alle groepen
+UID:1785806_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171222T083000Z
+DTEND:20171222T100000Z
+SEQUENCE:639725
+SUMMARY:OOPII\; C109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; Prof. dr. LUYTEN Kri
+ s\; C109\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785821_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171222T101500Z
+DTEND:20171222T150000Z
+SEQUENCE:654902
+SUMMARY:OOPII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785824_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171222T150000Z
+DTEND:20171222T170000Z
+SEQUENCE:0
+SUMMARY:HSAI\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; dr. PIERSO
+ N Jo\; EDM\; (Hoorcollege)\; Voor: Alle groepen
+UID:1872944_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180103T080000Z
+DTEND:20180103T093000Z
+SEQUENCE:619503
+SUMMARY:TINF\; C109\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; dr. BRIJDER Robert\; C109\; (Re
+ sponsiecollege)\; Voor: Alle groepen
+UID:1785857_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180103T094500Z
+DTEND:20180103T110000Z
+SEQUENCE:619504
+SUMMARY:TINF\; C109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; Prof. dr. GYSSENS Marc\; C109\;
+  (Hoorcollege)\; Voor: Alle groepen
+UID:1785860_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180103T111500Z
+DTEND:20180103T160000Z
+SEQUENCE:619505
+SUMMARY:TINF\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; C23\,C50\; (Zelfstudieopdracht)
+ \; Voor: Alle groepen
+UID:1785863_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210606Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180104T081500Z
+DTEND:20180104T094500Z
+SEQUENCE:0
+SUMMARY:A&D\; C110\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; Prof. dr. GYSSENS Marc\; C1
+ 10\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785866_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180104T100000Z
+DTEND:20180104T144500Z
+SEQUENCE:0
+SUMMARY:A&D\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1785869_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180104T150000Z
+DTEND:20180104T160000Z
+SEQUENCE:0
+SUMMARY:A&D\; C110\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; C110\; (Responsiecollege)\;
+  Voor: Alle groepen
+UID:1785872_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180105T083000Z
+DTEND:20180105T100000Z
+SEQUENCE:639724
+SUMMARY:OOPII\; C109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; Prof. dr. LUYTEN Kri
+ s\; C109\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785845_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180105T101500Z
+DTEND:20180105T160000Z
+SEQUENCE:0
+SUMMARY:OOPII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785848_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180108T080000Z
+DTEND:20180108T093000Z
+SEQUENCE:0
+SUMMARY:L&FPR\; C110\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; C110\; (Responsiecol
+ lege)\; Voor: Alle groepen
+UID:1785896_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180108T093000Z
+DTEND:20180108T110000Z
+SEQUENCE:0
+SUMMARY:L&FPR\; C110\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; Prof. dr. KUIJPERS B
+ art\; C110\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785899_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180108T111500Z
+DTEND:20180108T160000Z
+SEQUENCE:619522
+SUMMARY:L&FPR\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Logisch en functioneel programmeren (0664)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785494_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180109T081500Z
+DTEND:20180109T094500Z
+SEQUENCE:619517
+SUMMARY:A&D\; C109\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; Prof. dr. GYSSENS Marc\; C1
+ 09\; (Hoorcollege)\; Voor: Alle groepen
+UID:1785884_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180109T100000Z
+DTEND:20180109T144500Z
+SEQUENCE:619510
+SUMMARY:A&D\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1785887_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180109T150000Z
+DTEND:20180109T160000Z
+SEQUENCE:619508
+SUMMARY:A&D\; B102\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Algoritmen en datastructuren (0656)\; B102\; (Responsiecollege)\;
+  Voor: Alle groepen
+UID:1785890_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180110T080000Z
+DTEND:20180110T090000Z
+SEQUENCE:638683
+SUMMARY:HSAI\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; C23\,C50\;
+  (Project)\; Voor: Alle groepen
+UID:1836752_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180110T090000Z
+DTEND:20180110T160000Z
+SEQUENCE:638684
+SUMMARY:HSAI\; EDM\; Projectverdediging\; Voor: Alle groepen
+DESCRIPTION:Humane en sociale aspecten van de informatica (2251)\; EDM\; Proj
+ ectverdediging\; Voor: Alle groepen
+UID:1785881_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180111T080000Z
+DTEND:20180111T093000Z
+SEQUENCE:619518
+SUMMARY:TINF\; B102\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; dr. BRIJDER Robert\; B102\; (Re
+ sponsiecollege)\; Voor: Alle groepen
+UID:1785875_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180111T094500Z
+DTEND:20180111T110000Z
+SEQUENCE:619519
+SUMMARY:TINF\; B102\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; Prof. dr. GYSSENS Marc\; B102\;
+  (Hoorcollege)\; Voor: Alle groepen
+UID:1785893_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180111T111500Z
+DTEND:20180111T160000Z
+SEQUENCE:619521
+SUMMARY:TINF\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Theoretische informatica (0666)\; C23\,C50\; (Zelfstudieopdracht)
+ \; Voor: Alle groepen
+UID:1785878_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180112T080000Z
+DTEND:20180112T160000Z
+SEQUENCE:658027
+SUMMARY:OOPII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Object-georiënteerd programmeren II (2247)\; C23\,C50\; (Zelfstud
+ ieopdracht)\; Voor: Alle groepen
+UID:1785854_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180212T091500Z
+DTEND:20180212T104500Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; Prof. dr. POP Sorin\; C104\
+ ; (Hoorcollege)\; Voor: Alle groepen
+UID:1786136_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180212T110000Z
+DTEND:20180212T160000Z
+SEQUENCE:655215
+SUMMARY:WII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1786145_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180214T080000Z
+DTEND:20180214T093000Z
+SEQUENCE:619694
+SUMMARY:BSYS\; C105\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; Prof. dr. BEKAERT Philippe\; C105\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1786154_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180214T094500Z
+DTEND:20180214T160000Z
+SEQUENCE:619723
+SUMMARY:BSYS\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; C23\,C50\; (Zelfstudieopdracht)\; Voo
+ r: Alle groepen
+UID:1786157_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180216T090000Z
+DTEND:20180216T110000Z
+SEQUENCE:666878
+SUMMARY:BSYS\; H5\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; H5\; (Responsiecollege)\; Voor: Alle 
+ groepen
+UID:1786181_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180216T110000Z
+DTEND:20180216T160000Z
+SEQUENCE:666879
+SUMMARY:BSYS\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; C23\,C50\; (Zelfstudieopdracht)\; Voo
+ r: Alle groepen
+UID:1786169_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180219T080000Z
+DTEND:20180219T090000Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; De heer HENRARD Ruben\; C10
+ 4\; (Responsiecollege)\; Voor: Alle groepen
+UID:1786184_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180219T091500Z
+DTEND:20180219T104500Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; Prof. dr. POP Sorin\; C104\
+ ; (Hoorcollege)\; Voor: Alle groepen
+UID:1786187_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180219T104500Z
+DTEND:20180219T120000Z
+SEQUENCE:0
+SUMMARY:WII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1786190_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180219T120000Z
+DTEND:20180219T130000Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; Prof. dr. VAN REETH Frank\;
+  C104\; (Hoorcollege)\; Voor: Alle groepen
+UID:1786193_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180219T130000Z
+DTEND:20180219T160000Z
+SEQUENCE:0
+SUMMARY:WII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1786196_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180220T083000Z
+DTEND:20180220T100000Z
+SEQUENCE:666891
+SUMMARY:CGR\; C105\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Computer graphics (0661)\; Prof. dr. VAN REETH Frank\; C105\; (Ho
+ orcollege)\; Voor: Alle groepen
+UID:1786199_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180220T101500Z
+DTEND:20180220T160000Z
+SEQUENCE:655160
+SUMMARY:CGR\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Computer graphics (0661)\; C23\,C50\; (Zelfstudieopdracht)\; Voor
+ : Alle groepen
+UID:1786202_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180221T080000Z
+DTEND:20180221T093000Z
+SEQUENCE:663168
+SUMMARY:BSYS\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; Prof. dr. BEKAERT Philippe\; C104\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1786205_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180221T094500Z
+DTEND:20180221T160000Z
+SEQUENCE:619722
+SUMMARY:BSYS\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; C23\,C50\; (Zelfstudieopdracht)\; Voo
+ r: Alle groepen
+UID:1786208_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180221T130000Z
+DTEND:20180221T150000Z
+SEQUENCE:664323
+SUMMARY:MASTERBEURS\; B104\; \; Voor: Alle groepen
+UID:1787393_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180222T080000Z
+DTEND:20180222T160000Z
+SEQUENCE:0
+SUMMARY:PSOPV\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Project software ontwikkeling en professionele vaardigheden (2252
+ )\; C23\,C50\; (Project)\; Voor: Alle groepen
+UID:1786229_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180223T080000Z
+DTEND:20180223T103000Z
+SEQUENCE:666896
+SUMMARY:BSYS\; A5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; Prof. dr. BEKAERT Philippe\; A5\; (Ho
+ orcollege)\; Voor: Alle groepen
+UID:1786214_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180223T104500Z
+DTEND:20180223T160000Z
+SEQUENCE:666890
+SUMMARY:BSYS\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; C23\,C50\; (Zelfstudieopdracht)\; Voo
+ r: Alle groepen
+UID:1786223_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180226T080000Z
+DTEND:20180226T090000Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; De heer HENRARD Ruben\; C10
+ 4\; (Responsiecollege)\; Voor: Alle groepen
+UID:1786232_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180226T091500Z
+DTEND:20180226T104500Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; Prof. dr. POP Sorin\; C104\
+ ; (Hoorcollege)\; Voor: Alle groepen
+UID:1786235_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180226T104500Z
+DTEND:20180226T120000Z
+SEQUENCE:0
+SUMMARY:WII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1786238_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180226T120000Z
+DTEND:20180226T130000Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; Prof. dr. VAN REETH Frank\;
+  C104\; (Hoorcollege)\; Voor: Alle groepen
+UID:1786241_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180226T130000Z
+DTEND:20180226T160000Z
+SEQUENCE:0
+SUMMARY:WII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1786244_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180227T083000Z
+DTEND:20180227T100000Z
+SEQUENCE:666892
+SUMMARY:CGR\; C105\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Computer graphics (0661)\; Prof. dr. VAN REETH Frank\; C105\; (Ho
+ orcollege)\; Voor: Alle groepen
+UID:1786148_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180227T101500Z
+DTEND:20180227T160000Z
+SEQUENCE:655163
+SUMMARY:CGR\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Computer graphics (0661)\; C23\,C50\; (Zelfstudieopdracht)\; Voor
+ : Alle groepen
+UID:1786151_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180228T080000Z
+DTEND:20180228T144500Z
+SEQUENCE:666898
+SUMMARY:BSYS\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; C23\,C50\; (Zelfstudieopdracht)\; Voo
+ r: Alle groepen
+UID:1786250_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180228T150000Z
+DTEND:20180228T160000Z
+SEQUENCE:619713
+SUMMARY:BSYS\; B104\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; B104\; (Responsiecollege)\; Voor: All
+ e groepen
+UID:1786253_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180301T080000Z
+DTEND:20180301T160000Z
+SEQUENCE:0
+SUMMARY:PSOPV\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Project software ontwikkeling en professionele vaardigheden (2252
+ )\; C23\,C50\; (Project)\; Voor: Alle groepen
+UID:1786256_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180305T080000Z
+DTEND:20180305T090000Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; De heer HENRARD Ruben\; C10
+ 4\; (Responsiecollege)\; Voor: Alle groepen
+UID:1786292_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180305T091500Z
+DTEND:20180305T104500Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; Prof. dr. POP Sorin\; C104\
+ ; (Hoorcollege)\; Voor: Alle groepen
+UID:1786295_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180305T104500Z
+DTEND:20180305T120000Z
+SEQUENCE:0
+SUMMARY:WII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1786298_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180305T120000Z
+DTEND:20180305T130000Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; Prof. dr. VAN REETH Frank\;
+  C104\; (Hoorcollege)\; Voor: Alle groepen
+UID:1786301_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180305T130000Z
+DTEND:20180305T160000Z
+SEQUENCE:0
+SUMMARY:WII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1786304_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180306T083000Z
+DTEND:20180306T100000Z
+SEQUENCE:666901
+SUMMARY:CGR\; C105\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Computer graphics (0661)\; Prof. dr. VAN REETH Frank\; C105\; (Ho
+ orcollege)\; Voor: Alle groepen
+UID:1786307_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180306T101500Z
+DTEND:20180306T160000Z
+SEQUENCE:655165
+SUMMARY:CGR\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Computer graphics (0661)\; C23\,C50\; (Zelfstudieopdracht)\; Voor
+ : Alle groepen
+UID:1786310_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180307T080000Z
+DTEND:20180307T093000Z
+SEQUENCE:619715
+SUMMARY:BSYS\; H2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; Prof. dr. BEKAERT Philippe\; H2\; (Ho
+ orcollege)\; Voor: Alle groepen
+UID:1786313_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180307T094500Z
+DTEND:20180307T160000Z
+SEQUENCE:666900
+SUMMARY:BSYS\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; C23\,C50\; (Zelfstudieopdracht)\; Voo
+ r: Alle groepen
+UID:1786316_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180308T080000Z
+DTEND:20180308T160000Z
+SEQUENCE:0
+SUMMARY:PSOPV\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Project software ontwikkeling en professionele vaardigheden (2252
+ )\; C23\,C50\; (Project)\; Voor: Alle groepen
+UID:1786259_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180312T080000Z
+DTEND:20180312T090000Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; De heer HENRARD Ruben\; C10
+ 4\; (Responsiecollege)\; Voor: Alle groepen
+UID:1786328_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180312T091500Z
+DTEND:20180312T104500Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; Prof. dr. POP Sorin\; C104\
+ ; (Hoorcollege)\; Voor: Alle groepen
+UID:1786331_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180312T104500Z
+DTEND:20180312T120000Z
+SEQUENCE:0
+SUMMARY:WII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1786334_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180312T120000Z
+DTEND:20180312T130000Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; Prof. dr. VAN REETH Frank\;
+  C104\; (Hoorcollege)\; Voor: Alle groepen
+UID:1786337_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180312T130000Z
+DTEND:20180312T160000Z
+SEQUENCE:0
+SUMMARY:WII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1786340_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180313T083000Z
+DTEND:20180313T100000Z
+SEQUENCE:666908
+SUMMARY:CGR\; C105\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Computer graphics (0661)\; Prof. dr. VAN REETH Frank\; C105\; (Ho
+ orcollege)\; Voor: Alle groepen
+UID:1786343_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180313T101500Z
+DTEND:20180313T160000Z
+SEQUENCE:655168
+SUMMARY:CGR\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Computer graphics (0661)\; C23\,C50\; (Zelfstudieopdracht)\; Voor
+ : Alle groepen
+UID:1786346_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180314T080000Z
+DTEND:20180314T093000Z
+SEQUENCE:666909
+SUMMARY:BSYS\; A106\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; Prof. dr. BEKAERT Philippe\; A106\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1786355_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180314T120000Z
+DTEND:20180314T160000Z
+SEQUENCE:655169
+SUMMARY:Vlaamse prog. Wedstrijd\; Voor: Alle groepen
+DESCRIPTION: ()\; Voor: Alle groepen
+UID:1787396_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180314T170000Z
+DTEND:20180314T190000Z
+SEQUENCE:662199
+SUMMARY:WERELDAVOND (AGORA)\; Voor: Alle groepen
+DESCRIPTION: ()\; Voor: Alle groepen
+UID:1807562_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180315T080000Z
+DTEND:20180315T110000Z
+SEQUENCE:619743
+SUMMARY:PSOPV\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Project software ontwikkeling en professionele vaardigheden (2252
+ )\; C23\,C50\; (Project)\; Voor: Alle groepen
+UID:1786262_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180315T110000Z
+DTEND:20180315T120000Z
+SEQUENCE:0
+SUMMARY:EVALUATIEVERGADERING\; E140\; Voor: Alle groepen
+DESCRIPTION: ()\; E140\; Voor: Alle groepen
+UID:1786685_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180315T120000Z
+DTEND:20180315T160000Z
+SEQUENCE:0
+SUMMARY:PSOPV\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Project software ontwikkeling en professionele vaardigheden (2252
+ )\; C23\,C50\; (Project)\; Voor: Alle groepen
+UID:1786682_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180316T080000Z
+DTEND:20180316T160000Z
+SEQUENCE:666910
+SUMMARY:BSYS\; C23\,C50\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; C23\,C50\; Voor: Alle groepen
+UID:1786352_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180319T080000Z
+DTEND:20180319T090000Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; De heer HENRARD Ruben\; C10
+ 4\; (Responsiecollege)\; Voor: Alle groepen
+UID:1786364_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180319T091500Z
+DTEND:20180319T104500Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; Prof. dr. POP Sorin\; C104\
+ ; (Hoorcollege)\; Voor: Alle groepen
+UID:1786367_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180319T104500Z
+DTEND:20180319T120000Z
+SEQUENCE:0
+SUMMARY:WII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1786370_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180319T120000Z
+DTEND:20180319T130000Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; Prof. dr. VAN REETH Frank\;
+  C104\; (Hoorcollege)\; Voor: Alle groepen
+UID:1786373_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180319T130000Z
+DTEND:20180319T160000Z
+SEQUENCE:0
+SUMMARY:WII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1786376_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180320T083000Z
+DTEND:20180320T100000Z
+SEQUENCE:655196
+SUMMARY:CGR\; C105\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Computer graphics (0661)\; Prof. dr. VAN REETH Frank\; C105\; (Ho
+ orcollege)\; Voor: Alle groepen
+UID:1786379_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180320T101500Z
+DTEND:20180320T160000Z
+SEQUENCE:655171
+SUMMARY:CGR\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Computer graphics (0661)\; C23\,C50\; (Zelfstudieopdracht)\; Voor
+ : Alle groepen
+UID:1786382_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180321T080000Z
+DTEND:20180321T160000Z
+SEQUENCE:666912
+SUMMARY:BSYS\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; C23\,C50\; (Zelfstudieopdracht)\; Voo
+ r: Alle groepen
+UID:1786391_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180322T080000Z
+DTEND:20180322T160000Z
+SEQUENCE:0
+SUMMARY:PSOPV\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Project software ontwikkeling en professionele vaardigheden (2252
+ )\; C23\,C50\; (Project)\; Voor: Alle groepen
+UID:1786265_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180323T080000Z
+DTEND:20180323T144500Z
+SEQUENCE:0
+SUMMARY:BSYS\; C23\,C50\; Opdracht 1\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; C23\,C50\; Opdracht 1\; Voor: Alle gr
+ oepen
+UID:1786394_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180323T150000Z
+DTEND:20180323T160000Z
+SEQUENCE:0
+SUMMARY:BSYS\; A3\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; dr. MICHIELS Nick\; A3\; (Responsieco
+ llege)\; Voor: Alle groepen
+UID:1786397_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180326T070000Z
+DTEND:20180326T080000Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; De heer HENRARD Ruben\; C10
+ 4\; (Responsiecollege)\; Voor: Alle groepen
+UID:1786406_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180326T081500Z
+DTEND:20180326T094500Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; Prof. dr. POP Sorin\; C104\
+ ; (Hoorcollege)\; Voor: Alle groepen
+UID:1786409_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180326T094500Z
+DTEND:20180326T110000Z
+SEQUENCE:0
+SUMMARY:WII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1786412_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180326T110000Z
+DTEND:20180326T120000Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; Prof. dr. VAN REETH Frank\;
+  C104\; (Hoorcollege)\; Voor: Alle groepen
+UID:1786415_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180326T120000Z
+DTEND:20180326T150000Z
+SEQUENCE:0
+SUMMARY:WII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1786418_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180327T073000Z
+DTEND:20180327T090000Z
+SEQUENCE:666919
+SUMMARY:CGR\; C105\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Computer graphics (0661)\; Prof. dr. VAN REETH Frank\; C105\; (Ho
+ orcollege)\; Voor: Alle groepen
+UID:1786421_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180327T091500Z
+DTEND:20180327T150000Z
+SEQUENCE:655173
+SUMMARY:CGR\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Computer graphics (0661)\; C23\,C50\; (Zelfstudieopdracht)\; Voor
+ : Alle groepen
+UID:1786424_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180328T070000Z
+DTEND:20180328T083000Z
+SEQUENCE:0
+SUMMARY:BSYS\; C105\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; Prof. dr. BEKAERT Philippe\; C105\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1905773_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180328T084500Z
+DTEND:20180328T150000Z
+SEQUENCE:666916
+SUMMARY:BSYS\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; C23\,C50\; (Zelfstudieopdracht)\; Voo
+ r: Alle groepen
+UID:1786433_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180329T070000Z
+DTEND:20180329T150000Z
+SEQUENCE:0
+SUMMARY:PSOPV\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Project software ontwikkeling en professionele vaardigheden (2252
+ )\; C23\,C50\; (Project)\; Voor: Alle groepen
+UID:1786268_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180330T070000Z
+DTEND:20180330T150000Z
+SEQUENCE:666918
+SUMMARY:BSYS\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; C23\,C50\; (Zelfstudieopdracht)\; Voo
+ r: Alle groepen
+UID:1786349_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180409T070000Z
+DTEND:20180409T080000Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; De heer HENRARD Ruben\; C10
+ 4\; (Responsiecollege)\; Voor: Alle groepen
+UID:1786439_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180409T081500Z
+DTEND:20180409T094500Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; Prof. dr. POP Sorin\; C104\
+ ; (Hoorcollege)\; Voor: Alle groepen
+UID:1786442_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180409T094500Z
+DTEND:20180409T110000Z
+SEQUENCE:0
+SUMMARY:WII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1786445_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180409T110000Z
+DTEND:20180409T120000Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; Prof. dr. VAN REETH Frank\;
+  C104\; (Hoorcollege)\; Voor: Alle groepen
+UID:1786448_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180409T120000Z
+DTEND:20180409T150000Z
+SEQUENCE:0
+SUMMARY:WII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1786451_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180410T073000Z
+DTEND:20180410T090000Z
+SEQUENCE:655203
+SUMMARY:CGR\; C105\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Computer graphics (0661)\; Prof. dr. VAN REETH Frank\; C105\; (Ho
+ orcollege)\; Voor: Alle groepen
+UID:1786454_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180410T091500Z
+DTEND:20180410T150000Z
+SEQUENCE:655175
+SUMMARY:CGR\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Computer graphics (0661)\; C23\,C50\; (Zelfstudieopdracht)\; Voor
+ : Alle groepen
+UID:1786457_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180411T070000Z
+DTEND:20180411T150000Z
+SEQUENCE:666923
+SUMMARY:BSYS\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; C23\,C50\; (Zelfstudieopdracht)\; Voo
+ r: Alle groepen
+UID:1786466_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180412T070000Z
+DTEND:20180412T150000Z
+SEQUENCE:0
+SUMMARY:PSOPV\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Project software ontwikkeling en professionele vaardigheden (2252
+ )\; C23\,C50\; (Project)\; Voor: Alle groepen
+UID:1786271_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180413T070000Z
+DTEND:20180413T150000Z
+SEQUENCE:0
+SUMMARY:PSOPV\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Project software ontwikkeling en professionele vaardigheden (2252
+ )\; C23\,C50\; (Project)\; Voor: Alle groepen
+UID:1786472_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180416T070000Z
+DTEND:20180416T080000Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; De heer HENRARD Ruben\; C10
+ 4\; (Responsiecollege)\; Voor: Alle groepen
+UID:1786475_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180416T081500Z
+DTEND:20180416T094500Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; Prof. dr. POP Sorin\; C104\
+ ; (Hoorcollege)\; Voor: Alle groepen
+UID:1786481_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180416T094500Z
+DTEND:20180416T110000Z
+SEQUENCE:0
+SUMMARY:WII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1786487_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180416T110000Z
+DTEND:20180416T120000Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; Prof. dr. VAN REETH Frank\;
+  C104\; (Hoorcollege)\; Voor: Alle groepen
+UID:1786493_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180416T120000Z
+DTEND:20180416T150000Z
+SEQUENCE:0
+SUMMARY:WII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1786499_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180417T073000Z
+DTEND:20180417T090000Z
+SEQUENCE:666927
+SUMMARY:CGR\; C105\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Computer graphics (0661)\; Prof. dr. VAN REETH Frank\; C105\; (Ho
+ orcollege)\; Voor: Alle groepen
+UID:1786505_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180417T091500Z
+DTEND:20180417T150000Z
+SEQUENCE:655177
+SUMMARY:CGR\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Computer graphics (0661)\; C23\,C50\; (Zelfstudieopdracht)\; Voor
+ : Alle groepen
+UID:1786511_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180418T070000Z
+DTEND:20180418T083000Z
+SEQUENCE:0
+SUMMARY:BSYS\; C105\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; Prof. dr. BEKAERT Philippe\; C105\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1786523_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180418T084500Z
+DTEND:20180418T150000Z
+SEQUENCE:666925
+SUMMARY:BSYS\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; C23\,C50\; (Zelfstudieopdracht)\; Voo
+ r: Alle groepen
+UID:1786529_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180419T070000Z
+DTEND:20180419T150000Z
+SEQUENCE:0
+SUMMARY:PSOPV\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Project software ontwikkeling en professionele vaardigheden (2252
+ )\; C23\,C50\; (Project)\; Voor: Alle groepen
+UID:1786274_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180420T070000Z
+DTEND:20180420T150000Z
+SEQUENCE:0
+SUMMARY:PSOPV\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Project software ontwikkeling en professionele vaardigheden (2252
+ )\; C23\,C50\; (Project)\; Voor: Alle groepen
+UID:1786541_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180423T070000Z
+DTEND:20180423T080000Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; De heer HENRARD Ruben\; C10
+ 4\; (Responsiecollege)\; Voor: Alle groepen
+UID:1786478_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180423T081500Z
+DTEND:20180423T094500Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; Prof. dr. POP Sorin\; C104\
+ ; (Hoorcollege)\; Voor: Alle groepen
+UID:1786484_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180423T094500Z
+DTEND:20180423T110000Z
+SEQUENCE:0
+SUMMARY:WII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1786490_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180423T110000Z
+DTEND:20180423T120000Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; Prof. dr. VAN REETH Frank\;
+  C104\; (Hoorcollege)\; Voor: Alle groepen
+UID:1786496_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180423T120000Z
+DTEND:20180423T150000Z
+SEQUENCE:0
+SUMMARY:WII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1786502_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180424T073000Z
+DTEND:20180424T090000Z
+SEQUENCE:666930
+SUMMARY:CGR\; C105\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Computer graphics (0661)\; Prof. dr. VAN REETH Frank\; C105\; (Ho
+ orcollege)\; Voor: Alle groepen
+UID:1786508_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180424T091500Z
+DTEND:20180424T150000Z
+SEQUENCE:655179
+SUMMARY:CGR\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Computer graphics (0661)\; C23\,C50\; (Zelfstudieopdracht)\; Voor
+ : Alle groepen
+UID:1786514_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180425T070000Z
+DTEND:20180425T150000Z
+SEQUENCE:666929
+SUMMARY:BSYS\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; C23\,C50\; (Zelfstudieopdracht)\; Voo
+ r: Alle groepen
+UID:1786532_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180426T070000Z
+DTEND:20180426T150000Z
+SEQUENCE:0
+SUMMARY:PSOPV\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Project software ontwikkeling en professionele vaardigheden (2252
+ )\; C23\,C50\; (Project)\; Voor: Alle groepen
+UID:1786277_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180427T070000Z
+DTEND:20180427T150000Z
+SEQUENCE:0
+SUMMARY:PSOPV\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Project software ontwikkeling en professionele vaardigheden (2252
+ )\; C23\,C50\; (Project)\; Voor: Alle groepen
+UID:1786544_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180502T070000Z
+DTEND:20180502T150000Z
+SEQUENCE:0
+SUMMARY:PSOPV\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Project software ontwikkeling en professionele vaardigheden (2252
+ )\; C23\,C50\; (Project)\; Voor: Alle groepen
+UID:1786550_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180503T070000Z
+DTEND:20180503T150000Z
+SEQUENCE:0
+SUMMARY:PSOPV\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Project software ontwikkeling en professionele vaardigheden (2252
+ )\; C23\,C50\; (Project)\; Voor: Alle groepen
+UID:1786280_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180504T070000Z
+DTEND:20180504T150000Z
+SEQUENCE:0
+SUMMARY:PSOPV\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Project software ontwikkeling en professionele vaardigheden (2252
+ )\; C23\,C50\; (Project)\; Voor: Alle groepen
+UID:1786547_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180507T070000Z
+DTEND:20180507T080000Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; De heer HENRARD Ruben\; C10
+ 4\; (Responsiecollege)\; Voor: Alle groepen
+UID:1786553_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180507T081500Z
+DTEND:20180507T094500Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; Prof. dr. POP Sorin\; C104\
+ ; (Hoorcollege)\; Voor: Alle groepen
+UID:1786556_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180507T094500Z
+DTEND:20180507T110000Z
+SEQUENCE:0
+SUMMARY:WII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1786559_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180507T110000Z
+DTEND:20180507T120000Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; Prof. dr. VAN REETH Frank\;
+  C104\; (Hoorcollege)\; Voor: Alle groepen
+UID:1786562_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180507T120000Z
+DTEND:20180507T150000Z
+SEQUENCE:0
+SUMMARY:WII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1786565_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180508T073000Z
+DTEND:20180508T090000Z
+SEQUENCE:655201
+SUMMARY:CGR\; C105\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Computer graphics (0661)\; Prof. dr. VAN REETH Frank\; C105\; (Ho
+ orcollege)\; Voor: Alle groepen
+UID:1786568_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180508T091500Z
+DTEND:20180508T150000Z
+SEQUENCE:655182
+SUMMARY:CGR\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Computer graphics (0661)\; C23\,C50\; (Zelfstudieopdracht)\; Voor
+ : Alle groepen
+UID:1786571_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180509T070000Z
+DTEND:20180509T083000Z
+SEQUENCE:0
+SUMMARY:BSYS\; C105\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; Prof. dr. BEKAERT Philippe\; C105\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1786577_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180509T084500Z
+DTEND:20180509T134500Z
+SEQUENCE:0
+SUMMARY:BSYS\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; C23\,C50\; (Zelfstudieopdracht)\; Voo
+ r: Alle groepen
+UID:1786580_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180509T140000Z
+DTEND:20180509T150000Z
+SEQUENCE:0
+SUMMARY:BSYS\; C105\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; C105\; (Responsiecollege)\; Voor: All
+ e groepen
+UID:1786583_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180514T070000Z
+DTEND:20180514T080000Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; De heer HENRARD Ruben\; C10
+ 4\; (Responsiecollege)\; Voor: Alle groepen
+UID:1786586_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180514T081500Z
+DTEND:20180514T094500Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; Prof. dr. POP Sorin\; C104\
+ ; (Hoorcollege)\; Voor: Alle groepen
+UID:1786592_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180514T094500Z
+DTEND:20180514T110000Z
+SEQUENCE:0
+SUMMARY:WII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1786598_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180514T110000Z
+DTEND:20180514T120000Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; Prof. dr. VAN REETH Frank\;
+  C104\; (Hoorcollege)\; Voor: Alle groepen
+UID:1786604_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180514T120000Z
+DTEND:20180514T150000Z
+SEQUENCE:0
+SUMMARY:WII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1786610_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180515T073000Z
+DTEND:20180515T090000Z
+SEQUENCE:655199
+SUMMARY:CGR\; C105\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Computer graphics (0661)\; Prof. dr. VAN REETH Frank\; C105\; (Ho
+ orcollege)\; Voor: Alle groepen
+UID:1786616_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180515T091500Z
+DTEND:20180515T150000Z
+SEQUENCE:655184
+SUMMARY:CGR\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Computer graphics (0661)\; C23\,C50\; (Zelfstudieopdracht)\; Voor
+ : Alle groepen
+UID:1786625_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180516T070000Z
+DTEND:20180516T083000Z
+SEQUENCE:0
+SUMMARY:BSYS\; C105\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; Prof. dr. BEKAERT Philippe\; C105\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1786643_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180516T084500Z
+DTEND:20180516T150000Z
+SEQUENCE:666935
+SUMMARY:BSYS\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; C23\,C50\; (Zelfstudieopdracht)\; Voo
+ r: Alle groepen
+UID:1786652_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180517T070000Z
+DTEND:20180517T150000Z
+SEQUENCE:0
+SUMMARY:PSOPV\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Project software ontwikkeling en professionele vaardigheden (2252
+ )\; C23\,C50\; (Project)\; Voor: Alle groepen
+UID:1786283_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180518T070000Z
+DTEND:20180518T150000Z
+SEQUENCE:0
+SUMMARY:PSOPV\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Project software ontwikkeling en professionele vaardigheden (2252
+ )\; C23\,C50\; (Project)\; Voor: Alle groepen
+UID:1786670_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180522T073000Z
+DTEND:20180522T090000Z
+SEQUENCE:666938
+SUMMARY:CGR\; C105\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Computer graphics (0661)\; Prof. dr. VAN REETH Frank\; C105\; (Ho
+ orcollege)\; Voor: Alle groepen
+UID:1786619_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180522T091500Z
+DTEND:20180522T150000Z
+SEQUENCE:655187
+SUMMARY:CGR\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Computer graphics (0661)\; C23\,C50\; (Zelfstudieopdracht)\; Voor
+ : Alle groepen
+UID:1786628_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180523T070000Z
+DTEND:20180523T150000Z
+SEQUENCE:666937
+SUMMARY:BSYS\; C23\,C50\; Challenge\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; C23\,C50\; Challenge\; Voor: Alle gro
+ epen
+UID:1786655_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180524T070000Z
+DTEND:20180524T150000Z
+SEQUENCE:0
+SUMMARY:PSOPV\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Project software ontwikkeling en professionele vaardigheden (2252
+ )\; C23\,C50\; (Project)\; Voor: Alle groepen
+UID:1786286_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180525T070000Z
+DTEND:20180525T150000Z
+SEQUENCE:0
+SUMMARY:PSOPV\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Project software ontwikkeling en professionele vaardigheden (2252
+ )\; C23\,C50\; (Project)\; Voor: Alle groepen
+UID:1786673_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180528T070000Z
+DTEND:20180528T080000Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; De heer HENRARD Ruben\; C10
+ 4\; (Responsiecollege)\; Voor: Alle groepen
+UID:1786589_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180528T081500Z
+DTEND:20180528T094500Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; Prof. dr. POP Sorin\; C104\
+ ; (Hoorcollege)\; Voor: Alle groepen
+UID:1786595_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180528T094500Z
+DTEND:20180528T110000Z
+SEQUENCE:0
+SUMMARY:WII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1786601_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180528T110000Z
+DTEND:20180528T120000Z
+SEQUENCE:0
+SUMMARY:WII\; C104\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; Prof. dr. VAN REETH Frank\;
+  C104\; (Hoorcollege)\; Voor: Alle groepen
+UID:1786607_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180528T120000Z
+DTEND:20180528T150000Z
+SEQUENCE:0
+SUMMARY:WII\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Wiskunde voor informatica II (2248)\; C23\,C50\; (Zelfstudieopdra
+ cht)\; Voor: Alle groepen
+UID:1786613_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180529T070000Z
+DTEND:20180529T150000Z
+SEQUENCE:0
+SUMMARY:PSOPV\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Project software ontwikkeling en professionele vaardigheden (2252
+ )\; C23\,C50\; (Project)\; Voor: Alle groepen
+UID:1786679_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180530T070000Z
+DTEND:20180530T083000Z
+SEQUENCE:0
+SUMMARY:BSYS\; C105\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; Prof. dr. BEKAERT Philippe\; C105\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1786649_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180530T084500Z
+DTEND:20180530T134500Z
+SEQUENCE:0
+SUMMARY:BSYS\; C23\,C50\; (Zelfstudieopdracht)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; C23\,C50\; (Zelfstudieopdracht)\; Voo
+ r: Alle groepen
+UID:1786658_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180530T110000Z
+DTEND:20180530T180000Z
+SEQUENCE:0
+SUMMARY:Dies Natalis\; Voor: Alle groepen
+DESCRIPTION: ()\; Voor: Alle groepen
+UID:1856030_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180530T140000Z
+DTEND:20180530T150000Z
+SEQUENCE:0
+SUMMARY:BSYS\; C105\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Besturingssystemen (0660)\; C105\; (Responsiecollege)\; Voor: All
+ e groepen
+UID:1786667_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180531T070000Z
+DTEND:20180531T150000Z
+SEQUENCE:0
+SUMMARY:PSOPV\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Project software ontwikkeling en professionele vaardigheden (2252
+ )\; C23\,C50\; (Project)\; Voor: Alle groepen
+UID:1786289_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180601T070000Z
+DTEND:20180601T150000Z
+SEQUENCE:0
+SUMMARY:PSOPV\; C23\,C50\; (Project)\; Voor: Alle groepen
+DESCRIPTION:Project software ontwikkeling en professionele vaardigheden (2252
+ )\; C23\,C50\; (Project)\; Voor: Alle groepen
+UID:1786676_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210607Z
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

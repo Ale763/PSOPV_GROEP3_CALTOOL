@@ -1,0 +1,23 @@
+{% extends 'global/template.html' %}
+
+{% block content %}
+
+<div class="section"><h5>Welkom bij ICaller</h5>
+        <div class="divider"></div>
+
+</div>
+    <form action="{% url "test" %}">
+        <input type="submit">
+    </form>
+
+
+{% endblock  %}
+
+{% block page_specific_scripts %}
+    <script>
+    $("#home_nav").addClass("active");
+    </script>
+
+    {% include "global/browser_notifications.html" %}
+
+{% endblock  %}

@@ -1,0 +1,254 @@
+{% extends 'global/template.html' %}
+{% load static %}
+
+
+{% block content %}
+<!--FORM-->
+{% autoescape on %}
+<form class="col s12" action="{%  url "save_settings" %}" method="post">
+    {% csrf_token %}
+    <span class="success">{{ success }}</span>
+    <div id="settings" class="section">
+        <h5>Geavanceerde instellingen van de server</h5>
+        <div class="divider"></div>
+        <span class="error">{{ basic_error }}</span>
+    </div>
+    <div class="row">
+        <div class="col s12 m12 l12">
+            <div class="card ">
+                <div class="card-content" style="position: relative" id="event_change_strategy_wrapper" >
+                    <span class="card-title">Strategies</span>
+                    <div class="input-field col s12 m6 l6">
+                        <select name="event_change_strategy" name="event_change_strategy">
+                            {% for strategy in event_change_strategies %}
+                                {% if strategy == event_change_strategy.name %}
+                                    <option selected value="{{ strategy }}">{{ strategy }}</option>
+                                {% else %}
+                                    <option value="{{ strategy }}">{{ strategy }}</option>
+                                {% endif %}
+                            {% endfor %}
+                        </select>
+                        <label for="event_change_strategy" id="label_event_change_strategy">Event change strategies</label>
+                    </div>
+{#                    <div class="input-field col s12 m6 l6" id="event_matching_strategy_wrapper">#}
+{#                        <select name="event_matching_strategy" id="event_matching_strategy">#}
+{#                            {% for strategy in event_matching_strategies %}#}
+{#                                {% if strategy == event_matching_strategy.name %}#}
+{#                                    <option selected value="{{ strategy }}">{{ strategy }}</option>#}
+{#                                {% else %}#}
+{#                                    <option value="{{ strategy }}">{{ strategy }}</option>#}
+{#                                {% endif %}#}
+{#                            {% endfor %}#}
+{#                        </select>#}
+{#                        <label for="event_matching_strategy" id="label_event_matching_strategy">Event matching strategies</label>#}
+{#                    </div>#}
+                    <div class="input-field col s12 m6 l6" id="merge_strategy_wrapper">
+                        <select name="merge_strategy" id="merge_strategy">
+                            {% for strategy in merge_strategies %}
+                                {% if strategy == merge_strategy.name %}
+                                    <option selected value="{{ strategy }}">{{ strategy }}</option>
+                                {% else %}
+                                    <option value="{{ strategy }}">{{ strategy }}</option>
+                                {% endif %}
+                            {% endfor %}
+                        </select>
+                        <label for="merge_strategy" id="label_merge_strategy">Merge strategies</label>
+                    </div>
+                    <div class="row">
+                        <div class="input-field col s12 m6 l6" id="sort_strategy_wrapper">
+                            <select name="sort_strategy" id="sort_strategy">
+                                {% for strategy in sort_strategies %}
+                                    {% if strategy == sort_strategy.name %}
+                                        <option selected value="{{ strategy }}">{{ strategy }}</option>
+                                    {% else %}
+                                        <option value="{{ strategy }}">{{ strategy }}</option>
+                                    {% endif %}
+                                {% endfor %}
+                            </select>
+                            <label for="sort_strategy" id="label_sort_strategy">Sorteer strategies</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col s12 m12 l12">
+            <div class="card ">
+                <div class="card-content" style="position: relative">
+                    <span class="card-title">Utilities</span>
+                    <div class="row">
+                        <div class="input-field col s12 m8 l8" id="string_matching_strategy_wrapper">
+                            <select name="string_matching_strategy" id="string_matching_strategy" onchange="toggle_damerau_levenshtein();">
+                                {% for strategy in string_matching_strategies %}
+                                    {% if strategy == string_matching_strategy.name %}
+                                        <option selected value="{{ strategy }}">{{ strategy }}</option>
+                                    {% else %}
+                                        <option value="{{ strategy }}">{{ strategy }}</option>
+                                    {% endif %}
+                                {% endfor %}
+                            </select>
+                            <label for="string_matching_strategy" id="label_string_matching_strategy">String-matching strategies</label>
+                        </div>
+                        <div class="input-field col s6 m2 l2">
+                            <input required type="number" name="fuzzy_string_word_treshold" id="fuzzy_string_word_treshold" min="0" max="100" class="validate modified_damerau_levenshtein" value="{{ fuzzy_string_word_treshold }}">
+                            <label class="modified_damerau_levenshtein" for="fuzzy_string_word_treshold" id="label_word_treshold">Word treshold</label>
+                        </div>
+                        <div class="input-field col s6 m2 l2">
+                            <input required type="number" name="fuzzy_string_string_treshold" id="fuzzy_string_string_treshold" min="0" max="100" class="validate modified_damerau_levenshtein" value="{{ fuzzy_string_string_treshold }}">
+                            <label class="modified_damerau_levenshtein" for="fuzzy_string_word_treshold" id="label_string_treshold">String treshold</label>
+                        </div>
+
+                        <div class="input-field col s12 m6 l4">
+                            <input id="string1" name="string1" type="text" class="validate modified_damerau_levenshtein" value="">
+                            <label class="modified_damerau_levenshtein" for="string1">String a</label>
+                        </div>
+                        <div class="input-field col s12 m6 l4">
+                            <input id="string2"name="string2"  type="text" class="validate modified_damerau_levenshtein" value="">
+                            <label class="modified_damerau_levenshtein" for="string2">String b</label>
+                        </div>
+                        <div class="input-field col s5 m1 l1 left center-align">
+                            <input id="match_result" type="text" class="modified_damerau_levenshtein" value="Ja" readonly>
+                            <label class="modified_damerau_levenshtein" for="long_time">Match</label>
+                        </div>
+                        <button class="btn teal waves-effect col s2 m2 l2 white-text right  modified_damerau_levenshtein" onclick="check_strings(event)">Test</button>
+                    </div>
+                    <span>* Elke keer als de drempelwaardes worden aangepast en getest, worden deze ook onmiddellijk opgeslagen.</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col s12 m12 l12">
+            <div class="card ">
+                <div class="card-content" style="position: relative">
+                    <span class="card-title">Update frequenties</span>
+                    <div class="input-field col s12 m6 l6">
+                        <input required id="short_term_update_frequency" name="short_term_update_frequency" type="number" class="validate"
+                               value="{{ short_term_update_frequency }}" min="5"
+                        >
+                        <label for="short_term_update_frequency">Korte termijn update-interval (in min.)</label>
+                    </div>
+                    <div class="input-field col s12 m6 l6">
+                        <input required id="long_interval" name="long_interval" type="text" class="timepicker"
+                               value="{{ long_term_update_hour }}:{{ long_term_update_minutes }}">
+                        <label for="long_interval">Tijdstip van volledige kalender-update (HH:MM in UTC time) </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="buttonContainer">
+        <input id="SubmitButton" class="button right" type="submit" value="Opslaan">
+    </div>
+</form>
+{% endautoescape %}
+
+{% endblock %}
+
+{% block page_specific_scripts %}
+
+    <script>
+        function check_strings(evt)
+        {
+            evt.preventDefault();
+            let match_result = $("#match_result");
+            let string1 = $("#string1");
+            let string2 = $("#string2");
+            let word_treshold = $("#fuzzy_string_word_treshold");
+            let string_treshold = $("#fuzzy_string_string_treshold");
+
+
+            let string1_empty = string1.val() === "";
+            let string2_empty = string2.val() === "";
+            let word_treshold_empty = word_treshold.val() === "";
+            let string_treshold_empty = string_treshold.val() === "";
+
+            if (word_treshold_empty || string_treshold_empty)
+                return;
+
+            {# Test if one of strings is empty#}
+            {#if (string1_empty || string2_empty)#}
+            {#    return;#}
+
+            $.ajax({
+                url: '/ajax/check_strings/',
+                data: {
+                    'string1': string1.val(),
+                    'string2': string2.val(),
+                    'word_treshold': word_treshold.val(),
+                    'string_treshold': string_treshold.val()
+                },
+                type: "post",
+                dataType: 'json',
+                success: function (result)
+                {
+                    if (result.word_treshold_faulty)
+                    {
+                        word_treshold.removeClass("valid").addClass("invalid");
+                        $("#label_word_treshold").html("Word treshold must be >0 and <100");
+                    }
+                    else
+                    {
+                        word_treshold.removeClass("invalid").addClass("valid");
+                        $("#label_word_treshold").html("Word treshold");
+                    }
+
+                    if (result.string_treshold_faulty)
+                    {
+                        string_treshold.removeClass("valid").addClass("invalid");
+                        $("#label_string_treshold").html("String treshold must be >0 and <100");
+                    }
+                    else
+                    {
+                        string_treshold.removeClass("invalid").addClass("valid");
+                        $("#label_string_treshold").html("String treshold")
+                    }
+
+                    if(!result.match_failed)
+                    {
+                        match_result.removeClass("invalid").addClass("valid");
+                        match_result.attr("value", "Ja");
+                    }
+                    else
+                    {
+                        match_result.removeClass("valid").addClass("invalid");
+                        match_result.attr("value", "Nee");
+                    }
+                }
+            });
+        }
+
+        function toggle_damerau_levenshtein()
+        {
+            if ($("#string_matching_strategy_wrapper option:selected").html() === "MODIFIED_DAMERAU_LEVENSHTEIN")
+                    $(".modified_damerau_levenshtein").show();
+                else
+                    $(".modified_damerau_levenshtein").hide();
+        }
+
+        $(document).ready(function()
+        {
+            $('select').material_select();
+            $('.timepicker').pickatime({
+                    default: 'now', // Set default time: 'now', '1:30AM', '16:30'
+                    fromnow: 0,       // set default time to * milliseconds from now (using with default = 'now')
+                    twelvehour: false, // Use AM/PM or 24-hour format
+                    donetext: 'OK', // text for done-button
+                    cleartext: 'Clear', // text for clear-button
+                    canceltext: 'Cancel', // Text for cancel-button,
+                    container: undefined, // ex. 'body' will append picker to body
+                    autoclose: false, // automatic close timepicker
+                    ampmclickable: true, // make AM PM clickable
+                    aftershow: function(){} //Function for after opening timepicker
+                  });
+            $("#string_matching_strategy_wrapper option:selected").change(function ()
+            {
+                if ($("#string_matching_strategy_wrapper option:selected").html() === "MODIFIED_DAMERAU_LEVENSHTEIN")
+                    $(".modified_damerau_levenshtein").show();
+                else
+                    $(".modified_damerau_levenshtein").hide();
+            });
+        });
+
+    </script>
+
+{% endblock %}

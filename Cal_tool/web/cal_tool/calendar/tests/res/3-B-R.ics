@@ -1,0 +1,3792 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uhasselt/lesroosters//NONSGML v1.0//EN
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UHasselt Uurroosters
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+DTSTART:20170911T090000Z
+DTEND:20170911T110000Z
+SEQUENCE:635446
+SUMMARY:GERRE\; H6\; Campus Diepenbeek\; (Hoorcollege)\; Voor: Alle groep
+ en
+DESCRIPTION:Gerechtelijk recht (2122)\; Prof. dr. VOET Stefaan\; H6\; Campus 
+ Diepenbeek\; (Hoorcollege)\; Voor: Alle groepen
+UID:1765076_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170912T090000Z
+DTEND:20170912T110000Z
+SEQUENCE:0
+SUMMARY:EPINE\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. DE SMEDT Kristel\; OG-Aud2\; (Hoorcollege)\; Voor: Alle 
+ groepen
+UID:1765118_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170914T070000Z
+DTEND:20170914T090000Z
+SEQUENCE:640245
+SUMMARY:GERRE\; FR-0.02\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Gerechtelijk recht (2122)\; VLOEBERGHS Michael\; FR-0.02\; (Onder
+ wijsgroep)\; Voor groep: A
+UID:1765097_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170914T070000Z
+DTEND:20170914T090000Z
+SEQUENCE:640252
+SUMMARY:GERRE\; FR-0.03\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Gerechtelijk recht (2122)\; Mevrouw SCHEERS Brechtje\; FR-0.03\; 
+ (Onderwijsgroep)\; Voor groep: B
+UID:1827464_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170914T090000Z
+DTEND:20170914T110000Z
+SEQUENCE:640260
+SUMMARY:GERRE\; FR-0.02\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Gerechtelijk recht (2122)\; VLOEBERGHS Michael\; FR-0.02\; (Onder
+ wijsgroep)\; Voor groep: C
+UID:1827467_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170914T090000Z
+DTEND:20170914T110000Z
+SEQUENCE:640267
+SUMMARY:GERRE\; FR-0.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Gerechtelijk recht (2122)\; Mevrouw SCHEERS Brechtje\; FR-0.03\; 
+ (Onderwijsgroep)\; Voor groep: D
+UID:1827470_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170914T090000Z
+DTEND:20170914T110000Z
+SEQUENCE:640274
+SUMMARY:GERRE\; FR-0.05\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Gerechtelijk recht (2122)\; Mevrouw BOMBEEK Lore\; FR-0.05\; (Ond
+ erwijsgroep)\; Voor groep: E
+UID:1827473_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170915T070000Z
+DTEND:20170915T090000Z
+SEQUENCE:640188
+SUMMARY:EPINE\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. DE SMEDT Kristel\; FR-1.03\; (Onderwijsgroep)\; Voor gro
+ ep: A
+UID:1765139_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170915T070000Z
+DTEND:20170915T090000Z
+SEQUENCE:640195
+SUMMARY:EPINE\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. OOSTERHUIS Janwillem\; FR-1.04\; (Onderwijsgroep)\; Voor
+  groep: B
+UID:1827488_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170915T070000Z
+DTEND:20170915T090000Z
+SEQUENCE:640203
+SUMMARY:EPINE\; FR-1.06\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. MUHL Manuela\; FR-1.06\; (Onderwijsgroep)\; Voor groep: 
+ C
+UID:1827491_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170915T090000Z
+DTEND:20170915T110000Z
+SEQUENCE:640210
+SUMMARY:EPINE\; FR-1.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. DE SMEDT Kristel\; FR-1.03\; (Onderwijsgroep)\; Voor gro
+ ep: D
+UID:1827494_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170915T090000Z
+DTEND:20170915T110000Z
+SEQUENCE:640216
+SUMMARY:EPINE\; FR-1.04\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. OOSTERHUIS Janwillem\; FR-1.04\; (Onderwijsgroep)\; Voor
+  groep: E
+UID:1827497_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170918T090000Z
+DTEND:20170918T110000Z
+SEQUENCE:0
+SUMMARY:GERRE\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Gerechtelijk recht (2122)\; Prof. dr. VOET Stefaan\; OG-Aud2\; (H
+ oorcollege)\; Voor: Alle groepen
+UID:1765079_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170919T090000Z
+DTEND:20170919T110000Z
+SEQUENCE:0
+SUMMARY:EPINE\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. DE SMEDT Kristel\; OG-Aud2\; (Hoorcollege)\; Voor: Alle 
+ groepen
+UID:1765121_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170920T070000Z
+DTEND:20170920T090000Z
+SEQUENCE:614814
+SUMMARY:BASCR\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Bachelorscriptie (2126)\; Prof. dr. TORFS Nan\; OG-Aud2\; (Hoorco
+ llege)\; Voor: Alle groepen
+UID:1771745_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170921T070000Z
+DTEND:20170921T090000Z
+SEQUENCE:640250
+SUMMARY:GERRE\; FR-0.02\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Gerechtelijk recht (2122)\; VLOEBERGHS Michael\; FR-0.02\; (Onder
+ wijsgroep)\; Voor groep: A
+UID:1830077_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170921T070000Z
+DTEND:20170921T090000Z
+SEQUENCE:640255
+SUMMARY:GERRE\; FR-0.03\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Gerechtelijk recht (2122)\; Mevrouw SCHEERS Brechtje\; FR-0.03\; 
+ (Onderwijsgroep)\; Voor groep: B
+UID:1830095_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170921T090000Z
+DTEND:20170921T110000Z
+SEQUENCE:640264
+SUMMARY:GERRE\; FR-0.02\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Gerechtelijk recht (2122)\; VLOEBERGHS Michael\; FR-0.02\; (Onder
+ wijsgroep)\; Voor groep: C
+UID:1830113_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170921T090000Z
+DTEND:20170921T110000Z
+SEQUENCE:640271
+SUMMARY:GERRE\; FR-0.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Gerechtelijk recht (2122)\; Mevrouw SCHEERS Brechtje\; FR-0.03\; 
+ (Onderwijsgroep)\; Voor groep: D
+UID:1830131_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170921T090000Z
+DTEND:20170921T110000Z
+SEQUENCE:640279
+SUMMARY:GERRE\; FR-0.05\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Gerechtelijk recht (2122)\; Mevrouw BOMBEEK Lore\; FR-0.05\; (Ond
+ erwijsgroep)\; Voor groep: E
+UID:1830149_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170922T070000Z
+DTEND:20170922T090000Z
+SEQUENCE:640189
+SUMMARY:EPINE\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. DE SMEDT Kristel\; FR-1.03\; (Onderwijsgroep)\; Voor gro
+ ep: A
+UID:1830242_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170922T070000Z
+DTEND:20170922T090000Z
+SEQUENCE:640199
+SUMMARY:EPINE\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. OOSTERHUIS Janwillem\; FR-1.04\; (Onderwijsgroep)\; Voor
+  groep: B
+UID:1830260_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170922T070000Z
+DTEND:20170922T090000Z
+SEQUENCE:640207
+SUMMARY:EPINE\; FR-1.06\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. MUHL Manuela\; FR-1.06\; (Onderwijsgroep)\; Voor groep: 
+ C
+UID:1830278_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170922T090000Z
+DTEND:20170922T110000Z
+SEQUENCE:640211
+SUMMARY:EPINE\; FR-1.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. DE SMEDT Kristel\; FR-1.03\; (Onderwijsgroep)\; Voor gro
+ ep: D
+UID:1830296_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170922T090000Z
+DTEND:20170922T110000Z
+SEQUENCE:640219
+SUMMARY:EPINE\; FR-1.04\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. OOSTERHUIS Janwillem\; FR-1.04\; (Onderwijsgroep)\; Voor
+  groep: E
+UID:1830314_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170925T090000Z
+DTEND:20170925T110000Z
+SEQUENCE:0
+SUMMARY:GERRE\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Gerechtelijk recht (2122)\; Prof. dr. VOET Stefaan\; OG-Aud2\; (H
+ oorcollege)\; Voor: Alle groepen
+UID:1765082_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170926T090000Z
+DTEND:20170926T110000Z
+SEQUENCE:0
+SUMMARY:EPINE\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. DE SMEDT Kristel\; OG-Aud2\; (Hoorcollege)\; Voor: Alle 
+ groepen
+UID:1765124_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170926T133000Z
+DTEND:20170926T153000Z
+SEQUENCE:0
+SUMMARY:Presentatie\; A Day in the Life of a Lawyer\; \; OG-Aud2\; OG-Pan
+ o0\; \; Voor: Alle groepen
+UID:1836446_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T070000Z
+DTEND:20170928T090000Z
+SEQUENCE:640251
+SUMMARY:GERRE\; FR-0.02\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Gerechtelijk recht (2122)\; VLOEBERGHS Michael\; FR-0.02\; (Onder
+ wijsgroep)\; Voor groep: A
+UID:1830080_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T070000Z
+DTEND:20170928T090000Z
+SEQUENCE:640259
+SUMMARY:GERRE\; FR-0.03\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Gerechtelijk recht (2122)\; Mevrouw SCHEERS Brechtje\; FR-0.03\; 
+ (Onderwijsgroep)\; Voor groep: B
+UID:1830098_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T090000Z
+DTEND:20170928T110000Z
+SEQUENCE:640263
+SUMMARY:GERRE\; FR-0.02\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Gerechtelijk recht (2122)\; VLOEBERGHS Michael\; FR-0.02\; (Onder
+ wijsgroep)\; Voor groep: C
+UID:1830116_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T090000Z
+DTEND:20170928T110000Z
+SEQUENCE:640270
+SUMMARY:GERRE\; FR-0.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Gerechtelijk recht (2122)\; Mevrouw SCHEERS Brechtje\; FR-0.03\; 
+ (Onderwijsgroep)\; Voor groep: D
+UID:1830134_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T090000Z
+DTEND:20170928T110000Z
+SEQUENCE:640278
+SUMMARY:GERRE\; FR-0.05\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Gerechtelijk recht (2122)\; Mevrouw BOMBEEK Lore\; FR-0.05\; (Ond
+ erwijsgroep)\; Voor groep: E
+UID:1830152_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T070000Z
+DTEND:20170929T090000Z
+SEQUENCE:640198
+SUMMARY:EPINE\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. OOSTERHUIS Janwillem\; FR-1.04\; (Onderwijsgroep)\; Voor
+  groep: B
+UID:1830263_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T070000Z
+DTEND:20170929T090000Z
+SEQUENCE:640206
+SUMMARY:EPINE\; FR-1.06\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. MUHL Manuela\; FR-1.06\; (Onderwijsgroep)\; Voor groep: 
+ C
+UID:1830281_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T090000Z
+DTEND:20170929T110000Z
+SEQUENCE:640220
+SUMMARY:EPINE\; FR-1.04\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. OOSTERHUIS Janwillem\; FR-1.04\; (Onderwijsgroep)\; Voor
+  groep: E
+UID:1830317_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T140000Z
+DTEND:20170929T160000Z
+SEQUENCE:640194
+SUMMARY:EPINE\; FR-1.05\; (Onderwijsgroep)\; Voor groepen: A\, D
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. DE SMEDT Kristel\; FR-1.05\; (Onderwijsgroep)\; Voor gro
+ epen: A\, D
+UID:1830245_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T090000Z
+DTEND:20171002T110000Z
+SEQUENCE:0
+SUMMARY:GERRE\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Gerechtelijk recht (2122)\; Prof. dr. VOET Stefaan\; OG-Aud2\; (H
+ oorcollege)\; Voor: Alle groepen
+UID:1765085_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T140000Z
+DTEND:20171002T160000Z
+SEQUENCE:638484
+SUMMARY:Workshop \; Solicitatietraining\; \; FR-2.03\; \; Voor: Alle groe
+ pen
+UID:1836452_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171003T090000Z
+DTEND:20171003T110000Z
+SEQUENCE:0
+SUMMARY:EPINE\; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. DE SMEDT Kristel\; OG-Aud1\; (Hoorcollege)\; Voor: Alle 
+ groepen
+UID:1765133_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171005T070000Z
+DTEND:20171005T090000Z
+SEQUENCE:640249
+SUMMARY:GERRE\; FR-0.02\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Gerechtelijk recht (2122)\; VLOEBERGHS Michael\; FR-0.02\; (Onder
+ wijsgroep)\; Voor groep: A
+UID:1830083_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171005T070000Z
+DTEND:20171005T090000Z
+SEQUENCE:640257
+SUMMARY:GERRE\; FR-0.03\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Gerechtelijk recht (2122)\; Mevrouw SCHEERS Brechtje\; FR-0.03\; 
+ (Onderwijsgroep)\; Voor groep: B
+UID:1830101_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171005T090000Z
+DTEND:20171005T110000Z
+SEQUENCE:640265
+SUMMARY:GERRE\; FR-0.02\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Gerechtelijk recht (2122)\; VLOEBERGHS Michael\; FR-0.02\; (Onder
+ wijsgroep)\; Voor groep: C
+UID:1830119_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171005T090000Z
+DTEND:20171005T110000Z
+SEQUENCE:640272
+SUMMARY:GERRE\; FR-0.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Gerechtelijk recht (2122)\; Mevrouw SCHEERS Brechtje\; FR-0.03\; 
+ (Onderwijsgroep)\; Voor groep: D
+UID:1830137_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171005T090000Z
+DTEND:20171005T110000Z
+SEQUENCE:640280
+SUMMARY:GERRE\; FR-0.05\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Gerechtelijk recht (2122)\; Mevrouw BOMBEEK Lore\; FR-0.05\; (Ond
+ erwijsgroep)\; Voor groep: E
+UID:1830155_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171006T070000Z
+DTEND:20171006T090000Z
+SEQUENCE:640190
+SUMMARY:EPINE\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. DE SMEDT Kristel\; FR-1.03\; (Onderwijsgroep)\; Voor gro
+ ep: A
+UID:1830248_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171006T070000Z
+DTEND:20171006T090000Z
+SEQUENCE:640201
+SUMMARY:EPINE\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. OOSTERHUIS Janwillem\; FR-1.04\; (Onderwijsgroep)\; Voor
+  groep: B
+UID:1830266_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171006T070000Z
+DTEND:20171006T090000Z
+SEQUENCE:640208
+SUMMARY:EPINE\; FR-1.06\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. MUHL Manuela\; FR-1.06\; (Onderwijsgroep)\; Voor groep: 
+ C
+UID:1830284_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171006T090000Z
+DTEND:20171006T110000Z
+SEQUENCE:640214
+SUMMARY:EPINE\; FR-1.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. DE SMEDT Kristel\; FR-1.03\; (Onderwijsgroep)\; Voor gro
+ ep: D
+UID:1830302_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171006T090000Z
+DTEND:20171006T110000Z
+SEQUENCE:640222
+SUMMARY:EPINE\; FR-1.04\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. OOSTERHUIS Janwillem\; FR-1.04\; (Onderwijsgroep)\; Voor
+  groep: E
+UID:1830320_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T070000Z
+DTEND:20171009T090000Z
+SEQUENCE:638488
+SUMMARY:Workshop \; CV writing in English\; \; FR-2.03\; \; Voor: Alle gr
+ oepen
+UID:1836455_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T090000Z
+DTEND:20171009T110000Z
+SEQUENCE:0
+SUMMARY:GERRE\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Gerechtelijk recht (2122)\; Prof. dr. VOET Stefaan\; OG-Aud2\; (H
+ oorcollege)\; Voor: Alle groepen
+UID:1765088_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171010T090000Z
+DTEND:20171010T110000Z
+SEQUENCE:0
+SUMMARY:EPINE\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. DE SMEDT Kristel\; OG-Aud2\; (Hoorcollege)\; Voor: Alle 
+ groepen
+UID:1765127_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171012T070000Z
+DTEND:20171012T090000Z
+SEQUENCE:640248
+SUMMARY:GERRE\; FR-0.02\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Gerechtelijk recht (2122)\; VLOEBERGHS Michael\; FR-0.02\; (Onder
+ wijsgroep)\; Voor groep: A
+UID:1830086_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171012T070000Z
+DTEND:20171012T090000Z
+SEQUENCE:640258
+SUMMARY:GERRE\; FR-0.03\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Gerechtelijk recht (2122)\; Mevrouw SCHEERS Brechtje\; FR-0.03\; 
+ (Onderwijsgroep)\; Voor groep: B
+UID:1830104_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171012T090000Z
+DTEND:20171012T110000Z
+SEQUENCE:640262
+SUMMARY:GERRE\; FR-0.02\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Gerechtelijk recht (2122)\; VLOEBERGHS Michael\; FR-0.02\; (Onder
+ wijsgroep)\; Voor groep: C
+UID:1830122_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171012T090000Z
+DTEND:20171012T110000Z
+SEQUENCE:640269
+SUMMARY:GERRE\; FR-0.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Gerechtelijk recht (2122)\; Mevrouw SCHEERS Brechtje\; FR-0.03\; 
+ (Onderwijsgroep)\; Voor groep: D
+UID:1830140_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171012T090000Z
+DTEND:20171012T110000Z
+SEQUENCE:640277
+SUMMARY:GERRE\; FR-0.05\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Gerechtelijk recht (2122)\; Mevrouw BOMBEEK Lore\; FR-0.05\; (Ond
+ erwijsgroep)\; Voor groep: E
+UID:1830158_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171013T070000Z
+DTEND:20171013T090000Z
+SEQUENCE:640191
+SUMMARY:EPINE\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. DE SMEDT Kristel\; FR-1.03\; (Onderwijsgroep)\; Voor gro
+ ep: A
+UID:1830251_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171013T070000Z
+DTEND:20171013T090000Z
+SEQUENCE:640197
+SUMMARY:EPINE\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. OOSTERHUIS Janwillem\; FR-1.04\; (Onderwijsgroep)\; Voor
+  groep: B
+UID:1830269_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171013T070000Z
+DTEND:20171013T090000Z
+SEQUENCE:640205
+SUMMARY:EPINE\; FR-1.06\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. MUHL Manuela\; FR-1.06\; (Onderwijsgroep)\; Voor groep: 
+ C
+UID:1830287_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171013T090000Z
+DTEND:20171013T110000Z
+SEQUENCE:640215
+SUMMARY:EPINE\; FR-1.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. DE SMEDT Kristel\; FR-1.03\; (Onderwijsgroep)\; Voor gro
+ ep: D
+UID:1830305_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171013T090000Z
+DTEND:20171013T110000Z
+SEQUENCE:640218
+SUMMARY:EPINE\; FR-1.04\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. OOSTERHUIS Janwillem\; FR-1.04\; (Onderwijsgroep)\; Voor
+  groep: E
+UID:1830323_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T090000Z
+DTEND:20171016T110000Z
+SEQUENCE:0
+SUMMARY:GERRE\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Gerechtelijk recht (2122)\; Prof. dr. VOET Stefaan\; OG-Aud2\; (H
+ oorcollege)\; Voor: Alle groepen
+UID:1765091_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T113000Z
+DTEND:20171016T123000Z
+SEQUENCE:0
+SUMMARY:INFOSESSIE\; OER\; OG-Aud1\; Voor: Alle groepen
+DESCRIPTION: ()\; De heer WU Lin\; OG-Aud1\; Voor: Alle groepen
+UID:1841153_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T120000Z
+DTEND:20171016T143000Z
+SEQUENCE:633708
+SUMMARY:Campusgesprekken\; Foyer \; \; \; Voor: Alle groepen
+UID:1818992_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171017T090000Z
+DTEND:20171017T110000Z
+SEQUENCE:0
+SUMMARY:EPINE\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. DE SMEDT Kristel\; OG-Aud2\; (Hoorcollege)\; Voor: Alle 
+ groepen
+UID:1765130_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171019T070000Z
+DTEND:20171019T090000Z
+SEQUENCE:640247
+SUMMARY:GERRE\; FR-0.02\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Gerechtelijk recht (2122)\; VLOEBERGHS Michael\; FR-0.02\; (Onder
+ wijsgroep)\; Voor groep: A
+UID:1830089_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171019T070000Z
+DTEND:20171019T090000Z
+SEQUENCE:640256
+SUMMARY:GERRE\; FR-0.03\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Gerechtelijk recht (2122)\; Mevrouw SCHEERS Brechtje\; FR-0.03\; 
+ (Onderwijsgroep)\; Voor groep: B
+UID:1830107_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171019T090000Z
+DTEND:20171019T110000Z
+SEQUENCE:640266
+SUMMARY:GERRE\; FR-0.02\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Gerechtelijk recht (2122)\; VLOEBERGHS Michael\; FR-0.02\; (Onder
+ wijsgroep)\; Voor groep: C
+UID:1830125_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171019T090000Z
+DTEND:20171019T110000Z
+SEQUENCE:640273
+SUMMARY:GERRE\; FR-0.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Gerechtelijk recht (2122)\; Mevrouw SCHEERS Brechtje\; FR-0.03\; 
+ (Onderwijsgroep)\; Voor groep: D
+UID:1830143_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171019T090000Z
+DTEND:20171019T110000Z
+SEQUENCE:640276
+SUMMARY:GERRE\; FR-0.05\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Gerechtelijk recht (2122)\; Mevrouw BOMBEEK Lore\; FR-0.05\; (Ond
+ erwijsgroep)\; Voor groep: E
+UID:1830161_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171020T070000Z
+DTEND:20171020T090000Z
+SEQUENCE:640192
+SUMMARY:EPINE\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. DE SMEDT Kristel\; FR-1.03\; (Onderwijsgroep)\; Voor gro
+ ep: A
+UID:1830254_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171020T070000Z
+DTEND:20171020T090000Z
+SEQUENCE:640202
+SUMMARY:EPINE\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. OOSTERHUIS Janwillem\; FR-1.04\; (Onderwijsgroep)\; Voor
+  groep: B
+UID:1830272_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171020T070000Z
+DTEND:20171020T090000Z
+SEQUENCE:640209
+SUMMARY:EPINE\; FR-1.06\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. MUHL Manuela\; FR-1.06\; (Onderwijsgroep)\; Voor groep: 
+ C
+UID:1830290_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171020T090000Z
+DTEND:20171020T110000Z
+SEQUENCE:640213
+SUMMARY:EPINE\; FR-1.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. DE SMEDT Kristel\; FR-1.03\; (Onderwijsgroep)\; Voor gro
+ ep: D
+UID:1830308_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171020T090000Z
+DTEND:20171020T110000Z
+SEQUENCE:640221
+SUMMARY:EPINE\; FR-1.04\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. OOSTERHUIS Janwillem\; FR-1.04\; (Onderwijsgroep)\; Voor
+  groep: E
+UID:1830326_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171023T090000Z
+DTEND:20171023T110000Z
+SEQUENCE:0
+SUMMARY:GERRE\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Gerechtelijk recht (2122)\; Prof. dr. VOET Stefaan\; OG-Aud2\; (H
+ oorcollege)\; Voor: Alle groepen
+UID:1765094_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171024T090000Z
+DTEND:20171024T110000Z
+SEQUENCE:0
+SUMMARY:EPINE\; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. DE SMEDT Kristel\; OG-Aud1\; (Hoorcollege)\; Voor: Alle 
+ groepen
+UID:1765136_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171026T070000Z
+DTEND:20171026T090000Z
+SEQUENCE:640246
+SUMMARY:GERRE\; FR-0.02\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Gerechtelijk recht (2122)\; VLOEBERGHS Michael\; FR-0.02\; (Onder
+ wijsgroep)\; Voor groep: A
+UID:1830092_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171026T070000Z
+DTEND:20171026T090000Z
+SEQUENCE:640254
+SUMMARY:GERRE\; FR-0.03\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Gerechtelijk recht (2122)\; Mevrouw SCHEERS Brechtje\; FR-0.03\; 
+ (Onderwijsgroep)\; Voor groep: B
+UID:1830110_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171026T090000Z
+DTEND:20171026T110000Z
+SEQUENCE:640261
+SUMMARY:GERRE\; FR-0.02\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Gerechtelijk recht (2122)\; VLOEBERGHS Michael\; FR-0.02\; (Onder
+ wijsgroep)\; Voor groep: C
+UID:1830128_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171026T090000Z
+DTEND:20171026T110000Z
+SEQUENCE:640268
+SUMMARY:GERRE\; FR-0.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Gerechtelijk recht (2122)\; Mevrouw SCHEERS Brechtje\; FR-0.03\; 
+ (Onderwijsgroep)\; Voor groep: D
+UID:1830146_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171026T090000Z
+DTEND:20171026T110000Z
+SEQUENCE:640275
+SUMMARY:GERRE\; FR-0.05\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Gerechtelijk recht (2122)\; Mevrouw BOMBEEK Lore\; FR-0.05\; (Ond
+ erwijsgroep)\; Voor groep: E
+UID:1830164_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171027T070000Z
+DTEND:20171027T090000Z
+SEQUENCE:640193
+SUMMARY:EPINE\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. DE SMEDT Kristel\; FR-1.03\; (Onderwijsgroep)\; Voor gro
+ ep: A
+UID:1830257_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171027T070000Z
+DTEND:20171027T090000Z
+SEQUENCE:640196
+SUMMARY:EPINE\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. OOSTERHUIS Janwillem\; FR-1.04\; (Onderwijsgroep)\; Voor
+  groep: B
+UID:1830275_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171027T070000Z
+DTEND:20171027T090000Z
+SEQUENCE:640204
+SUMMARY:EPINE\; FR-1.06\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. MUHL Manuela\; FR-1.06\; (Onderwijsgroep)\; Voor groep: 
+ C
+UID:1830293_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171027T090000Z
+DTEND:20171027T110000Z
+SEQUENCE:640212
+SUMMARY:EPINE\; FR-1.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. DE SMEDT Kristel\; FR-1.03\; (Onderwijsgroep)\; Voor gro
+ ep: D
+UID:1830311_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171027T090000Z
+DTEND:20171027T110000Z
+SEQUENCE:640217
+SUMMARY:EPINE\; FR-1.04\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Economische en politieke integratie in het naoorlogse Europa (212
+ 0)\; dr. OOSTERHUIS Janwillem\; FR-1.04\; (Onderwijsgroep)\; Voor
+  groep: E
+UID:1830329_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171108T100000Z
+DTEND:20171108T120000Z
+SEQUENCE:642747
+SUMMARY:PERSA\; H6\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Prof. dr. DECLERCK Charlo
+ tte\; H6\; (Hoorcollege)\; Voor: Alle groepen
+UID:1765223_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171108T130000Z
+DTEND:20171108T150000Z
+SEQUENCE:0
+SUMMARY:RECME\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Rechten van de mens (2119)\; Prof. dr. LEMMENS Koen\; OG-Aud2\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1765160_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171109T080000Z
+DTEND:20171109T100000Z
+SEQUENCE:643474
+SUMMARY:RECME\; FR-0.02\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Rechten van de mens (2119)\; De heer VAN DOREN Wout\; FR-0.02\; (
+ Onderwijsgroep)\; Voor groep: A
+UID:1765181_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171109T080000Z
+DTEND:20171109T100000Z
+SEQUENCE:643475
+SUMMARY:RECME\; FR-0.03\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Rechten van de mens (2119)\; Mevrouw VERBRUGGHE Nele\; FR-0.03\; 
+ (Onderwijsgroep)\; Voor groep: B
+UID:1844519_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171109T100000Z
+DTEND:20171109T120000Z
+SEQUENCE:643477
+SUMMARY:RECME\; FR-0.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Rechten van de mens (2119)\; Mevrouw VERBRUGGHE Nele\; FR-0.03\; 
+ (Onderwijsgroep)\; Voor groep: D
+UID:1844522_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171109T100000Z
+DTEND:20171109T120000Z
+SEQUENCE:643476
+SUMMARY:RECME\; FR-0.02\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Rechten van de mens (2119)\; De heer VAN DOREN Wout\; FR-0.02\; (
+ Onderwijsgroep)\; Voor groep: C
+UID:1844525_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171109T130000Z
+DTEND:20171109T150000Z
+SEQUENCE:643478
+SUMMARY:RECME\; FR-0.02\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Rechten van de mens (2119)\; De heer VAN DOREN Wout\; FR-0.02\; (
+ Onderwijsgroep)\; Voor groep: E
+UID:1844528_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171110T080000Z
+DTEND:20171110T100000Z
+SEQUENCE:647299
+SUMMARY:PERSA\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; mevrouw DEBROUX Karolien\
+ ; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+UID:1765184_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171110T080000Z
+DTEND:20171110T100000Z
+SEQUENCE:647300
+SUMMARY:PERSA\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Mevrouw MEESTERS Benedict
+ e\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+UID:1843523_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171110T080000Z
+DTEND:20171110T100000Z
+SEQUENCE:647301
+SUMMARY:PERSA\; FR-1.06\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Mevrouw DELANG Nore\; FR-
+ 1.06\; (Onderwijsgroep)\; Voor groep: C
+UID:1843526_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171110T100000Z
+DTEND:20171110T120000Z
+SEQUENCE:647302
+SUMMARY:PERSA\; FR-1.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; mevrouw DEBROUX Karolien\
+ ; FR-1.03\; (Onderwijsgroep)\; Voor groep: D
+UID:1843529_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171110T100000Z
+DTEND:20171110T120000Z
+SEQUENCE:647303
+SUMMARY:PERSA\; FR-1.04\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Mevrouw MEESTERS Benedict
+ e\; FR-1.04\; (Onderwijsgroep)\; Voor groep: E
+UID:1843532_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T130000Z
+DTEND:20171113T150000Z
+SEQUENCE:616389
+SUMMARY:RECME\; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Rechten van de mens (2119)\; Prof. dr. LEMMENS Koen\; OG-Aud1\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1765163_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171114T100000Z
+DTEND:20171114T120000Z
+SEQUENCE:643497
+SUMMARY:PERSA\; H6\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Prof. dr. DECLERCK Charlo
+ tte\; H6\; (Hoorcollege)\; Voor: Alle groepen
+UID:1765226_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171116T080000Z
+DTEND:20171116T100000Z
+SEQUENCE:643484
+SUMMARY:RECME\; FR-0.02\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Rechten van de mens (2119)\; De heer NIJNS Jozef\; FR-0.02\; (Ond
+ erwijsgroep)\; Voor groep: A
+UID:1765187_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171116T080000Z
+DTEND:20171116T100000Z
+SEQUENCE:643485
+SUMMARY:RECME\; FR-0.03\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Rechten van de mens (2119)\; Mevrouw REYNTJENS Louise\; FR-0.03\;
+  (Onderwijsgroep)\; Voor groep: B
+UID:1844540_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171116T100000Z
+DTEND:20171116T120000Z
+SEQUENCE:643486
+SUMMARY:RECME\; FR-0.02\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Rechten van de mens (2119)\; De heer NIJNS Jozef\; FR-0.02\; (Ond
+ erwijsgroep)\; Voor groep: C
+UID:1844534_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171116T100000Z
+DTEND:20171116T120000Z
+SEQUENCE:643487
+SUMMARY:RECME\; FR-0.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Rechten van de mens (2119)\; Mevrouw REYNTJENS Louise\; FR-0.03\;
+  (Onderwijsgroep)\; Voor groep: D
+UID:1844543_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171116T130000Z
+DTEND:20171116T150000Z
+SEQUENCE:643488
+SUMMARY:RECME\; FR-0.02\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Rechten van de mens (2119)\; De heer NIJNS Jozef\; FR-0.02\; (Ond
+ erwijsgroep)\; Voor groep: E
+UID:1844537_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171117T080000Z
+DTEND:20171117T100000Z
+SEQUENCE:647305
+SUMMARY:PERSA\; FR-1.11\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; mevrouw DEBROUX Karolien\
+ ; FR-1.11\; (Onderwijsgroep)\; Voor groep: A
+UID:1851773_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171117T080000Z
+DTEND:20171117T100000Z
+SEQUENCE:647306
+SUMMARY:PERSA\; FR-1.12\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Mevrouw MEESTERS Benedict
+ e\; FR-1.12\; (Onderwijsgroep)\; Voor groep: B
+UID:1851791_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171117T080000Z
+DTEND:20171117T100000Z
+SEQUENCE:647307
+SUMMARY:PERSA\; FR-1.13\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Mevrouw DELANG Nore\; FR-
+ 1.13\; (Onderwijsgroep)\; Voor groep: C
+UID:1851824_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171117T100000Z
+DTEND:20171117T120000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.11\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; mevrouw DEBROUX Karolien\
+ ; FR-1.11\; (Onderwijsgroep)\; Voor groep: D
+UID:1851842_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171117T100000Z
+DTEND:20171117T120000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.12\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Mevrouw MEESTERS Benedict
+ e\; FR-1.12\; (Onderwijsgroep)\; Voor groep: E
+UID:1851860_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171120T130000Z
+DTEND:20171120T150000Z
+SEQUENCE:0
+SUMMARY:RECME\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Rechten van de mens (2119)\; Prof. dr. LEMMENS Koen\; OG-Aud2\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1765166_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171121T100000Z
+DTEND:20171121T120000Z
+SEQUENCE:643498
+SUMMARY:PERSA\; H5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Prof. dr. DECLERCK Charlo
+ tte\; H5\; (Hoorcollege)\; Voor: Alle groepen
+UID:1765232_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171123T080000Z
+DTEND:20171123T100000Z
+SEQUENCE:643491
+SUMMARY:RECME\; FR-0.02\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Rechten van de mens (2119)\; De heer VAN DOREN Wout\; FR-0.02\; (
+ Onderwijsgroep)\; Voor groep: A
+UID:1765190_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171123T080000Z
+DTEND:20171123T100000Z
+SEQUENCE:643492
+SUMMARY:RECME\; FR-0.03\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Rechten van de mens (2119)\; Mevrouw LEFEVRE Marike\; FR-0.03\; (
+ Onderwijsgroep)\; Voor groep: B
+UID:1844555_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210152Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171123T100000Z
+DTEND:20171123T120000Z
+SEQUENCE:643493
+SUMMARY:RECME\; FR-0.02\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Rechten van de mens (2119)\; De heer VAN DOREN Wout\; FR-0.02\; (
+ Onderwijsgroep)\; Voor groep: C
+UID:1844549_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171123T100000Z
+DTEND:20171123T120000Z
+SEQUENCE:643494
+SUMMARY:RECME\; FR-0.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Rechten van de mens (2119)\; Mevrouw LEFEVRE Marike\; FR-0.03\; (
+ Onderwijsgroep)\; Voor groep: D
+UID:1844558_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171123T130000Z
+DTEND:20171123T150000Z
+SEQUENCE:643495
+SUMMARY:RECME\; FR-0.02\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Rechten van de mens (2119)\; De heer VAN DOREN Wout\; FR-0.02\; (
+ Onderwijsgroep)\; Voor groep: E
+UID:1844552_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171124T080000Z
+DTEND:20171124T100000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; mevrouw DEBROUX Karolien\
+ ; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+UID:1851776_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171124T080000Z
+DTEND:20171124T100000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Mevrouw MEESTERS Benedict
+ e\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+UID:1851794_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171124T080000Z
+DTEND:20171124T100000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.06\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Mevrouw DELANG Nore\; FR-
+ 1.06\; (Onderwijsgroep)\; Voor groep: C
+UID:1851809_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171124T100000Z
+DTEND:20171124T120000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; mevrouw DEBROUX Karolien\
+ ; FR-1.03\; (Onderwijsgroep)\; Voor groep: D
+UID:1851827_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171124T100000Z
+DTEND:20171124T120000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.04\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Mevrouw MEESTERS Benedict
+ e\; FR-1.04\; (Onderwijsgroep)\; Voor groep: E
+UID:1851845_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T100000Z
+DTEND:20171127T120000Z
+SEQUENCE:651614
+SUMMARY:Inzagemoment:\; EPINE\; OG-Aud2\; \; Voor: Alle groepen
+UID:1853099_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T120000Z
+DTEND:20171127T130000Z
+SEQUENCE:628480
+SUMMARY:EVALUATIEVERGADERING\; Rechten van de mens\; FR-0.01\; \; Voor: A
+ lle groepen
+UID:1815461_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T130000Z
+DTEND:20171127T150000Z
+SEQUENCE:616390
+SUMMARY:RECME\; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Rechten van de mens (2119)\; Prof. dr. LEMMENS Koen\; OG-Aud1\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1765169_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171128T100000Z
+DTEND:20171128T120000Z
+SEQUENCE:643499
+SUMMARY:PERSA\; H5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Prof. dr. DECLERCK Charlo
+ tte\; H5\; (Hoorcollege)\; Voor: Alle groepen
+UID:1765235_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171128T120000Z
+DTEND:20171128T130000Z
+SEQUENCE:647304
+SUMMARY:EVALUATIEVERGADERING\; Personen- en samenlevingsrecht\; E140 (Cam
+ pus Diepenbeek\, boven de bibliotheek)\; \; Voor: Alle groepen
+UID:1815464_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171128T131500Z
+DTEND:20171128T150000Z
+SEQUENCE:648194
+SUMMARY:Inzagemoment:\; gerechtelijk recht\; H2\; \; Voor: Alle groepen
+UID:1853096_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171129T100000Z
+DTEND:20171129T120000Z
+SEQUENCE:647575
+SUMMARY:INFOSESSIE\; Internationale databanken\; FR-2.03\; Voor: Alle gro
+ epen
+DESCRIPTION: ()\; FR-2.03\; Voor: Alle groepen
+UID:1851998_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171130T080000Z
+DTEND:20171130T100000Z
+SEQUENCE:643502
+SUMMARY:RECME\; FR-0.02\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Rechten van de mens (2119)\; Mevrouw KARACA Buket\; FR-0.02\; (On
+ derwijsgroep)\; Voor groep: A
+UID:1765193_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171130T080000Z
+DTEND:20171130T100000Z
+SEQUENCE:643503
+SUMMARY:RECME\; FR-0.03\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Rechten van de mens (2119)\; Mevrouw VERBRUGGHE Nele\; FR-0.03\; 
+ (Onderwijsgroep)\; Voor groep: B
+UID:1844570_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171130T100000Z
+DTEND:20171130T120000Z
+SEQUENCE:643504
+SUMMARY:RECME\; FR-0.02\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Rechten van de mens (2119)\; Mevrouw KARACA Buket\; FR-0.02\; (On
+ derwijsgroep)\; Voor groep: C
+UID:1844564_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171130T100000Z
+DTEND:20171130T120000Z
+SEQUENCE:643505
+SUMMARY:RECME\; FR-0.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Rechten van de mens (2119)\; Mevrouw VERBRUGGHE Nele\; FR-0.03\; 
+ (Onderwijsgroep)\; Voor groep: D
+UID:1844573_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171130T130000Z
+DTEND:20171130T150000Z
+SEQUENCE:643506
+SUMMARY:RECME\; FR-0.02\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Rechten van de mens (2119)\; Mevrouw KARACA Buket\; FR-0.02\; (On
+ derwijsgroep)\; Voor groep: E
+UID:1844567_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171201T080000Z
+DTEND:20171201T100000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; mevrouw DEBROUX Karolien\
+ ; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+UID:1851779_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171201T080000Z
+DTEND:20171201T100000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Mevrouw MEESTERS Benedict
+ e\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+UID:1851797_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171201T080000Z
+DTEND:20171201T100000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.06\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Mevrouw DELANG Nore\; FR-
+ 1.06\; (Onderwijsgroep)\; Voor groep: C
+UID:1851812_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171201T100000Z
+DTEND:20171201T120000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; mevrouw DEBROUX Karolien\
+ ; FR-1.03\; (Onderwijsgroep)\; Voor groep: D
+UID:1851830_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171201T100000Z
+DTEND:20171201T120000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.04\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Mevrouw MEESTERS Benedict
+ e\; FR-1.04\; (Onderwijsgroep)\; Voor groep: E
+UID:1851848_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T100000Z
+DTEND:20171204T120000Z
+SEQUENCE:647574
+SUMMARY:Inloopsessie\; Internationale databanken\; FR-1.02\; \; Voor: All
+ e groepen
+UID:1852289_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T130000Z
+DTEND:20171204T150000Z
+SEQUENCE:616391
+SUMMARY:RECME\; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Rechten van de mens (2119)\; Prof. dr. LEMMENS Koen\; OG-Aud1\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1765172_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171205T100000Z
+DTEND:20171205T120000Z
+SEQUENCE:643519
+SUMMARY:PERSA\; H6\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Prof. dr. DECLERCK Charlo
+ tte\; H6\; (Hoorcollege)\; Voor: Alle groepen
+UID:1765238_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T080000Z
+DTEND:20171207T100000Z
+SEQUENCE:643513
+SUMMARY:RECME\; FR-0.02\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Rechten van de mens (2119)\; De heer NIJNS Jozef\; FR-0.02\; (Ond
+ erwijsgroep)\; Voor groep: A
+UID:1765196_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T080000Z
+DTEND:20171207T100000Z
+SEQUENCE:643522
+SUMMARY:RECME\; FR-0.03\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Rechten van de mens (2119)\; Mevrouw LEFEVRE Marike\; FR-0.03\; (
+ Onderwijsgroep)\; Voor groep: B
+UID:1844588_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T100000Z
+DTEND:20171207T120000Z
+SEQUENCE:643515
+SUMMARY:RECME\; FR-0.02\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Rechten van de mens (2119)\; De heer NIJNS Jozef\; FR-0.02\; (Ond
+ erwijsgroep)\; Voor groep: C
+UID:1844582_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T100000Z
+DTEND:20171207T120000Z
+SEQUENCE:643523
+SUMMARY:RECME\; FR-0.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Rechten van de mens (2119)\; Mevrouw LEFEVRE Marike\; FR-0.03\; (
+ Onderwijsgroep)\; Voor groep: D
+UID:1844591_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T130000Z
+DTEND:20171207T150000Z
+SEQUENCE:643517
+SUMMARY:RECME\; FR-0.02\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Rechten van de mens (2119)\; De heer NIJNS Jozef\; FR-0.02\; (Ond
+ erwijsgroep)\; Voor groep: E
+UID:1844585_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171208T080000Z
+DTEND:20171208T100000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; mevrouw DEBROUX Karolien\
+ ; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+UID:1851782_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171208T080000Z
+DTEND:20171208T100000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Mevrouw MEESTERS Benedict
+ e\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+UID:1851800_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171208T080000Z
+DTEND:20171208T100000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.06\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Mevrouw DELANG Nore\; FR-
+ 1.06\; (Onderwijsgroep)\; Voor groep: C
+UID:1851815_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171208T100000Z
+DTEND:20171208T120000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; mevrouw DEBROUX Karolien\
+ ; FR-1.03\; (Onderwijsgroep)\; Voor groep: D
+UID:1851833_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171208T100000Z
+DTEND:20171208T120000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.04\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Mevrouw MEESTERS Benedict
+ e\; FR-1.04\; (Onderwijsgroep)\; Voor groep: E
+UID:1851851_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171211T120000Z
+DTEND:20171211T160000Z
+SEQUENCE:643534
+SUMMARY:RECME\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Rechten van de mens (2119)\; Prof. dr. LEMMENS Koen\; OG-Aud2\; (
+ Hoorcollege)\; Voor: Alle groepen
+UID:1765175_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171212T100000Z
+DTEND:20171212T120000Z
+SEQUENCE:643540
+SUMMARY:PERSA\; H6\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Prof. dr. DECLERCK Charlo
+ tte\; H6\; (Hoorcollege)\; Voor: Alle groepen
+UID:1765241_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171213T080000Z
+DTEND:20171213T100000Z
+SEQUENCE:643531
+SUMMARY:RECME\; FR-0.02\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Rechten van de mens (2119)\; Mevrouw REYNTJENS Louise\; FR-0.02\;
+  (Onderwijsgroep)\; Voor groep: A
+UID:1801826_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171213T080000Z
+DTEND:20171213T100000Z
+SEQUENCE:643532
+SUMMARY:RECME\; FR-0.03\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Rechten van de mens (2119)\; Mevrouw KARACA Buket\; FR-0.03\; (On
+ derwijsgroep)\; Voor groep: B
+UID:1844615_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171213T100000Z
+DTEND:20171213T120000Z
+SEQUENCE:643526
+SUMMARY:RECME\; FR-0.02\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Rechten van de mens (2119)\; Mevrouw REYNTJENS Louise\; FR-0.02\;
+  (Onderwijsgroep)\; Voor groep: C
+UID:1844597_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171213T100000Z
+DTEND:20171213T120000Z
+SEQUENCE:643533
+SUMMARY:RECME\; FR-0.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Rechten van de mens (2119)\; Mevrouw KARACA Buket\; FR-0.03\; (On
+ derwijsgroep)\; Voor groep: D
+UID:1844618_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171213T130000Z
+DTEND:20171213T150000Z
+SEQUENCE:643527
+SUMMARY:RECME\; FR-0.02\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Rechten van de mens (2119)\; Mevrouw REYNTJENS Louise\; FR-0.02\;
+  (Onderwijsgroep)\; Voor groep: E
+UID:1844600_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171214T080000Z
+DTEND:20171214T100000Z
+SEQUENCE:643535
+SUMMARY:RECME\; FR-0.03\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Rechten van de mens (2119)\; Mevrouw VERBRUGGHE Nele\; FR-0.03\; 
+ (Onderwijsgroep)\; Voor groep: B
+UID:1844624_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171214T100000Z
+DTEND:20171214T120000Z
+SEQUENCE:643536
+SUMMARY:RECME\; FR-0.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Rechten van de mens (2119)\; Mevrouw VERBRUGGHE Nele\; FR-0.03\; 
+ (Onderwijsgroep)\; Voor groep: D
+UID:1844621_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171215T080000Z
+DTEND:20171215T100000Z
+SEQUENCE:651579
+SUMMARY:RECME\; FR-0.02\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Rechten van de mens (2119)\; Mevrouw REYNTJENS Louise\; FR-0.02\;
+  (Onderwijsgroep)\; Voor groep: A
+UID:1844603_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171215T080000Z
+DTEND:20171215T100000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; mevrouw DEBROUX Karolien\
+ ; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+UID:1851785_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171215T080000Z
+DTEND:20171215T100000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Mevrouw MEESTERS Benedict
+ e\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+UID:1851803_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171215T080000Z
+DTEND:20171215T100000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.06\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Mevrouw DELANG Nore\; FR-
+ 1.06\; (Onderwijsgroep)\; Voor groep: C
+UID:1851818_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171215T100000Z
+DTEND:20171215T120000Z
+SEQUENCE:651580
+SUMMARY:RECME\; FR-0.02\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Rechten van de mens (2119)\; Mevrouw REYNTJENS Louise\; FR-0.02\;
+  (Onderwijsgroep)\; Voor groep: C
+UID:1844606_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171215T100000Z
+DTEND:20171215T120000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; mevrouw DEBROUX Karolien\
+ ; FR-1.03\; (Onderwijsgroep)\; Voor groep: D
+UID:1851836_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171215T100000Z
+DTEND:20171215T120000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.04\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Mevrouw MEESTERS Benedict
+ e\; FR-1.04\; (Onderwijsgroep)\; Voor groep: E
+UID:1851854_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171215T130000Z
+DTEND:20171215T150000Z
+SEQUENCE:651581
+SUMMARY:RECME\; FR-0.02\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Rechten van de mens (2119)\; Mevrouw REYNTJENS Louise\; FR-0.02\;
+  (Onderwijsgroep)\; Voor groep: E
+UID:1844609_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180103T100000Z
+DTEND:20180103T120000Z
+SEQUENCE:657012
+SUMMARY:PERSA\; H6\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Prof. dr. DECLERCK Charlo
+ tte\; H6\; (Hoorcollege)\; Voor: Alle groepen
+UID:1765244_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180103T120000Z
+DTEND:20180103T130000Z
+SEQUENCE:0
+SUMMARY:PERSA\; H6\; (Responsiecollege)\; Voor: Alle groepen
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Prof. dr. DECLERCK Charlo
+ tte\; H6\; (Responsiecollege)\; Voor: Alle groepen
+UID:1878305_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180105T080000Z
+DTEND:20180105T100000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; mevrouw DEBROUX Karolien\
+ ; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+UID:1851788_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180105T080000Z
+DTEND:20180105T100000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Mevrouw MEESTERS Benedict
+ e\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+UID:1851806_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180105T080000Z
+DTEND:20180105T100000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.06\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Mevrouw DELANG Nore\; FR-
+ 1.06\; (Onderwijsgroep)\; Voor groep: C
+UID:1851821_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180105T100000Z
+DTEND:20180105T120000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.03\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; mevrouw DEBROUX Karolien\
+ ; FR-1.03\; (Onderwijsgroep)\; Voor groep: D
+UID:1851839_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180105T100000Z
+DTEND:20180105T120000Z
+SEQUENCE:0
+SUMMARY:PERSA\; FR-1.04\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Personen- en samenlevingsrecht (2121)\; Mevrouw MEESTERS Benedict
+ e\; FR-1.04\; (Onderwijsgroep)\; Voor groep: E
+UID:1851857_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180111T100000Z
+DTEND:20180111T120000Z
+SEQUENCE:657442
+SUMMARY:ONTRE\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; Prof. dr. VAN DE
+ R MEER Tanja\, dr. VAN HOFSTRAETEN Bram\; OG-Aud2\; (Hoorcollege)
+ \; Voor: Alle groepen
+UID:1765247_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180112T080000Z
+DTEND:20180112T100000Z
+SEQUENCE:657435
+SUMMARY:ONTRE\; FR-1.11\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; dr. VAN HOFSTRAE
+ TEN Bram\; FR-1.11\; (Onderwijsgroep)\; Voor groep: A
+UID:1765277_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180112T100000Z
+DTEND:20180112T120000Z
+SEQUENCE:657436
+SUMMARY:ONTRE\; FR-1.11\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; dr. VAN HOFSTRAE
+ TEN Bram\; FR-1.11\; (Onderwijsgroep)\; Voor groep: B
+UID:1874309_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180112T100000Z
+DTEND:20180112T120000Z
+SEQUENCE:657437
+SUMMARY:ONTRE\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; Mevrouw Moerman 
+ Manon\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+UID:1874312_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180112T100000Z
+DTEND:20180112T120000Z
+SEQUENCE:657438
+SUMMARY:ONTRE\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; Prof. dr. VAN DE
+ R MEER Tanja\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+UID:1874315_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180112T130000Z
+DTEND:20180112T150000Z
+SEQUENCE:657439
+SUMMARY:ONTRE\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; Mevrouw Moerman 
+ Manon\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+UID:1874318_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180115T100000Z
+DTEND:20180115T120000Z
+SEQUENCE:657443
+SUMMARY:ONTRE\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; Prof. dr. VAN DE
+ R MEER Tanja\, dr. VAN HOFSTRAETEN Bram\; OG-Aud2\; (Hoorcollege)
+ \; Voor: Alle groepen
+UID:1765250_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180116T080000Z
+DTEND:20180116T100000Z
+SEQUENCE:0
+SUMMARY:ONTRE\; FR-1.11\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; dr. VAN HOFSTRAE
+ TEN Bram\; FR-1.11\; (Onderwijsgroep)\; Voor groep: A
+UID:1879448_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180116T100000Z
+DTEND:20180116T120000Z
+SEQUENCE:0
+SUMMARY:ONTRE\; FR-1.11\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; dr. VAN HOFSTRAE
+ TEN Bram\; FR-1.11\; (Onderwijsgroep)\; Voor groep: B
+UID:1879451_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180116T100000Z
+DTEND:20180116T120000Z
+SEQUENCE:0
+SUMMARY:ONTRE\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; Mevrouw Moerman 
+ Manon\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+UID:1879454_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180116T100000Z
+DTEND:20180116T120000Z
+SEQUENCE:0
+SUMMARY:ONTRE\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; Prof. dr. VAN DE
+ R MEER Tanja\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+UID:1879457_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180116T130000Z
+DTEND:20180116T150000Z
+SEQUENCE:0
+SUMMARY:ONTRE\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; Mevrouw Moerman 
+ Manon\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+UID:1879460_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180118T100000Z
+DTEND:20180118T120000Z
+SEQUENCE:657444
+SUMMARY:ONTRE\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; Prof. dr. VAN DE
+ R MEER Tanja\, dr. VAN HOFSTRAETEN Bram\; OG-Aud2\; (Hoorcollege)
+ \; Voor: Alle groepen
+UID:1765259_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180119T080000Z
+DTEND:20180119T100000Z
+SEQUENCE:0
+SUMMARY:ONTRE\; FR-1.11\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; dr. VAN HOFSTRAE
+ TEN Bram\; FR-1.11\; (Onderwijsgroep)\; Voor groep: A
+UID:1879418_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180119T100000Z
+DTEND:20180119T120000Z
+SEQUENCE:0
+SUMMARY:ONTRE\; FR-1.11\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; dr. VAN HOFSTRAE
+ TEN Bram\; FR-1.11\; (Onderwijsgroep)\; Voor groep: B
+UID:1879424_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180119T100000Z
+DTEND:20180119T120000Z
+SEQUENCE:0
+SUMMARY:ONTRE\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; Mevrouw Moerman 
+ Manon\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+UID:1879430_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180119T100000Z
+DTEND:20180119T120000Z
+SEQUENCE:0
+SUMMARY:ONTRE\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; Prof. dr. VAN DE
+ R MEER Tanja\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+UID:1879436_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180119T130000Z
+DTEND:20180119T150000Z
+SEQUENCE:0
+SUMMARY:ONTRE\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; Mevrouw Moerman 
+ Manon\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+UID:1879442_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180122T100000Z
+DTEND:20180122T120000Z
+SEQUENCE:657445
+SUMMARY:ONTRE\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; Prof. dr. VAN DE
+ R MEER Tanja\, dr. VAN HOFSTRAETEN Bram\; OG-Aud2\; (Hoorcollege)
+ \; Voor: Alle groepen
+UID:1765253_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180122T120000Z
+DTEND:20180122T130000Z
+SEQUENCE:628485
+SUMMARY:EVALUATIEVERGADERING\; De ontwikkeling van het recht in Europa\; 
+ FR-0.09\; \; Voor: Alle groepen
+UID:1815467_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180123T080000Z
+DTEND:20180123T100000Z
+SEQUENCE:0
+SUMMARY:ONTRE\; FR-1.11\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; dr. VAN HOFSTRAE
+ TEN Bram\; FR-1.11\; (Onderwijsgroep)\; Voor groep: A
+UID:1879463_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180123T100000Z
+DTEND:20180123T120000Z
+SEQUENCE:0
+SUMMARY:ONTRE\; FR-1.11\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; dr. VAN HOFSTRAE
+ TEN Bram\; FR-1.11\; (Onderwijsgroep)\; Voor groep: B
+UID:1879469_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180123T100000Z
+DTEND:20180123T120000Z
+SEQUENCE:0
+SUMMARY:ONTRE\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; Prof. dr. VAN DE
+ R MEER Tanja\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+UID:1879481_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180123T100000Z
+DTEND:20180123T120000Z
+SEQUENCE:0
+SUMMARY:ONTRE\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; Mevrouw Moerman 
+ Manon\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+UID:1879487_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180123T130000Z
+DTEND:20180123T150000Z
+SEQUENCE:0
+SUMMARY:ONTRE\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; Mevrouw Moerman 
+ Manon\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+UID:1879475_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180125T100000Z
+DTEND:20180125T120000Z
+SEQUENCE:657446
+SUMMARY:ONTRE\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; Prof. dr. VAN DE
+ R MEER Tanja\, dr. VAN HOFSTRAETEN Bram\; OG-Aud2\; (Hoorcollege)
+ \; Voor: Alle groepen
+UID:1765262_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180126T080000Z
+DTEND:20180126T100000Z
+SEQUENCE:657440
+SUMMARY:ONTRE\; FR-0.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; dr. VAN HOFSTRAE
+ TEN Bram\; FR-0.03\; (Onderwijsgroep)\; Voor groep: A
+UID:1879421_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180126T100000Z
+DTEND:20180126T120000Z
+SEQUENCE:657441
+SUMMARY:ONTRE\; FR-0.03\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; dr. VAN HOFSTRAE
+ TEN Bram\; FR-0.03\; (Onderwijsgroep)\; Voor groep: B
+UID:1879427_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180126T100000Z
+DTEND:20180126T120000Z
+SEQUENCE:0
+SUMMARY:ONTRE\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; Mevrouw Moerman 
+ Manon\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+UID:1879433_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180126T100000Z
+DTEND:20180126T120000Z
+SEQUENCE:0
+SUMMARY:ONTRE\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; Prof. dr. VAN DE
+ R MEER Tanja\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+UID:1879439_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180126T130000Z
+DTEND:20180126T150000Z
+SEQUENCE:0
+SUMMARY:ONTRE\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; Mevrouw Moerman 
+ Manon\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+UID:1879445_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180129T100000Z
+DTEND:20180129T120000Z
+SEQUENCE:655221
+SUMMARY:ONTRE\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; Prof. dr. VAN DE
+ R MEER Tanja\, dr. VAN HOFSTRAETEN Bram\; OG-Aud2\; (Hoorcollege)
+ \; Voor: Alle groepen
+UID:1765256_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180129T120000Z
+DTEND:20180129T140000Z
+SEQUENCE:658038
+SUMMARY:Inzagemoment \; Personen- en samenlevingsrecht\; OG-Aud2\; \; Voo
+ r: Alle groepen
+UID:1883462_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180130T080000Z
+DTEND:20180130T100000Z
+SEQUENCE:0
+SUMMARY:ONTRE\; FR-1.11\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; dr. VAN HOFSTRAE
+ TEN Bram\; FR-1.11\; (Onderwijsgroep)\; Voor groep: A
+UID:1879466_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180130T100000Z
+DTEND:20180130T120000Z
+SEQUENCE:0
+SUMMARY:ONTRE\; FR-1.11\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; dr. VAN HOFSTRAE
+ TEN Bram\; FR-1.11\; (Onderwijsgroep)\; Voor groep: B
+UID:1879472_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180130T100000Z
+DTEND:20180130T120000Z
+SEQUENCE:0
+SUMMARY:ONTRE\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; Prof. dr. VAN DE
+ R MEER Tanja\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+UID:1879484_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180130T100000Z
+DTEND:20180130T120000Z
+SEQUENCE:0
+SUMMARY:ONTRE\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; Mevrouw Moerman 
+ Manon\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+UID:1879490_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180130T130000Z
+DTEND:20180130T150000Z
+SEQUENCE:0
+SUMMARY:ONTRE\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:De ontwikkeling van het recht in Europa (2123)\; Mevrouw Moerman 
+ Manon\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+UID:1879478_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180131T080000Z
+DTEND:20180131T100000Z
+SEQUENCE:658037
+SUMMARY:Inzagemoment \; Personen- en samenlevingsrecht\; OG-Aud2\; \; Voo
+ r: Alle groepen
+UID:1883465_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180212T130000Z
+DTEND:20180212T150000Z
+SEQUENCE:658740
+SUMMARY:ONDRV\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; Prof.dr. COLAERT Veerle\; OG-Aud2\; (Hoorcollege)\; Voor: All
+ e groepen
+UID:1765289_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180213T100000Z
+DTEND:20180213T120000Z
+SEQUENCE:635471
+SUMMARY:LINTM\; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Law of the Internal Market (1889)\; dr. CLAESSENS Sjoerd\; OG-Aud
+ 1\; (Hoorcollege)\; Voor: Alle groepen
+UID:1771679_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180215T080000Z
+DTEND:20180215T100000Z
+SEQUENCE:664267
+SUMMARY:ONDRV\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+UID:1765313_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180215T080000Z
+DTEND:20180215T100000Z
+SEQUENCE:664296
+SUMMARY:ONDRV\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; Mevrouw VERLINDEN Nele\; FR-1.04\; (Onderwijsgroep)\; Voor gr
+ oep: B
+UID:1899314_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180215T100000Z
+DTEND:20180215T120000Z
+SEQUENCE:662390
+SUMMARY:ONDRV\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+UID:1899305_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180215T100000Z
+DTEND:20180215T120000Z
+SEQUENCE:664297
+SUMMARY:ONDRV\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; Mevrouw VERLINDEN Nele\; FR-1.04\; (Onderwijsgroep)\; Voor gr
+ oep: D
+UID:1899311_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180215T130000Z
+DTEND:20180215T150000Z
+SEQUENCE:662392
+SUMMARY:ONDRV\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+UID:1899308_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180216T080000Z
+DTEND:20180216T100000Z
+SEQUENCE:664250
+SUMMARY:LINTM\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Law of the Internal Market (1889)\; DOHMEN Laura\; FR-1.03\; (Ond
+ erwijsgroep)\; Voor groep: A
+UID:1771655_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180216T080000Z
+DTEND:20180216T100000Z
+SEQUENCE:664253
+SUMMARY:LINTM\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Law of the Internal Market (1889)\; De heer LOYENS Mathias\; FR-1
+ .04\; (Onderwijsgroep)\; Voor groep: B
+UID:1899320_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180216T100000Z
+DTEND:20180216T120000Z
+SEQUENCE:664254
+SUMMARY:LINTM\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Law of the Internal Market (1889)\; De heer LOYENS Mathias\; FR-1
+ .04\; (Onderwijsgroep)\; Voor groep: D
+UID:1899323_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180216T100000Z
+DTEND:20180216T120000Z
+SEQUENCE:664251
+SUMMARY:LINTM\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Law of the Internal Market (1889)\; DOHMEN Laura\; FR-1.03\; (Ond
+ erwijsgroep)\; Voor groep: C
+UID:1899326_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180216T130000Z
+DTEND:20180216T150000Z
+SEQUENCE:664252
+SUMMARY:LINTM\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Law of the Internal Market (1889)\; DOHMEN Laura\; FR-1.03\; (Ond
+ erwijsgroep)\; Voor groep: E
+UID:1899329_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180219T130000Z
+DTEND:20180219T150000Z
+SEQUENCE:664266
+SUMMARY:ONDRV\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; Prof.dr. COLAERT Veerle\; OG-Aud2\; (Hoorcollege)\; Voor: All
+ e groepen
+UID:1765292_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180221T100000Z
+DTEND:20180221T120000Z
+SEQUENCE:664265
+SUMMARY:LINTM\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Law of the Internal Market (1889)\; dr. CLAESSENS Sjoerd\; OG-Aud
+ 2\; (Hoorcollege)\; Voor: Alle groepen
+UID:1771682_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180222T080000Z
+DTEND:20180222T100000Z
+SEQUENCE:664268
+SUMMARY:ONDRV\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; De heer VANDORMAEL Karel-Jan\; FR-1.03\; (Onderwijsgroep)\; V
+ oor groep: A
+UID:1902152_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180222T080000Z
+DTEND:20180222T100000Z
+SEQUENCE:664270
+SUMMARY:ONDRV\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; De heer INCALZA Thomas\; FR-1.04\; (Onderwijsgroep)\; Voor gr
+ oep: B
+UID:1902170_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210153Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180222T100000Z
+DTEND:20180222T120000Z
+SEQUENCE:664271
+SUMMARY:ONDRV\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; De heer INCALZA Thomas\; FR-1.04\; (Onderwijsgroep)\; Voor gr
+ oep: D
+UID:1902188_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180222T100000Z
+DTEND:20180222T120000Z
+SEQUENCE:664272
+SUMMARY:ONDRV\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; De heer VANDORMAEL Karel-Jan\; FR-1.03\; (Onderwijsgroep)\; V
+ oor groep: C
+UID:1902224_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180222T130000Z
+DTEND:20180222T150000Z
+SEQUENCE:664274
+SUMMARY:ONDRV\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; De heer VANDORMAEL Karel-Jan\; FR-1.03\; (Onderwijsgroep)\; V
+ oor groep: E
+UID:1902206_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180223T080000Z
+DTEND:20180223T100000Z
+SEQUENCE:0
+SUMMARY:LINTM\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Law of the Internal Market (1889)\; DOHMEN Laura\; FR-1.03\; (Ond
+ erwijsgroep)\; Voor groep: A
+UID:1901990_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180223T080000Z
+DTEND:20180223T100000Z
+SEQUENCE:0
+SUMMARY:LINTM\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Law of the Internal Market (1889)\; De heer LOYENS Mathias\; FR-1
+ .04\; (Onderwijsgroep)\; Voor groep: B
+UID:1902008_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180223T100000Z
+DTEND:20180223T120000Z
+SEQUENCE:0
+SUMMARY:LINTM\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Law of the Internal Market (1889)\; DOHMEN Laura\; FR-1.03\; (Ond
+ erwijsgroep)\; Voor groep: C
+UID:1902026_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180223T100000Z
+DTEND:20180223T120000Z
+SEQUENCE:0
+SUMMARY:LINTM\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Law of the Internal Market (1889)\; De heer LOYENS Mathias\; FR-1
+ .04\; (Onderwijsgroep)\; Voor groep: D
+UID:1902044_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180223T130000Z
+DTEND:20180223T150000Z
+SEQUENCE:0
+SUMMARY:LINTM\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Law of the Internal Market (1889)\; DOHMEN Laura\; FR-1.03\; (Ond
+ erwijsgroep)\; Voor groep: E
+UID:1902062_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180226T130000Z
+DTEND:20180226T150000Z
+SEQUENCE:664091
+SUMMARY:ONDRV\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; Prof.dr. COLAERT Veerle\; OG-Aud2\; (Hoorcollege)\; Voor: All
+ e groepen
+UID:1765295_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180226T150000Z
+DTEND:20180226T170000Z
+SEQUENCE:664090
+SUMMARY:INZAGE EXAMENS\; ONTRE\; OG-Aud2\; Voor: Alle groepen
+DESCRIPTION: ()\; OG-Aud2\; Voor: Alle groepen
+UID:1901615_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180227T100000Z
+DTEND:20180227T120000Z
+SEQUENCE:664167
+SUMMARY:LINTM\; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Law of the Internal Market (1889)\; dr. CLAESSENS Sjoerd\; OG-Aud
+ 1\; (Hoorcollege)\; Voor: Alle groepen
+UID:1771685_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180301T080000Z
+DTEND:20180301T100000Z
+SEQUENCE:0
+SUMMARY:ONDRV\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+UID:1902155_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180301T080000Z
+DTEND:20180301T100000Z
+SEQUENCE:667930
+SUMMARY:ONDRV\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; Mevrouw LE PAIGE Ysaline\; FR-1.04\; (Onderwijsgroep)\; Voor 
+ groep: B
+UID:1902173_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180301T100000Z
+DTEND:20180301T120000Z
+SEQUENCE:667931
+SUMMARY:ONDRV\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; Mevrouw LE PAIGE Ysaline\; FR-1.04\; (Onderwijsgroep)\; Voor 
+ groep: D
+UID:1902191_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180301T100000Z
+DTEND:20180301T120000Z
+SEQUENCE:0
+SUMMARY:ONDRV\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+UID:1902227_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180301T130000Z
+DTEND:20180301T150000Z
+SEQUENCE:0
+SUMMARY:ONDRV\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+UID:1902209_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180302T080000Z
+DTEND:20180302T100000Z
+SEQUENCE:0
+SUMMARY:LINTM\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Law of the Internal Market (1889)\; DOHMEN Laura\; FR-1.03\; (Ond
+ erwijsgroep)\; Voor groep: A
+UID:1901993_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180302T080000Z
+DTEND:20180302T100000Z
+SEQUENCE:0
+SUMMARY:LINTM\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Law of the Internal Market (1889)\; De heer LOYENS Mathias\; FR-1
+ .04\; (Onderwijsgroep)\; Voor groep: B
+UID:1902011_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180302T100000Z
+DTEND:20180302T120000Z
+SEQUENCE:0
+SUMMARY:LINTM\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Law of the Internal Market (1889)\; DOHMEN Laura\; FR-1.03\; (Ond
+ erwijsgroep)\; Voor groep: C
+UID:1902029_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180302T100000Z
+DTEND:20180302T120000Z
+SEQUENCE:0
+SUMMARY:LINTM\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Law of the Internal Market (1889)\; De heer LOYENS Mathias\; FR-1
+ .04\; (Onderwijsgroep)\; Voor groep: D
+UID:1902047_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180302T130000Z
+DTEND:20180302T150000Z
+SEQUENCE:0
+SUMMARY:LINTM\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Law of the Internal Market (1889)\; DOHMEN Laura\; FR-1.03\; (Ond
+ erwijsgroep)\; Voor groep: E
+UID:1902065_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180305T130000Z
+DTEND:20180305T150000Z
+SEQUENCE:663409
+SUMMARY:ONDRV\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; Prof.dr. COLAERT Veerle\; OG-Aud2\; (Hoorcollege)\; Voor: All
+ e groepen
+UID:1765298_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180306T100000Z
+DTEND:20180306T120000Z
+SEQUENCE:635478
+SUMMARY:LINTM\; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Law of the Internal Market (1889)\; dr. CLAESSENS Sjoerd\; OG-Aud
+ 1\; (Hoorcollege)\; Voor: Alle groepen
+UID:1771688_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180308T080000Z
+DTEND:20180308T100000Z
+SEQUENCE:664293
+SUMMARY:ONDRV\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; Mevrouw SPOOREN Marijke\; FR-1.03\; (Onderwijsgroep)\; Voor g
+ roep: A
+UID:1902158_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180308T080000Z
+DTEND:20180308T100000Z
+SEQUENCE:664275
+SUMMARY:ONDRV\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; De heer HEENE Michael\; FR-1.04\; (Onderwijsgroep)\; Voor gro
+ ep: B
+UID:1902176_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180308T100000Z
+DTEND:20180308T120000Z
+SEQUENCE:664276
+SUMMARY:ONDRV\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; De heer HEENE Michael\; FR-1.04\; (Onderwijsgroep)\; Voor gro
+ ep: D
+UID:1902194_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180308T100000Z
+DTEND:20180308T120000Z
+SEQUENCE:664292
+SUMMARY:ONDRV\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; Mevrouw SPOOREN Marijke\; FR-1.03\; (Onderwijsgroep)\; Voor g
+ roep: C
+UID:1902230_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180308T130000Z
+DTEND:20180308T150000Z
+SEQUENCE:664291
+SUMMARY:ONDRV\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; Mevrouw SPOOREN Marijke\; FR-1.03\; (Onderwijsgroep)\; Voor g
+ roep: E
+UID:1902212_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180309T080000Z
+DTEND:20180309T100000Z
+SEQUENCE:0
+SUMMARY:LINTM\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Law of the Internal Market (1889)\; DOHMEN Laura\; FR-1.03\; (Ond
+ erwijsgroep)\; Voor groep: A
+UID:1901996_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180309T080000Z
+DTEND:20180309T100000Z
+SEQUENCE:0
+SUMMARY:LINTM\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Law of the Internal Market (1889)\; De heer LOYENS Mathias\; FR-1
+ .04\; (Onderwijsgroep)\; Voor groep: B
+UID:1902014_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180309T100000Z
+DTEND:20180309T120000Z
+SEQUENCE:0
+SUMMARY:LINTM\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Law of the Internal Market (1889)\; DOHMEN Laura\; FR-1.03\; (Ond
+ erwijsgroep)\; Voor groep: C
+UID:1902032_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180309T100000Z
+DTEND:20180309T120000Z
+SEQUENCE:0
+SUMMARY:LINTM\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Law of the Internal Market (1889)\; De heer LOYENS Mathias\; FR-1
+ .04\; (Onderwijsgroep)\; Voor groep: D
+UID:1902050_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180309T130000Z
+DTEND:20180309T150000Z
+SEQUENCE:0
+SUMMARY:LINTM\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Law of the Internal Market (1889)\; DOHMEN Laura\; FR-1.03\; (Ond
+ erwijsgroep)\; Voor groep: E
+UID:1902068_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180312T130000Z
+DTEND:20180312T150000Z
+SEQUENCE:658744
+SUMMARY:ONDRV\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; Prof.dr. COLAERT Veerle\; OG-Aud2\; (Hoorcollege)\; Voor: All
+ e groepen
+UID:1765301_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180313T090000Z
+DTEND:20180313T100000Z
+SEQUENCE:0
+SUMMARY:EVALUATIEVERGADERING\; Law of the internal market\; FR-0.01\; Voo
+ r: Alle groepen
+DESCRIPTION: ()\; FR-0.01\; Voor: Alle groepen
+UID:1904567_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180313T100000Z
+DTEND:20180313T120000Z
+SEQUENCE:635480
+SUMMARY:LINTM\; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Law of the Internal Market (1889)\; dr. CLAESSENS Sjoerd\; OG-Aud
+ 1\; (Hoorcollege)\; Voor: Alle groepen
+UID:1771691_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180313T140000Z
+DTEND:20180313T153000Z
+SEQUENCE:667566
+SUMMARY:INFOSESSIE\; Go America\; FR-2.03\; Voor: Alle groepen
+DESCRIPTION: ()\; FR-2.03\; Voor: Alle groepen
+UID:1906703_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180314T160000Z
+DTEND:20180314T190000Z
+SEQUENCE:662477
+SUMMARY:WERELDAVOND (AGORA)\; Voor: Alle groepen
+DESCRIPTION: ()\; Voor: Alle groepen
+UID:1807559_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180315T080000Z
+DTEND:20180315T100000Z
+SEQUENCE:664290
+SUMMARY:ONDRV\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; Mevrouw SPOOREN Marijke\; FR-1.03\; (Onderwijsgroep)\; Voor g
+ roep: A
+UID:1902161_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180315T080000Z
+DTEND:20180315T100000Z
+SEQUENCE:0
+SUMMARY:ONDRV\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+UID:1902179_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180315T100000Z
+DTEND:20180315T120000Z
+SEQUENCE:0
+SUMMARY:ONDRV\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+UID:1902197_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180315T100000Z
+DTEND:20180315T120000Z
+SEQUENCE:664294
+SUMMARY:ONDRV\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; Mevrouw SPOOREN Marijke\; FR-1.03\; (Onderwijsgroep)\; Voor g
+ roep: C
+UID:1902233_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180315T130000Z
+DTEND:20180315T150000Z
+SEQUENCE:664295
+SUMMARY:ONDRV\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; Mevrouw SPOOREN Marijke\; FR-1.03\; (Onderwijsgroep)\; Voor g
+ roep: E
+UID:1902215_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180316T080000Z
+DTEND:20180316T100000Z
+SEQUENCE:0
+SUMMARY:LINTM\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Law of the Internal Market (1889)\; DOHMEN Laura\; FR-1.03\; (Ond
+ erwijsgroep)\; Voor groep: A
+UID:1901999_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180316T080000Z
+DTEND:20180316T100000Z
+SEQUENCE:0
+SUMMARY:LINTM\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Law of the Internal Market (1889)\; De heer LOYENS Mathias\; FR-1
+ .04\; (Onderwijsgroep)\; Voor groep: B
+UID:1902017_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180316T100000Z
+DTEND:20180316T120000Z
+SEQUENCE:0
+SUMMARY:LINTM\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Law of the Internal Market (1889)\; DOHMEN Laura\; FR-1.03\; (Ond
+ erwijsgroep)\; Voor groep: C
+UID:1902035_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180316T100000Z
+DTEND:20180316T120000Z
+SEQUENCE:0
+SUMMARY:LINTM\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Law of the Internal Market (1889)\; De heer LOYENS Mathias\; FR-1
+ .04\; (Onderwijsgroep)\; Voor groep: D
+UID:1902053_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180316T130000Z
+DTEND:20180316T150000Z
+SEQUENCE:0
+SUMMARY:LINTM\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Law of the Internal Market (1889)\; DOHMEN Laura\; FR-1.03\; (Ond
+ erwijsgroep)\; Voor groep: E
+UID:1902071_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180319T130000Z
+DTEND:20180319T150000Z
+SEQUENCE:658739
+SUMMARY:ONDRV\; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; Prof.dr. COLAERT Veerle\; OG-Aud1\; (Hoorcollege)\; Voor: All
+ e groepen
+UID:1765304_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180320T090000Z
+DTEND:20180320T100000Z
+SEQUENCE:658737
+SUMMARY:EVALUATIEVERGADERING\; Law of the internal market\; FR-0.01\; Voo
+ r: Alle groepen
+DESCRIPTION: ()\; FR-0.01\; Voor: Alle groepen
+UID:1886207_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180320T100000Z
+DTEND:20180320T120000Z
+SEQUENCE:658738
+SUMMARY:LINTM\; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Law of the Internal Market (1889)\; dr. CLAESSENS Sjoerd\; OG-Aud
+ 1\; (Hoorcollege)\; Voor: Alle groepen
+UID:1771694_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180322T080000Z
+DTEND:20180322T100000Z
+SEQUENCE:664278
+SUMMARY:ONDRV\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; de heer GILIS Dieter\; FR-1.03\; (Onderwijsgroep)\; Voor groe
+ p: A
+UID:1902164_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180322T080000Z
+DTEND:20180322T100000Z
+SEQUENCE:664279
+SUMMARY:ONDRV\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; De heer BENS Gilian\; FR-1.04\; (Onderwijsgroep)\; Voor groep
+ : B
+UID:1902182_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180322T100000Z
+DTEND:20180322T120000Z
+SEQUENCE:664280
+SUMMARY:ONDRV\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; De heer BENS Gilian\; FR-1.04\; (Onderwijsgroep)\; Voor groep
+ : D
+UID:1902200_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180322T100000Z
+DTEND:20180322T120000Z
+SEQUENCE:664282
+SUMMARY:ONDRV\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; de heer GILIS Dieter\; FR-1.03\; (Onderwijsgroep)\; Voor groe
+ p: C
+UID:1902236_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180322T130000Z
+DTEND:20180322T150000Z
+SEQUENCE:664283
+SUMMARY:ONDRV\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; de heer GILIS Dieter\; FR-1.03\; (Onderwijsgroep)\; Voor groe
+ p: E
+UID:1902218_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180323T080000Z
+DTEND:20180323T100000Z
+SEQUENCE:0
+SUMMARY:LINTM\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Law of the Internal Market (1889)\; DOHMEN Laura\; FR-1.03\; (Ond
+ erwijsgroep)\; Voor groep: A
+UID:1902002_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180323T080000Z
+DTEND:20180323T100000Z
+SEQUENCE:0
+SUMMARY:LINTM\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Law of the Internal Market (1889)\; De heer LOYENS Mathias\; FR-1
+ .04\; (Onderwijsgroep)\; Voor groep: B
+UID:1902020_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180323T100000Z
+DTEND:20180323T120000Z
+SEQUENCE:0
+SUMMARY:LINTM\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Law of the Internal Market (1889)\; DOHMEN Laura\; FR-1.03\; (Ond
+ erwijsgroep)\; Voor groep: C
+UID:1902038_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180323T100000Z
+DTEND:20180323T120000Z
+SEQUENCE:0
+SUMMARY:LINTM\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Law of the Internal Market (1889)\; De heer LOYENS Mathias\; FR-1
+ .04\; (Onderwijsgroep)\; Voor groep: D
+UID:1902056_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180323T130000Z
+DTEND:20180323T150000Z
+SEQUENCE:0
+SUMMARY:LINTM\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Law of the Internal Market (1889)\; DOHMEN Laura\; FR-1.03\; (Ond
+ erwijsgroep)\; Voor groep: E
+UID:1902074_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180326T120000Z
+DTEND:20180326T140000Z
+SEQUENCE:658745
+SUMMARY:ONDRV\; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; Prof.dr. COLAERT Veerle\; OG-Aud1\; (Hoorcollege)\; Voor: All
+ e groepen
+UID:1765307_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180327T090000Z
+DTEND:20180327T110000Z
+SEQUENCE:635490
+SUMMARY:LINTM\; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Law of the Internal Market (1889)\; dr. CLAESSENS Sjoerd\; OG-Aud
+ 1\; (Hoorcollege)\; Voor: Alle groepen
+UID:1771697_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180328T070000Z
+DTEND:20180328T090000Z
+SEQUENCE:664256
+SUMMARY:LINTM\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Law of the Internal Market (1889)\; DOHMEN Laura\; FR-1.03\; (Ond
+ erwijsgroep)\; Voor groep: A
+UID:1902005_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180328T070000Z
+DTEND:20180328T090000Z
+SEQUENCE:664257
+SUMMARY:LINTM\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Law of the Internal Market (1889)\; De heer LOYENS Mathias\; FR-1
+ .04\; (Onderwijsgroep)\; Voor groep: B
+UID:1902023_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180328T090000Z
+DTEND:20180328T110000Z
+SEQUENCE:664258
+SUMMARY:LINTM\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Law of the Internal Market (1889)\; DOHMEN Laura\; FR-1.03\; (Ond
+ erwijsgroep)\; Voor groep: C
+UID:1902041_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180328T090000Z
+DTEND:20180328T110000Z
+SEQUENCE:664259
+SUMMARY:LINTM\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Law of the Internal Market (1889)\; De heer LOYENS Mathias\; FR-1
+ .04\; (Onderwijsgroep)\; Voor groep: D
+UID:1902059_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180328T120000Z
+DTEND:20180328T140000Z
+SEQUENCE:664260
+SUMMARY:LINTM\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Law of the Internal Market (1889)\; DOHMEN Laura\; FR-1.03\; (Ond
+ erwijsgroep)\; Voor groep: E
+UID:1902077_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180329T070000Z
+DTEND:20180329T090000Z
+SEQUENCE:664285
+SUMMARY:ONDRV\; FR-1.03\; (Onderwijsgroep)\; Voor groep: A
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; Mevrouw STROOBANTS Nele\; FR-1.03\; (Onderwijsgroep)\; Voor g
+ roep: A
+UID:1902167_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180329T070000Z
+DTEND:20180329T090000Z
+SEQUENCE:664284
+SUMMARY:ONDRV\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; De heer VOS Tom\; FR-1.04\; (Onderwijsgroep)\; Voor groep: B
+UID:1902185_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180329T090000Z
+DTEND:20180329T110000Z
+SEQUENCE:664286
+SUMMARY:ONDRV\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; De heer VOS Tom\; FR-1.04\; (Onderwijsgroep)\; Voor groep: D
+UID:1902203_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180329T090000Z
+DTEND:20180329T110000Z
+SEQUENCE:664288
+SUMMARY:ONDRV\; FR-1.03\; (Onderwijsgroep)\; Voor groep: C
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; Mevrouw STROOBANTS Nele\; FR-1.03\; (Onderwijsgroep)\; Voor g
+ roep: C
+UID:1902239_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180329T120000Z
+DTEND:20180329T140000Z
+SEQUENCE:664289
+SUMMARY:ONDRV\; FR-1.03\; (Onderwijsgroep)\; Voor groep: E
+DESCRIPTION:Ondernemingsrecht\, met inbegrip van het vennootschapsrecht (1888
+ )\; Mevrouw STROOBANTS Nele\; FR-1.03\; (Onderwijsgroep)\; Voor g
+ roep: E
+UID:1902221_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180416T070000Z
+DTEND:20180416T090000Z
+SEQUENCE:664156
+SUMMARY:RCTMS\; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Recht in een multiculturele samenleving (1891)\; dr. RUTTEN Susan
+ \; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+UID:1771748_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180416T140000Z
+DTEND:20180416T160000Z
+SEQUENCE:659630
+SUMMARY:FISRE\; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Fiscaal recht (1890)\; Prof. dr. VAN DE VELDE Elly\; OG-Aud1\; (H
+ oorcollege)\; Voor: Alle groepen
+UID:1771700_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180419T070000Z
+DTEND:20180419T160000Z
+SEQUENCE:656985
+SUMMARY:FISRE\; FR-1.03\,FR-1.04\,FR-1.06\; (Onderwijsgroep)\; Voor: Alle
+  groepen
+DESCRIPTION:Fiscaal recht (1890)\; FR-1.03\,FR-1.04\,FR-1.06\; (Onderwijsgroe
+ p)\; Voor: Alle groepen
+UID:1771724_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180420T070000Z
+DTEND:20180420T160000Z
+SEQUENCE:614818
+SUMMARY:RCTMS\; FR-1.03\,FR-1.04\,FR-1.05\; (Onderwijsgroep)\; Voor: Alle
+  groepen
+DESCRIPTION:Recht in een multiculturele samenleving (1891)\; FR-1.03\,FR-1.04
+ \,FR-1.05\; (Onderwijsgroep)\; Voor: Alle groepen
+UID:1771772_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180423T140000Z
+DTEND:20180423T160000Z
+SEQUENCE:640176
+SUMMARY:FISRE\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Fiscaal recht (1890)\; Prof. dr. VAN DE VELDE Elly\; OG-Aud2\; (H
+ oorcollege)\; Voor: Alle groepen
+UID:1771703_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180424T090000Z
+DTEND:20180424T110000Z
+SEQUENCE:0
+SUMMARY:RCTMS\; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Recht in een multiculturele samenleving (1891)\; dr. RUTTEN Susan
+ \; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+UID:1771751_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180425T070000Z
+DTEND:20180425T160000Z
+SEQUENCE:614819
+SUMMARY:FISRE\; FR-1.03\,FR-1.04\,FR-1.05\; (Onderwijsgroep)\; Voor: Alle
+  groepen
+DESCRIPTION:Fiscaal recht (1890)\; FR-1.03\,FR-1.04\,FR-1.05\; (Onderwijsgroe
+ p)\; Voor: Alle groepen
+UID:1771727_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180426T070000Z
+DTEND:20180426T160000Z
+SEQUENCE:614820
+SUMMARY:RCTMS\; FR-1.03\,FR-1.04\,FR-1.05\; (Onderwijsgroep)\; Voor: Alle
+  groepen
+DESCRIPTION:Recht in een multiculturele samenleving (1891)\; FR-1.03\,FR-1.04
+ \,FR-1.05\; (Onderwijsgroep)\; Voor: Alle groepen
+UID:1771793_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180502T140000Z
+DTEND:20180502T160000Z
+SEQUENCE:640177
+SUMMARY:FISRE\; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Fiscaal recht (1890)\; Prof. dr. VAN DE VELDE Elly\; OG-Aud1\; (H
+ oorcollege)\; Voor: Alle groepen
+UID:1771718_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180503T090000Z
+DTEND:20180503T110000Z
+SEQUENCE:665594
+SUMMARY:RCTMS\; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Recht in een multiculturele samenleving (1891)\; dr. RUTTEN Susan
+ \; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+UID:1771754_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180504T070000Z
+DTEND:20180504T160000Z
+SEQUENCE:614812
+SUMMARY:FISRE\; FR-1.03\,FR-1.04\,FR-1.05\; (Onderwijsgroep)\; Voor: Alle
+  groepen
+DESCRIPTION:Fiscaal recht (1890)\; FR-1.03\,FR-1.04\,FR-1.05\; (Onderwijsgroe
+ p)\; Voor: Alle groepen
+UID:1771730_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180509T070000Z
+DTEND:20180509T160000Z
+SEQUENCE:0
+SUMMARY:RCTMS\; FR-1.03\,FR-1.04\,FR-1.05\; (Onderwijsgroep)\; Voor: Alle
+  groepen
+DESCRIPTION:Recht in een multiculturele samenleving (1891)\; FR-1.03\,FR-1.04
+ \,FR-1.05\; (Onderwijsgroep)\; Voor: Alle groepen
+UID:1771790_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180514T130000Z
+DTEND:20180514T140000Z
+SEQUENCE:640182
+SUMMARY:EVALUATIEVERGADERING\; Fiscaal recht\; FR-0.01\; Voor: Alle groep
+ en
+DESCRIPTION: ()\; FR-0.01\; Voor: Alle groepen
+UID:1815470_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180514T140000Z
+DTEND:20180514T160000Z
+SEQUENCE:640178
+SUMMARY:FISRE\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Fiscaal recht (1890)\; Prof. dr. VAN DE VELDE Elly\; OG-Aud2\; (H
+ oorcollege)\; Voor: Alle groepen
+UID:1771709_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180515T090000Z
+DTEND:20180515T110000Z
+SEQUENCE:628492
+SUMMARY:RCTMS\; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Recht in een multiculturele samenleving (1891)\; dr. RUTTEN Susan
+ \; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+UID:1771757_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180515T110000Z
+DTEND:20180515T120000Z
+SEQUENCE:628494
+SUMMARY:EVALUATIEVERGADERING\; Recht in een multiculturele samenleving\; 
+ FR-1.03\; \; Voor: Alle groepen
+UID:1815473_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180517T070000Z
+DTEND:20180517T160000Z
+SEQUENCE:0
+SUMMARY:FISRE\; FR-1.03\,FR-1.04\,FR-1.05\; (Onderwijsgroep)\; Voor: Alle
+  groepen
+DESCRIPTION:Fiscaal recht (1890)\; FR-1.03\,FR-1.04\,FR-1.05\; (Onderwijsgroe
+ p)\; Voor: Alle groepen
+UID:1771733_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180518T070000Z
+DTEND:20180518T160000Z
+SEQUENCE:0
+SUMMARY:RCTMS\; FR-1.03\,FR-1.04\,FR-1.05\; (Onderwijsgroep)\; Voor: Alle
+  groepen
+DESCRIPTION:Recht in een multiculturele samenleving (1891)\; FR-1.03\,FR-1.04
+ \,FR-1.05\; (Onderwijsgroep)\; Voor: Alle groepen
+UID:1771775_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180522T140000Z
+DTEND:20180522T160000Z
+SEQUENCE:640179
+SUMMARY:FISRE\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Fiscaal recht (1890)\; Prof. dr. VAN DE VELDE Elly\; OG-Aud2\; (H
+ oorcollege)\; Voor: Alle groepen
+UID:1771721_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180523T090000Z
+DTEND:20180523T110000Z
+SEQUENCE:0
+SUMMARY:RCTMS\; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Recht in een multiculturele samenleving (1891)\; dr. RUTTEN Susan
+ \; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+UID:1771769_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180524T070000Z
+DTEND:20180524T160000Z
+SEQUENCE:0
+SUMMARY:FISRE\; FR-1.03\,FR-1.04\,FR-1.05\; (Onderwijsgroep)\; Voor: Alle
+  groepen
+DESCRIPTION:Fiscaal recht (1890)\; FR-1.03\,FR-1.04\,FR-1.05\; (Onderwijsgroe
+ p)\; Voor: Alle groepen
+UID:1771736_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180525T070000Z
+DTEND:20180525T160000Z
+SEQUENCE:0
+SUMMARY:RCTMS\; FR-1.03\,FR-1.04\,FR-1.05\; (Onderwijsgroep)\; Voor: Alle
+  groepen
+DESCRIPTION:Recht in een multiculturele samenleving (1891)\; FR-1.03\,FR-1.04
+ \,FR-1.05\; (Onderwijsgroep)\; Voor: Alle groepen
+UID:1771778_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180528T140000Z
+DTEND:20180528T160000Z
+SEQUENCE:640180
+SUMMARY:FISRE\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Fiscaal recht (1890)\; Prof. dr. VAN DE VELDE Elly\; OG-Aud2\; (H
+ oorcollege)\; Voor: Alle groepen
+UID:1771712_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180529T090000Z
+DTEND:20180529T110000Z
+SEQUENCE:0
+SUMMARY:RCTMS\; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Recht in een multiculturele samenleving (1891)\; dr. RUTTEN Susan
+ \; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+UID:1771760_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180531T070000Z
+DTEND:20180531T160000Z
+SEQUENCE:0
+SUMMARY:FISRE\; FR-1.03\,FR-1.04\,FR-1.05\; (Onderwijsgroep)\; Voor: Alle
+  groepen
+DESCRIPTION:Fiscaal recht (1890)\; FR-1.03\,FR-1.04\,FR-1.05\; (Onderwijsgroe
+ p)\; Voor: Alle groepen
+UID:1771739_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180601T070000Z
+DTEND:20180601T160000Z
+SEQUENCE:0
+SUMMARY:RCTMS\; FR-1.03\,FR-1.04\,FR-1.05\; (Onderwijsgroep)\; Voor: Alle
+  groepen
+DESCRIPTION:Recht in een multiculturele samenleving (1891)\; FR-1.03\,FR-1.04
+ \,FR-1.05\; (Onderwijsgroep)\; Voor: Alle groepen
+UID:1771781_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180604T140000Z
+DTEND:20180604T160000Z
+SEQUENCE:640181
+SUMMARY:FISRE\; OG-Aud2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Fiscaal recht (1890)\; Prof. dr. VAN DE VELDE Elly\; OG-Aud2\; (H
+ oorcollege)\; Voor: Alle groepen
+UID:1771715_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180605T090000Z
+DTEND:20180605T110000Z
+SEQUENCE:0
+SUMMARY:RCTMS\; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Recht in een multiculturele samenleving (1891)\; dr. RUTTEN Susan
+ \; OG-Aud1\; (Hoorcollege)\; Voor: Alle groepen
+UID:1771763_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180607T070000Z
+DTEND:20180607T160000Z
+SEQUENCE:648787
+SUMMARY:FISRE\; FR-1.03\,FR-1.04\,FR-1.06\; (Onderwijsgroep)\; Voor: Alle
+  groepen
+DESCRIPTION:Fiscaal recht (1890)\; FR-1.03\,FR-1.04\,FR-1.06\; (Onderwijsgroe
+ p)\; Voor: Alle groepen
+UID:1771742_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180608T070000Z
+DTEND:20180608T160000Z
+SEQUENCE:0
+SUMMARY:RCTMS\; FR-1.03\,FR-1.04\,FR-1.05\; (Onderwijsgroep)\; Voor: Alle
+  groepen
+DESCRIPTION:Recht in een multiculturele samenleving (1891)\; FR-1.03\,FR-1.04
+ \,FR-1.05\; (Onderwijsgroep)\; Voor: Alle groepen
+UID:1771784_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210154Z
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

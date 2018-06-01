@@ -1,0 +1,11 @@
+#!/bin/bash
+
+script_name=$0
+script_directory=$(dirname "$0")
+user_directory=$(pwd)
+cd $script_directory
+
+cat ../db_data/$1 | docker exec -i caltool_postgres_1 psql -U postgres
+
+cd $user_directory
+

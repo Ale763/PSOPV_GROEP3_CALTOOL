@@ -1,0 +1,5925 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//uhasselt/lesroosters//NONSGML v1.0//EN
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UHasselt Uurroosters
+X-WR-TIMEZONE:Europe/Brussels
+X-WR-CALDESC:
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+DTSTART:20170918T070000Z
+DTEND:20170918T133000Z
+SEQUENCE:636528
+SUMMARY:" Live Project "tot 17 uur\; Voor: Alle groepen
+DESCRIPTION: ()\; Voor: Alle groepen
+UID:1832507_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210025Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170918T140000Z
+DTEND:20170918T153000Z
+SEQUENCE:634723
+SUMMARY:   \; \;      OPENINGSLEZING\; \; \; \; "Auditorium Louis Verhaeg
+ en " (OG-Aud1)\; Campus Hasselt\; \; Voor: Alle groepen
+UID:1826834_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210025Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170919T070000Z
+DTEND:20170919T150000Z
+SEQUENCE:636534
+SUMMARY:" Live Project "\; Voor groepen: 1\, 2
+DESCRIPTION: ()\; Voor groepen: 1\, 2
+UID:1832510_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210025Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170919T070000Z
+DTEND:20170919T150000Z
+SEQUENCE:636536
+SUMMARY:"Intakegesprekken materproef "\; Voor groepen: 3\, 4
+UID:1832522_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210025Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170920T070000Z
+DTEND:20170920T150000Z
+SEQUENCE:636530
+SUMMARY:" Live Project "\; Voor: Alle groepen
+DESCRIPTION: ()\; Voor: Alle groepen
+UID:1832513_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210025Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170921T070000Z
+DTEND:20170921T150000Z
+SEQUENCE:636531
+SUMMARY:" Live Project "\; Voor: Alle groepen
+DESCRIPTION: ()\; Voor: Alle groepen
+UID:1832516_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210025Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170922T070000Z
+DTEND:20170922T150000Z
+SEQUENCE:636532
+SUMMARY:" Live Project "\; Voor: Alle groepen
+DESCRIPTION: ()\; Voor: Alle groepen
+UID:1832519_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210025Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170925T063000Z
+DTEND:20170925T083000Z
+SEQUENCE:632675
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823009_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210025Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170925T063000Z
+DTEND:20170925T083000Z
+SEQUENCE:639732
+SUMMARY:SEMMC\; (Werkzitting)\; \; Design for more (E-B09)\; Genius Loci 
+ (B1)\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1823024_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210025Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170925T063000Z
+DTEND:20170925T083000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823078_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170925T083000Z
+DTEND:20170925T103000Z
+SEQUENCE:632672
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1822997_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170925T083000Z
+DTEND:20170925T103000Z
+SEQUENCE:632676
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823012_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170925T083000Z
+DTEND:20170925T103000Z
+SEQUENCE:639733
+SUMMARY:SEMMC\; (Werkzitting)\; \; Design for more (E-B09)\; Genius Loci 
+ (B1)\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830623_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170925T113000Z
+DTEND:20170925T133000Z
+SEQUENCE:632673
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823000_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170925T113000Z
+DTEND:20170925T133000Z
+SEQUENCE:632677
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823015_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170925T113000Z
+DTEND:20170925T133000Z
+SEQUENCE:639734
+SUMMARY:SEMMC\; (Werkzitting)\; \; Design for more (E-B09)\; Genius Loci 
+ (B1)\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830626_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170925T133000Z
+DTEND:20170925T153000Z
+SEQUENCE:632674
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823003_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170925T133000Z
+DTEND:20170925T153000Z
+SEQUENCE:632680
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823018_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170925T133000Z
+DTEND:20170925T153000Z
+SEQUENCE:639735
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830629_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170926T083000Z
+DTEND:20170926T103000Z
+SEQUENCE:0
+SUMMARY:BR/BE\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Bouwrecht / Beroepsethiek (2356)\; De heer DE GENDT Tom\, Prof. d
+ r. DRAYE Anne Mie\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+UID:1823639_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T063000Z
+DTEND:20170928T083000Z
+SEQUENCE:632804
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823711_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T063000Z
+DTEND:20170928T083000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823816_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T083000Z
+DTEND:20170928T103000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823717_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T083000Z
+DTEND:20170928T103000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823819_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T113000Z
+DTEND:20170928T133000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823720_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T113000Z
+DTEND:20170928T133000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823822_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T113000Z
+DTEND:20170928T133000Z
+SEQUENCE:638206
+SUMMARY:\; \; "Lecture by BUUR"\; \; E-B5\; Voor groep: 3
+UID:1835552_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T133000Z
+DTEND:20170928T153000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823723_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T133000Z
+DTEND:20170928T153000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823825_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T063000Z
+DTEND:20170929T083000Z
+SEQUENCE:632809
+SUMMARY:MAN 5\; E-B5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-B5\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1823951_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T083000Z
+DTEND:20170929T103000Z
+SEQUENCE:632810
+SUMMARY:MAN 5\; E-B5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-B5\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1823954_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T113000Z
+DTEND:20170929T133000Z
+SEQUENCE:632811
+SUMMARY:MAN 5\; E-B5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-B5\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1823957_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T133000Z
+DTEND:20170929T153000Z
+SEQUENCE:632812
+SUMMARY:MAN 5\; E-B5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-B5\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1823960_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T063000Z
+DTEND:20171002T083000Z
+SEQUENCE:632670
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1822994_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T063000Z
+DTEND:20171002T083000Z
+SEQUENCE:632724
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823021_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T063000Z
+DTEND:20171002T083000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823186_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T063000Z
+DTEND:20171002T083000Z
+SEQUENCE:639736
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1832279_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T083000Z
+DTEND:20171002T103000Z
+SEQUENCE:632725
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823036_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T083000Z
+DTEND:20171002T103000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823081_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T083000Z
+DTEND:20171002T103000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823222_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T083000Z
+DTEND:20171002T103000Z
+SEQUENCE:639737
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1832276_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T113000Z
+DTEND:20171002T133000Z
+SEQUENCE:632727
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823039_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T113000Z
+DTEND:20171002T133000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823117_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T113000Z
+DTEND:20171002T133000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823261_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T113000Z
+DTEND:20171002T133000Z
+SEQUENCE:639738
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1832270_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T113000Z
+DTEND:20171002T133000Z
+SEQUENCE:639739
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1832273_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T133000Z
+DTEND:20171002T153000Z
+SEQUENCE:632736
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823042_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T133000Z
+DTEND:20171002T153000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823150_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T133000Z
+DTEND:20171002T153000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823300_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171002T133000Z
+DTEND:20171002T153000Z
+SEQUENCE:639741
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (B9)\; Genius Loci (B1)\;
+  Tactics (A1)\; Passage / Montage B6\; \; Voor groep: 4
+UID:1832267_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171003T083000Z
+DTEND:20171003T103000Z
+SEQUENCE:0
+SUMMARY:BR/BE\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Bouwrecht / Beroepsethiek (2356)\; De heer DE GENDT Tom\, Prof. d
+ r. DRAYE Anne Mie\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+UID:1823642_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171005T063000Z
+DTEND:20171005T083000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823828_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171005T083000Z
+DTEND:20171005T103000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823858_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171005T113000Z
+DTEND:20171005T133000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823888_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171005T133000Z
+DTEND:20171005T153000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823918_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T063000Z
+DTEND:20171009T083000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823045_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210026Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T063000Z
+DTEND:20171009T083000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823189_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T063000Z
+DTEND:20171009T083000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823504_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T063000Z
+DTEND:20171009T083000Z
+SEQUENCE:639742
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1832288_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T083000Z
+DTEND:20171009T103000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823084_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T083000Z
+DTEND:20171009T103000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823225_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T083000Z
+DTEND:20171009T103000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823534_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T083000Z
+DTEND:20171009T103000Z
+SEQUENCE:639743
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1832291_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T113000Z
+DTEND:20171009T133000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823120_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T113000Z
+DTEND:20171009T133000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823264_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T113000Z
+DTEND:20171009T133000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823567_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T113000Z
+DTEND:20171009T133000Z
+SEQUENCE:639744
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830869_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T133000Z
+DTEND:20171009T153000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823153_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T133000Z
+DTEND:20171009T153000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823303_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T133000Z
+DTEND:20171009T153000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823600_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T133000Z
+DTEND:20171009T153000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823609_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171009T133000Z
+DTEND:20171009T153000Z
+SEQUENCE:639745
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830872_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171010T083000Z
+DTEND:20171010T103000Z
+SEQUENCE:632797
+SUMMARY:BR/BE\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Bouwrecht / Beroepsethiek (2356)\; De heer DE GENDT Tom\, Prof. d
+ r. DRAYE Anne Mie\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+UID:1823645_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171010T113000Z
+DTEND:20171010T133000Z
+SEQUENCE:0
+SUMMARY:BR/BE\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Bouwrecht / Beroepsethiek (2356)\; De heer DE GENDT Tom\, Prof. d
+ r. DRAYE Anne Mie\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+UID:1823675_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171012T063000Z
+DTEND:20171012T083000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823726_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171012T063000Z
+DTEND:20171012T083000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823831_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171012T083000Z
+DTEND:20171012T103000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823747_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171012T083000Z
+DTEND:20171012T103000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823861_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171012T113000Z
+DTEND:20171012T133000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823768_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171012T113000Z
+DTEND:20171012T133000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823891_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171012T133000Z
+DTEND:20171012T153000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823795_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171012T133000Z
+DTEND:20171012T153000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823921_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171013T063000Z
+DTEND:20171013T083000Z
+SEQUENCE:0
+SUMMARY:MAN 5\; E-B5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-B5\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1823963_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171013T083000Z
+DTEND:20171013T103000Z
+SEQUENCE:0
+SUMMARY:MAN 5\; E-B5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-B5\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1823981_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171013T113000Z
+DTEND:20171013T133000Z
+SEQUENCE:0
+SUMMARY:MAN 5\; E-B5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-B5\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1823996_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171013T133000Z
+DTEND:20171013T153000Z
+SEQUENCE:0
+SUMMARY:MAN 5\; E-B5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-B5\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1824014_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T063000Z
+DTEND:20171016T083000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823048_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T063000Z
+DTEND:20171016T083000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823192_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T063000Z
+DTEND:20171016T083000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823507_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T063000Z
+DTEND:20171016T083000Z
+SEQUENCE:639746
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830875_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T083000Z
+DTEND:20171016T103000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823087_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T083000Z
+DTEND:20171016T103000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823228_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T083000Z
+DTEND:20171016T103000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823537_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T083000Z
+DTEND:20171016T103000Z
+SEQUENCE:639747
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830878_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T113000Z
+DTEND:20171016T133000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823123_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T113000Z
+DTEND:20171016T133000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823267_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T113000Z
+DTEND:20171016T133000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823570_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T113000Z
+DTEND:20171016T133000Z
+SEQUENCE:639748
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830881_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T133000Z
+DTEND:20171016T153000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823156_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T133000Z
+DTEND:20171016T153000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823306_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T133000Z
+DTEND:20171016T153000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823603_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T133000Z
+DTEND:20171016T153000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823606_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T133000Z
+DTEND:20171016T153000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823612_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171016T133000Z
+DTEND:20171016T153000Z
+SEQUENCE:639749
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830884_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171017T083000Z
+DTEND:20171017T103000Z
+SEQUENCE:632796
+SUMMARY:BR/BE\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Bouwrecht / Beroepsethiek (2356)\; De heer DE GENDT Tom\, Prof. d
+ r. DRAYE Anne Mie\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+UID:1823648_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210027Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171017T113000Z
+DTEND:20171017T133000Z
+SEQUENCE:632798
+SUMMARY:BR/BE\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Bouwrecht / Beroepsethiek (2356)\; De heer DE GENDT Tom\, Prof. d
+ r. DRAYE Anne Mie\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+UID:1823678_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171019T063000Z
+DTEND:20171019T083000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823834_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171019T083000Z
+DTEND:20171019T103000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823864_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171019T113000Z
+DTEND:20171019T133000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823894_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171019T133000Z
+DTEND:20171019T153000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823924_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171019T153000Z
+DTEND:20171019T180000Z
+SEQUENCE:640513
+SUMMARY:\; \; "internationale avond/ international evening fac ARK"\; \; 
+ van 17 tot 20u30 \; \; Agora Gebouw E\; \; \; Voor: Alle groepen
+UID:1839086_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171020T063000Z
+DTEND:20171020T083000Z
+SEQUENCE:0
+SUMMARY:MAN 5\; E-B5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-B5\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1823966_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171020T083000Z
+DTEND:20171020T103000Z
+SEQUENCE:0
+SUMMARY:MAN 5\; E-B5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-B5\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1823984_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171020T113000Z
+DTEND:20171020T133000Z
+SEQUENCE:0
+SUMMARY:MAN 5\; E-B5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-B5\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1823999_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171020T133000Z
+DTEND:20171020T153000Z
+SEQUENCE:0
+SUMMARY:MAN 5\; E-B5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-B5\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1824017_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171023T063000Z
+DTEND:20171023T083000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823051_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171023T063000Z
+DTEND:20171023T083000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823195_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171023T063000Z
+DTEND:20171023T083000Z
+SEQUENCE:639750
+SUMMARY:Design for more (E-B09)\; Genius Loci (B3)\; Tactics (A1)\; Passa
+ ge /Montage (B6)\; Voor groep: 4
+UID:1830887_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171023T063000Z
+DTEND:20171023T160000Z
+SEQUENCE:0
+SUMMARY:SEM B\; Studiereis Finland\; Voor groep: 5
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; Studiereis Finland\; Voor groep: 5
+UID:1822979_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171023T083000Z
+DTEND:20171023T103000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823090_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171023T083000Z
+DTEND:20171023T103000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823231_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171023T083000Z
+DTEND:20171023T103000Z
+SEQUENCE:639751
+SUMMARY:Design for more (E-B09)\; Genius Loci (B3)\; Tactics (A1)\; Passa
+ ge /Montage (B6)\; Voor groep: 4
+UID:1830890_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171023T113000Z
+DTEND:20171023T133000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823126_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171023T113000Z
+DTEND:20171023T133000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823270_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171023T113000Z
+DTEND:20171023T133000Z
+SEQUENCE:639752
+SUMMARY:Design for more (E-B09)\; Genius Loci (B3)\; Tactics (A1)\; Passa
+ ge /Montage (B6)\; Voor groep: 4
+UID:1830893_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171023T133000Z
+DTEND:20171023T153000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823159_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171023T133000Z
+DTEND:20171023T153000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823309_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171023T133000Z
+DTEND:20171023T153000Z
+SEQUENCE:0
+SUMMARY:SEMMC\; (Werkzitting)\; Voor groep: 4
+DESCRIPTION:Seminarie Mens en Cultuur (2361)\; Arch. BERNAKIEWICZ Iwert\, dr.
+ arch. HERSSENS Jasmien\, Prof.arch.int.arch. HEYNICKX Saidja\, Ar
+ ch. IELEGEMS Elke\, Prof. dr. PINT Kris\, dr. PETERMANS Ann\, dr.
+  QUARTIER Katelijn\, dr.ir.arch. ROES Remco\; (Werkzitting)\; Voo
+ r groep: 4
+UID:1830896_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171023T133000Z
+DTEND:20171023T153000Z
+SEQUENCE:639753
+SUMMARY:Design for more (E-B09)\; Genius Loci (B3)\; Tactics (A1)\; Passa
+ ge /Montage (B6)\; Voor groep: 4
+UID:1830899_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171023T133000Z
+DTEND:20171023T153000Z
+SEQUENCE:639755
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830902_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171024T063000Z
+DTEND:20171024T160000Z
+SEQUENCE:0
+SUMMARY:SEM B\; Studiereis Finland\; Voor groep: 5
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; Studiereis Finland\; Voor groep: 5
+UID:1822982_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171024T083000Z
+DTEND:20171024T103000Z
+SEQUENCE:0
+SUMMARY:BR/BE\; E-C2\; (Hoorcollege)\; Voor groepen: 1\, 2\, 3\, 4
+DESCRIPTION:Bouwrecht / Beroepsethiek (2356)\; De heer DE GENDT Tom\, Prof. d
+ r. DRAYE Anne Mie\; E-C2\; (Hoorcollege)\; Voor groepen: 1\, 2\, 
+ 3\, 4
+UID:1823672_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171024T113000Z
+DTEND:20171024T133000Z
+SEQUENCE:0
+SUMMARY:BR/BE\; E-C2\; (Hoorcollege)\; Voor groepen: 1\, 2\, 3\, 4
+DESCRIPTION:Bouwrecht / Beroepsethiek (2356)\; De heer DE GENDT Tom\, Prof. d
+ r. DRAYE Anne Mie\; E-C2\; (Hoorcollege)\; Voor groepen: 1\, 2\, 
+ 3\, 4
+UID:1823681_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171025T063000Z
+DTEND:20171025T160000Z
+SEQUENCE:0
+SUMMARY:SEM B\; Studiereis Finland\; Voor groep: 5
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; Studiereis Finland\; Voor groep: 5
+UID:1822985_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171026T063000Z
+DTEND:20171026T083000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823729_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171026T063000Z
+DTEND:20171026T083000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823837_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171026T063000Z
+DTEND:20171026T160000Z
+SEQUENCE:0
+SUMMARY:SEM B\; Studiereis Finland\; Voor groep: 5
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; Studiereis Finland\; Voor groep: 5
+UID:1822988_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171026T083000Z
+DTEND:20171026T103000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823750_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171026T083000Z
+DTEND:20171026T103000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823867_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171026T113000Z
+DTEND:20171026T133000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823771_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171026T113000Z
+DTEND:20171026T133000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823897_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171026T133000Z
+DTEND:20171026T153000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823798_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171026T133000Z
+DTEND:20171026T153000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823927_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171027T063000Z
+DTEND:20171027T160000Z
+SEQUENCE:0
+SUMMARY:SEM B\; Studiereis Finland\; Voor groep: 5
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; Studiereis Finland\; Voor groep: 5
+UID:1822991_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171030T073000Z
+DTEND:20171030T093000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823054_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171030T073000Z
+DTEND:20171030T093000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823198_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171030T073000Z
+DTEND:20171030T093000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823510_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171030T073000Z
+DTEND:20171030T093000Z
+SEQUENCE:639754
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830914_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171030T093000Z
+DTEND:20171030T113000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823093_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171030T093000Z
+DTEND:20171030T113000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823234_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210028Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171030T093000Z
+DTEND:20171030T113000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823543_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171030T093000Z
+DTEND:20171030T113000Z
+SEQUENCE:639756
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830911_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171030T123000Z
+DTEND:20171030T143000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823129_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171030T123000Z
+DTEND:20171030T143000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823273_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171030T123000Z
+DTEND:20171030T143000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823573_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171030T123000Z
+DTEND:20171030T143000Z
+SEQUENCE:639757
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830908_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171030T143000Z
+DTEND:20171030T163000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823162_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171030T143000Z
+DTEND:20171030T163000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823312_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171030T143000Z
+DTEND:20171030T163000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823615_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171030T143000Z
+DTEND:20171030T163000Z
+SEQUENCE:639758
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830905_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T073000Z
+DTEND:20171106T093000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823057_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T073000Z
+DTEND:20171106T093000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823201_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T073000Z
+DTEND:20171106T093000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823513_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T073000Z
+DTEND:20171106T093000Z
+SEQUENCE:639759
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830917_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T093000Z
+DTEND:20171106T113000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823096_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T093000Z
+DTEND:20171106T113000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823237_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T093000Z
+DTEND:20171106T113000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823546_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T093000Z
+DTEND:20171106T113000Z
+SEQUENCE:639760
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830920_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T123000Z
+DTEND:20171106T143000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823132_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T123000Z
+DTEND:20171106T143000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823276_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T123000Z
+DTEND:20171106T143000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823576_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T123000Z
+DTEND:20171106T143000Z
+SEQUENCE:639761
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830923_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T143000Z
+DTEND:20171106T163000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823165_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T143000Z
+DTEND:20171106T163000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823315_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T143000Z
+DTEND:20171106T163000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823618_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171106T143000Z
+DTEND:20171106T163000Z
+SEQUENCE:639763
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830926_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171107T093000Z
+DTEND:20171107T113000Z
+SEQUENCE:0
+SUMMARY:BR/BE\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Bouwrecht / Beroepsethiek (2356)\; De heer DE GENDT Tom\, Prof. d
+ r. DRAYE Anne Mie\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+UID:1823651_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171107T123000Z
+DTEND:20171107T143000Z
+SEQUENCE:0
+SUMMARY:BR/BE\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Bouwrecht / Beroepsethiek (2356)\; De heer DE GENDT Tom\, Prof. d
+ r. DRAYE Anne Mie\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+UID:1823684_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171109T073000Z
+DTEND:20171109T093000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823732_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171109T073000Z
+DTEND:20171109T093000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823840_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171109T093000Z
+DTEND:20171109T113000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823753_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171109T093000Z
+DTEND:20171109T113000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823870_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171109T123000Z
+DTEND:20171109T143000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823774_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171109T123000Z
+DTEND:20171109T143000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823900_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171109T143000Z
+DTEND:20171109T163000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823801_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171109T143000Z
+DTEND:20171109T163000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823930_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171110T073000Z
+DTEND:20171110T093000Z
+SEQUENCE:647386
+SUMMARY:MAN 5\; E-A03\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-A03\; (Ho
+ orcollege)\; Voor: Alle groepen
+UID:1823969_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171110T093000Z
+DTEND:20171110T113000Z
+SEQUENCE:647387
+SUMMARY:MAN 5\; E-A03\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-A03\; (Ho
+ orcollege)\; Voor: Alle groepen
+UID:1823987_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171110T123000Z
+DTEND:20171110T143000Z
+SEQUENCE:647388
+SUMMARY:MAN 5\; E-A03\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-A03\; (Ho
+ orcollege)\; Voor: Alle groepen
+UID:1824002_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171110T143000Z
+DTEND:20171110T163000Z
+SEQUENCE:647389
+SUMMARY:MAN 5\; E-A03\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-A03\; (Ho
+ orcollege)\; Voor: Alle groepen
+UID:1824020_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T073000Z
+DTEND:20171113T093000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823060_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T073000Z
+DTEND:20171113T093000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823204_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T073000Z
+DTEND:20171113T093000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823516_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T073000Z
+DTEND:20171113T093000Z
+SEQUENCE:639764
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830941_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T093000Z
+DTEND:20171113T113000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823099_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T093000Z
+DTEND:20171113T113000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823240_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T093000Z
+DTEND:20171113T113000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823549_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T093000Z
+DTEND:20171113T113000Z
+SEQUENCE:639765
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830938_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210029Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T123000Z
+DTEND:20171113T143000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823135_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T123000Z
+DTEND:20171113T143000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823279_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T123000Z
+DTEND:20171113T143000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823579_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T123000Z
+DTEND:20171113T143000Z
+SEQUENCE:639766
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830935_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T143000Z
+DTEND:20171113T163000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823168_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T143000Z
+DTEND:20171113T163000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823318_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T143000Z
+DTEND:20171113T163000Z
+SEQUENCE:639767
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1823459_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T143000Z
+DTEND:20171113T163000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823621_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T143000Z
+DTEND:20171113T163000Z
+SEQUENCE:639768
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830929_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171113T143000Z
+DTEND:20171113T163000Z
+SEQUENCE:639769
+SUMMARY:Design for more (E-B09)\; Genius Loci (B3)\; Tactics (A1)\; Passa
+ ge /Montage (B6)\; Voor groep: 4
+UID:1830932_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171114T093000Z
+DTEND:20171114T113000Z
+SEQUENCE:0
+SUMMARY:BR/BE\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Bouwrecht / Beroepsethiek (2356)\; De heer DE GENDT Tom\, Prof. d
+ r. DRAYE Anne Mie\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+UID:1823654_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171114T123000Z
+DTEND:20171114T143000Z
+SEQUENCE:0
+SUMMARY:BR/BE\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Bouwrecht / Beroepsethiek (2356)\; De heer DE GENDT Tom\, Prof. d
+ r. DRAYE Anne Mie\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+UID:1823687_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171116T073000Z
+DTEND:20171116T093000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823735_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171116T073000Z
+DTEND:20171116T093000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823843_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171116T093000Z
+DTEND:20171116T113000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823756_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171116T093000Z
+DTEND:20171116T113000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823873_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171116T123000Z
+DTEND:20171116T143000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823777_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171116T123000Z
+DTEND:20171116T143000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823903_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171116T143000Z
+DTEND:20171116T163000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823804_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171116T143000Z
+DTEND:20171116T163000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823933_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171117T073000Z
+DTEND:20171117T093000Z
+SEQUENCE:0
+SUMMARY:MAN 5\; E-B5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-B5\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1823972_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171117T093000Z
+DTEND:20171117T113000Z
+SEQUENCE:0
+SUMMARY:MAN 5\; E-B5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-B5\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1823990_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171117T123000Z
+DTEND:20171117T143000Z
+SEQUENCE:0
+SUMMARY:MAN 5\; E-B5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-B5\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1824005_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171117T143000Z
+DTEND:20171117T163000Z
+SEQUENCE:0
+SUMMARY:MAN 5\; E-B5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-B5\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1824023_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171120T073000Z
+DTEND:20171120T093000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823063_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171120T073000Z
+DTEND:20171120T093000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823207_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171120T073000Z
+DTEND:20171120T093000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823519_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171120T073000Z
+DTEND:20171120T093000Z
+SEQUENCE:639770
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830944_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171120T073000Z
+DTEND:20171120T093000Z
+SEQUENCE:639771
+SUMMARY:Design for more (E-B09)\; Genius Loci (B3)\; Tactics (A1)\; Passa
+ ge /Montage (B6)\; Voor groep: 4
+UID:1830947_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171120T093000Z
+DTEND:20171120T113000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823102_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171120T093000Z
+DTEND:20171120T113000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823243_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171120T093000Z
+DTEND:20171120T113000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823552_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171120T093000Z
+DTEND:20171120T113000Z
+SEQUENCE:639772
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830953_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171120T123000Z
+DTEND:20171120T143000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823138_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171120T123000Z
+DTEND:20171120T143000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823282_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171120T123000Z
+DTEND:20171120T143000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823582_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171120T123000Z
+DTEND:20171120T143000Z
+SEQUENCE:639773
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830950_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171120T143000Z
+DTEND:20171120T163000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823171_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171120T143000Z
+DTEND:20171120T163000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823321_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171120T143000Z
+DTEND:20171120T163000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823624_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171120T143000Z
+DTEND:20171120T163000Z
+SEQUENCE:639774
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830956_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171121T093000Z
+DTEND:20171121T113000Z
+SEQUENCE:0
+SUMMARY:BR/BE\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Bouwrecht / Beroepsethiek (2356)\; De heer DE GENDT Tom\, Prof. d
+ r. DRAYE Anne Mie\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+UID:1823657_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171123T073000Z
+DTEND:20171123T093000Z
+SEQUENCE:632800
+SUMMARY:MAN 5\; E-B4\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-B4\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1823693_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171123T093000Z
+DTEND:20171123T113000Z
+SEQUENCE:0
+SUMMARY:MAN 5\; E-B4\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-B4\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1823696_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171123T123000Z
+DTEND:20171123T143000Z
+SEQUENCE:0
+SUMMARY:MAN 5\; E-B4\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-B4\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1823699_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171123T143000Z
+DTEND:20171123T163000Z
+SEQUENCE:0
+SUMMARY:MAN 5\; E-B4\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-B4\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1823702_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171124T073000Z
+DTEND:20171124T093000Z
+SEQUENCE:0
+SUMMARY:MAN 5\; E-B5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-B5\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1823975_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171124T093000Z
+DTEND:20171124T113000Z
+SEQUENCE:0
+SUMMARY:MAN 5\; E-B5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-B5\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1823993_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171124T123000Z
+DTEND:20171124T143000Z
+SEQUENCE:0
+SUMMARY:MAN 5\; E-B5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-B5\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1824011_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171124T143000Z
+DTEND:20171124T163000Z
+SEQUENCE:0
+SUMMARY:MAN 5\; E-B5\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Management 5 (2357)\; Prof. dr. ir. DE BUYST Didier\; E-B5\; (Hoo
+ rcollege)\; Voor: Alle groepen
+UID:1824026_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T073000Z
+DTEND:20171127T093000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823066_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T073000Z
+DTEND:20171127T093000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823210_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T073000Z
+DTEND:20171127T093000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823522_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T073000Z
+DTEND:20171127T093000Z
+SEQUENCE:639775
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830968_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210030Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T093000Z
+DTEND:20171127T113000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823105_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T093000Z
+DTEND:20171127T113000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823246_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T093000Z
+DTEND:20171127T113000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823555_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T093000Z
+DTEND:20171127T113000Z
+SEQUENCE:639776
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830965_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T123000Z
+DTEND:20171127T143000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823141_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T123000Z
+DTEND:20171127T143000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823285_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T123000Z
+DTEND:20171127T143000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823585_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T123000Z
+DTEND:20171127T143000Z
+SEQUENCE:639777
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830962_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T143000Z
+DTEND:20171127T163000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823174_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T143000Z
+DTEND:20171127T163000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823324_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T143000Z
+DTEND:20171127T163000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823627_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171127T143000Z
+DTEND:20171127T163000Z
+SEQUENCE:639778
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830959_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171128T080000Z
+DTEND:20171128T120000Z
+SEQUENCE:650708
+SUMMARY:BR/BE\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Bouwrecht / Beroepsethiek (2356)\; De heer DE GENDT Tom\, Prof. d
+ r. DRAYE Anne Mie\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+UID:1823660_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171130T073000Z
+DTEND:20171130T093000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823846_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171130T093000Z
+DTEND:20171130T113000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823876_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171130T123000Z
+DTEND:20171130T143000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823906_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171130T143000Z
+DTEND:20171130T163000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823936_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T073000Z
+DTEND:20171204T093000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823069_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T073000Z
+DTEND:20171204T093000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823213_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T073000Z
+DTEND:20171204T093000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823525_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T073000Z
+DTEND:20171204T093000Z
+SEQUENCE:639779
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830971_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T093000Z
+DTEND:20171204T113000Z
+SEQUENCE:632719
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823108_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T093000Z
+DTEND:20171204T113000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823249_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T093000Z
+DTEND:20171204T113000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823252_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T093000Z
+DTEND:20171204T113000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823558_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T093000Z
+DTEND:20171204T113000Z
+SEQUENCE:639780
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830974_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T123000Z
+DTEND:20171204T143000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823288_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T123000Z
+DTEND:20171204T143000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823486_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T123000Z
+DTEND:20171204T143000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823588_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T123000Z
+DTEND:20171204T143000Z
+SEQUENCE:639781
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830977_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T143000Z
+DTEND:20171204T163000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823177_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T143000Z
+DTEND:20171204T163000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823327_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T143000Z
+DTEND:20171204T163000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823630_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171204T143000Z
+DTEND:20171204T163000Z
+SEQUENCE:639782
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830980_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T073000Z
+DTEND:20171207T093000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823738_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T073000Z
+DTEND:20171207T093000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823849_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T093000Z
+DTEND:20171207T113000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823759_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T093000Z
+DTEND:20171207T113000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823879_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T113000Z
+DTEND:20171207T123000Z
+SEQUENCE:0
+SUMMARY:EVALUATIEVERGADERING\; E-A35\; Voor: Alle groepen
+DESCRIPTION: ()\; E-A35\; Voor: Alle groepen
+UID:1842314_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T123000Z
+DTEND:20171207T143000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823780_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T123000Z
+DTEND:20171207T143000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823909_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T143000Z
+DTEND:20171207T163000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823807_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171207T143000Z
+DTEND:20171207T163000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823939_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171211T073000Z
+DTEND:20171211T093000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823072_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210031Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171211T073000Z
+DTEND:20171211T093000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823216_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171211T073000Z
+DTEND:20171211T093000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823528_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171211T073000Z
+DTEND:20171211T093000Z
+SEQUENCE:639783
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830992_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171211T093000Z
+DTEND:20171211T113000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823111_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171211T093000Z
+DTEND:20171211T113000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823255_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171211T093000Z
+DTEND:20171211T113000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823561_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171211T093000Z
+DTEND:20171211T113000Z
+SEQUENCE:639784
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830989_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171211T123000Z
+DTEND:20171211T143000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823144_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171211T123000Z
+DTEND:20171211T143000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823291_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171211T123000Z
+DTEND:20171211T143000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823591_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171211T123000Z
+DTEND:20171211T143000Z
+SEQUENCE:639785
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830986_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171211T143000Z
+DTEND:20171211T163000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823180_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171211T143000Z
+DTEND:20171211T163000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823330_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171211T143000Z
+DTEND:20171211T163000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823633_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171211T143000Z
+DTEND:20171211T163000Z
+SEQUENCE:639786
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830983_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171212T073000Z
+DTEND:20171212T093000Z
+SEQUENCE:650015
+SUMMARY:BR/BE\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Bouwrecht / Beroepsethiek (2356)\; De heer DE GENDT Tom\, Prof. d
+ r. DRAYE Anne Mie\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+UID:1823663_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171212T093000Z
+DTEND:20171212T113000Z
+SEQUENCE:0
+SUMMARY:BR/BE\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Bouwrecht / Beroepsethiek (2356)\; De heer DE GENDT Tom\, Prof. d
+ r. DRAYE Anne Mie\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+UID:1823666_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171214T073000Z
+DTEND:20171214T093000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823741_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171214T073000Z
+DTEND:20171214T093000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823852_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171214T093000Z
+DTEND:20171214T113000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823762_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171214T093000Z
+DTEND:20171214T113000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823882_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171214T123000Z
+DTEND:20171214T143000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823783_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171214T123000Z
+DTEND:20171214T143000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823912_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171214T143000Z
+DTEND:20171214T163000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823810_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171214T143000Z
+DTEND:20171214T163000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823942_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T073000Z
+DTEND:20171218T093000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823075_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T073000Z
+DTEND:20171218T093000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823219_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T073000Z
+DTEND:20171218T093000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823531_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T073000Z
+DTEND:20171218T093000Z
+SEQUENCE:639787
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830995_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T093000Z
+DTEND:20171218T113000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823114_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T093000Z
+DTEND:20171218T113000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823258_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T093000Z
+DTEND:20171218T113000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823564_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T093000Z
+DTEND:20171218T113000Z
+SEQUENCE:639788
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1830998_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T123000Z
+DTEND:20171218T143000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823147_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T123000Z
+DTEND:20171218T143000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823294_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T123000Z
+DTEND:20171218T143000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823594_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T123000Z
+DTEND:20171218T143000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823597_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T123000Z
+DTEND:20171218T143000Z
+SEQUENCE:639789
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1831001_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T143000Z
+DTEND:20171218T163000Z
+SEQUENCE:0
+SUMMARY:SEMBK\; B12 en B13\; (Werkzitting)\; Voor groep: 1
+DESCRIPTION:Seminarie Bouwkundig Concept (2363)\; prof. dr. FIGEYS Wine\, dr.
+ arch. JANSSENS Bart\, dr. ir. KNAPEN Elke\, Prof.dr.ir.arch. VERB
+ EECK Griet\, Arch. WINKELS Peggy\; B12 en B13\; (Werkzitting)\; V
+ oor groep: 1
+UID:1823183_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T143000Z
+DTEND:20171218T163000Z
+SEQUENCE:0
+SUMMARY:SEM S\; B10 en B11\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Seminarie Stedenbouw (2364)\; Prof.dr.ir.arch. DEVISCH Oswald\, P
+ rof. dr. HUYBRECHTS Liesbeth\, Mevrouw PALMIERI Teresa\; B10 en B
+ 11\; (Werkzitting)\; Voor groep: 2
+UID:1823333_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T143000Z
+DTEND:20171218T163000Z
+SEQUENCE:0
+SUMMARY:SEM B\; A06\; (Werkzitting)\; Voor groep: 3
+DESCRIPTION:Seminarie Beelding (2362)\; Arch. BERNAKIEWICZ Iwert\, ir.arch. D
+ ELBROEK Jos\; A06\; (Werkzitting)\; Voor groep: 3
+UID:1823636_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171218T143000Z
+DTEND:20171218T163000Z
+SEQUENCE:639790
+SUMMARY:SEMMC\; (Werkzitting)\; Design for more (E-B09)\; Genius Loci (B1
+ )\; Tactics (A1)\; Passage /Montage (B6)\; \; Voor groep: 4
+UID:1831004_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171219T080000Z
+DTEND:20171219T100000Z
+SEQUENCE:650709
+SUMMARY:BR/BE\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+DESCRIPTION:Bouwrecht / Beroepsethiek (2356)\; De heer DE GENDT Tom\, Prof. d
+ r. DRAYE Anne Mie\; E-C2\; (Hoorcollege)\; Voor: Alle groepen
+UID:1823669_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171221T073000Z
+DTEND:20171221T093000Z
+SEQUENCE:635570
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823744_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171221T073000Z
+DTEND:20171221T093000Z
+SEQUENCE:635571
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823855_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210032Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171221T093000Z
+DTEND:20171221T113000Z
+SEQUENCE:635572
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823765_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171221T093000Z
+DTEND:20171221T113000Z
+SEQUENCE:635573
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823885_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171221T123000Z
+DTEND:20171221T143000Z
+SEQUENCE:635574
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823786_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171221T123000Z
+DTEND:20171221T143000Z
+SEQUENCE:635575
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823915_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171221T143000Z
+DTEND:20171221T163000Z
+SEQUENCE:635576
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1823813_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171221T143000Z
+DTEND:20171221T163000Z
+SEQUENCE:635577
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1823945_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180111T073000Z
+DTEND:20180111T093000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1830407_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180111T073000Z
+DTEND:20180111T093000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1830410_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180111T093000Z
+DTEND:20180111T113000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1830413_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180111T093000Z
+DTEND:20180111T113000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1830416_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180111T123000Z
+DTEND:20180111T143000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1830419_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180111T123000Z
+DTEND:20180111T143000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1830422_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180111T143000Z
+DTEND:20180111T163000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1830425_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180111T143000Z
+DTEND:20180111T163000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemplatie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, arch. JAN
+ SSEN Jo\, Prof. dr. DE RIDDER Roel\; E-B01\; Contemplatie\; (Werk
+ zitting)\; Voor groep: 2
+UID:1830428_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180213T073000Z
+DTEND:20180213T093000Z
+SEQUENCE:653304
+SUMMARY:CUL 5\; E-B5\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Cultuurwetenschappen 5 (2354)\; Arch. MINTEN Dimitri\; E-B5\; (We
+ rkzitting)\; Voor: Alle groepen
+UID:1868471_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180213T093000Z
+DTEND:20180213T100000Z
+SEQUENCE:0
+SUMMARY:INFOSESSIE\; "Thesis"\; Voor: Alle groepen
+DESCRIPTION: ()\; Voor: Alle groepen
+UID:1903661_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180213T093000Z
+DTEND:20180213T113000Z
+SEQUENCE:0
+SUMMARY:CUL 5\; E-B5\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Cultuurwetenschappen 5 (2354)\; Arch. MINTEN Dimitri\; E-B5\; (We
+ rkzitting)\; Voor: Alle groepen
+UID:1868474_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180213T123000Z
+DTEND:20180213T143000Z
+SEQUENCE:664985
+SUMMARY:CUL 5 - E-C03\; \; Hoorcollege\; Voor: Alle groepen
+DESCRIPTION:CUL 5 - VEKEMANS Tim - E-C03\; \; Hoorcollege\; Voor: Alle groepe
+ n
+UID:1903388_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180215T073000Z
+DTEND:20180215T093000Z
+SEQUENCE:653379
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868636_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180215T093000Z
+DTEND:20180215T113000Z
+SEQUENCE:653380
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868648_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180215T123000Z
+DTEND:20180215T143000Z
+SEQUENCE:653381
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868651_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180215T143000Z
+DTEND:20180215T163000Z
+SEQUENCE:653382
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868654_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180216T073000Z
+DTEND:20180216T093000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1896002_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180216T093000Z
+DTEND:20180216T113000Z
+SEQUENCE:661227
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868639_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180216T123000Z
+DTEND:20180216T143000Z
+SEQUENCE:655520
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868642_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180216T143000Z
+DTEND:20180216T163000Z
+SEQUENCE:655521
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868645_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180220T073000Z
+DTEND:20180220T093000Z
+SEQUENCE:0
+SUMMARY:CUL 5\; E-B5\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Cultuurwetenschappen 5 (2354)\; Arch. MINTEN Dimitri\; E-B5\; (We
+ rkzitting)\; Voor: Alle groepen
+UID:1868477_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180220T093000Z
+DTEND:20180220T113000Z
+SEQUENCE:0
+SUMMARY:CUL 5\; E-B5\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Cultuurwetenschappen 5 (2354)\; Arch. MINTEN Dimitri\; E-B5\; (We
+ rkzitting)\; Voor: Alle groepen
+UID:1868495_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180222T073000Z
+DTEND:20180222T093000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868831_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180222T093000Z
+DTEND:20180222T113000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868867_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180222T123000Z
+DTEND:20180222T143000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868903_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180222T143000Z
+DTEND:20180222T163000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868939_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180223T073000Z
+DTEND:20180223T093000Z
+SEQUENCE:655522
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868663_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180223T093000Z
+DTEND:20180223T113000Z
+SEQUENCE:655523
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868711_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180223T123000Z
+DTEND:20180223T143000Z
+SEQUENCE:655524
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868753_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180223T143000Z
+DTEND:20180223T163000Z
+SEQUENCE:655525
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868795_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180227T073000Z
+DTEND:20180227T093000Z
+SEQUENCE:0
+SUMMARY:CUL 5\; E-B5\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Cultuurwetenschappen 5 (2354)\; Arch. MINTEN Dimitri\; E-B5\; (We
+ rkzitting)\; Voor: Alle groepen
+UID:1868480_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180227T093000Z
+DTEND:20180227T113000Z
+SEQUENCE:0
+SUMMARY:CUL 5\; E-B5\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Cultuurwetenschappen 5 (2354)\; Arch. MINTEN Dimitri\; E-B5\; (We
+ rkzitting)\; Voor: Alle groepen
+UID:1868498_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180227T123000Z
+DTEND:20180227T143000Z
+SEQUENCE:667230
+SUMMARY:CUL 5 - E-B4\; \; Hoorcollege\; Voor: Alle groepen
+DESCRIPTION:CUL 5 - VEKEMANS Tim - E-B4\; \; Hoorcollege\; Voor: Alle groepen
+UID:1906022_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180301T073000Z
+DTEND:20180301T093000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868834_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180301T073000Z
+DTEND:20180301T093000Z
+SEQUENCE:653402
+SUMMARY:BWK\; Bij ontwerpen 5\; (Werkzitting)\; Voor groep: 5
+DESCRIPTION:Bouwkunde (2355)\; dr. ir. ing. KEERSMAEKERS Robrecht\; Bij ontwe
+ rpen 5\; (Werkzitting)\; Voor groep: 5
+UID:1868978_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180301T093000Z
+DTEND:20180301T113000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868870_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180301T093000Z
+DTEND:20180301T113000Z
+SEQUENCE:0
+SUMMARY:BWK\; Bij ontwerpen 5\; (Werkzitting)\; Voor groep: 5
+DESCRIPTION:Bouwkunde (2355)\; dr. ir. ing. KEERSMAEKERS Robrecht\; Bij ontwe
+ rpen 5\; (Werkzitting)\; Voor groep: 5
+UID:1868990_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180301T123000Z
+DTEND:20180301T143000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868906_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180301T123000Z
+DTEND:20180301T143000Z
+SEQUENCE:0
+SUMMARY:BWK\; Bij ontwerpen 5\; (Werkzitting)\; Voor groep: 5
+DESCRIPTION:Bouwkunde (2355)\; dr. ir. ing. KEERSMAEKERS Robrecht\; Bij ontwe
+ rpen 5\; (Werkzitting)\; Voor groep: 5
+UID:1868993_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180301T143000Z
+DTEND:20180301T163000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868942_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210033Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180301T143000Z
+DTEND:20180301T163000Z
+SEQUENCE:0
+SUMMARY:BWK\; Bij ontwerpen 5\; (Werkzitting)\; Voor groep: 5
+DESCRIPTION:Bouwkunde (2355)\; dr. ir. ing. KEERSMAEKERS Robrecht\; Bij ontwe
+ rpen 5\; (Werkzitting)\; Voor groep: 5
+UID:1868996_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180302T073000Z
+DTEND:20180302T093000Z
+SEQUENCE:661225
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868633_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180302T073000Z
+DTEND:20180302T093000Z
+SEQUENCE:661205
+SUMMARY:BWK\; E-B4\; (Hoorcollege)\; Voor groepen: 2\, 3\, 4\, 5
+DESCRIPTION:Bouwkunde (2355)\; Prof. ir. OP T VELD Peter\; E-B4\; (Hoorcolleg
+ e)\; Voor groepen: 2\, 3\, 4\, 5
+UID:1869026_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180302T093000Z
+DTEND:20180302T113000Z
+SEQUENCE:0
+SUMMARY:BWK\; E-B4\; (Hoorcollege)\; Voor groepen: 2\, 3\, 4\, 5
+DESCRIPTION:Bouwkunde (2355)\; Prof. ir. OP T VELD Peter\; E-B4\; (Hoorcolleg
+ e)\; Voor groepen: 2\, 3\, 4\, 5
+UID:1895954_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180302T093000Z
+DTEND:20180302T113000Z
+SEQUENCE:661228
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1895999_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180302T123000Z
+DTEND:20180302T143000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1896005_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180302T143000Z
+DTEND:20180302T163000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1896008_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180306T073000Z
+DTEND:20180306T093000Z
+SEQUENCE:0
+SUMMARY:CUL 5\; E-B5\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Cultuurwetenschappen 5 (2354)\; Arch. MINTEN Dimitri\; E-B5\; (We
+ rkzitting)\; Voor: Alle groepen
+UID:1868483_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180306T093000Z
+DTEND:20180306T113000Z
+SEQUENCE:0
+SUMMARY:CUL 5\; E-B5\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Cultuurwetenschappen 5 (2354)\; Arch. MINTEN Dimitri\; E-B5\; (We
+ rkzitting)\; Voor: Alle groepen
+UID:1868501_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180306T123000Z
+DTEND:20180306T143000Z
+SEQUENCE:665013
+SUMMARY:CUL 5 - E-C2\; \; Hoorcollege\; Voor: Alle groepen
+DESCRIPTION:CUL 5 - VEKEMANS Tim - E-C2\; \; Hoorcollege\; Voor: Alle groepen
+UID:1868525_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180308T073000Z
+DTEND:20180308T093000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868837_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180308T093000Z
+DTEND:20180308T113000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868873_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180308T123000Z
+DTEND:20180308T143000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868909_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180308T143000Z
+DTEND:20180308T163000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868945_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180309T073000Z
+DTEND:20180309T093000Z
+SEQUENCE:661229
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868672_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180309T093000Z
+DTEND:20180309T113000Z
+SEQUENCE:655528
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868720_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180309T123000Z
+DTEND:20180309T143000Z
+SEQUENCE:655530
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868759_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180309T143000Z
+DTEND:20180309T163000Z
+SEQUENCE:655531
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868801_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180313T073000Z
+DTEND:20180313T093000Z
+SEQUENCE:0
+SUMMARY:CUL 5\; E-B5\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Cultuurwetenschappen 5 (2354)\; Arch. MINTEN Dimitri\; E-B5\; (We
+ rkzitting)\; Voor: Alle groepen
+UID:1868486_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180313T093000Z
+DTEND:20180313T113000Z
+SEQUENCE:0
+SUMMARY:CUL 5\; E-B5\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Cultuurwetenschappen 5 (2354)\; Arch. MINTEN Dimitri\; E-B5\; (We
+ rkzitting)\; Voor: Alle groepen
+UID:1868504_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180314T173000Z
+DTEND:20180314T190000Z
+SEQUENCE:0
+SUMMARY:WORLD EVENING\; \; 17 tot 21 uur \; \; Campus Diepenbeek \; Voor:
+  Alle groepen
+UID:1835831_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180315T073000Z
+DTEND:20180315T093000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868840_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180315T093000Z
+DTEND:20180315T113000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868876_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180315T123000Z
+DTEND:20180315T143000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868912_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180315T143000Z
+DTEND:20180315T163000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868948_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180316T073000Z
+DTEND:20180316T093000Z
+SEQUENCE:661207
+SUMMARY:BWK\; E-B4\; (Hoorcollege)\; Voor groepen: 2\, 3\, 4\, 5
+DESCRIPTION:Bouwkunde (2355)\; Prof. ir. OP T VELD Peter\; E-B4\; (Hoorcolleg
+ e)\; Voor groepen: 2\, 3\, 4\, 5
+UID:1869041_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180316T073000Z
+DTEND:20180316T093000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1896011_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180316T093000Z
+DTEND:20180316T113000Z
+SEQUENCE:0
+SUMMARY:BWK\; E-B4\; (Hoorcollege)\; Voor groepen: 2\, 3\, 4\, 5
+DESCRIPTION:Bouwkunde (2355)\; Prof. ir. OP T VELD Peter\; E-B4\; (Hoorcolleg
+ e)\; Voor groepen: 2\, 3\, 4\, 5
+UID:1895963_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180316T093000Z
+DTEND:20180316T113000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1896014_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180316T123000Z
+DTEND:20180316T143000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1896017_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180316T143000Z
+DTEND:20180316T163000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1896020_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180320T073000Z
+DTEND:20180320T093000Z
+SEQUENCE:0
+SUMMARY:CUL 5\; E-B5\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Cultuurwetenschappen 5 (2354)\; Arch. MINTEN Dimitri\; E-B5\; (We
+ rkzitting)\; Voor: Alle groepen
+UID:1868489_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180320T093000Z
+DTEND:20180320T113000Z
+SEQUENCE:0
+SUMMARY:CUL 5\; E-B5\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Cultuurwetenschappen 5 (2354)\; Arch. MINTEN Dimitri\; E-B5\; (We
+ rkzitting)\; Voor: Alle groepen
+UID:1868507_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180322T073000Z
+DTEND:20180322T093000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868843_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180322T093000Z
+DTEND:20180322T113000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868879_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180322T123000Z
+DTEND:20180322T143000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868915_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180322T143000Z
+DTEND:20180322T163000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868951_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180323T073000Z
+DTEND:20180323T093000Z
+SEQUENCE:661230
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868678_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180323T093000Z
+DTEND:20180323T113000Z
+SEQUENCE:655533
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868726_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180323T123000Z
+DTEND:20180323T143000Z
+SEQUENCE:655534
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868765_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180323T123000Z
+DTEND:20180323T143000Z
+SEQUENCE:667881
+SUMMARY:BWK\; E-B4\; (Hoorcollege)\; Voor groepen: 2\, 3\, 4\, 5
+DESCRIPTION:Bouwkunde (2355)\; Prof. ir. OP T VELD Peter\, dr. ir. ing. KEERS
+ MAEKERS Robrecht\; E-B4\; (Hoorcollege)\; Voor groepen: 2\, 3\, 4
+ \, 5
+UID:1907495_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180323T143000Z
+DTEND:20180323T163000Z
+SEQUENCE:655535
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868807_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180327T063000Z
+DTEND:20180327T083000Z
+SEQUENCE:0
+SUMMARY:CUL 5\; E-B5\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Cultuurwetenschappen 5 (2354)\; Arch. MINTEN Dimitri\; E-B5\; (We
+ rkzitting)\; Voor: Alle groepen
+UID:1868492_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180327T083000Z
+DTEND:20180327T103000Z
+SEQUENCE:0
+SUMMARY:CUL 5\; E-B5\; (Werkzitting)\; Voor: Alle groepen
+DESCRIPTION:Cultuurwetenschappen 5 (2354)\; Arch. MINTEN Dimitri\; E-B5\; (We
+ rkzitting)\; Voor: Alle groepen
+UID:1868510_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180327T113000Z
+DTEND:20180327T133000Z
+SEQUENCE:0
+SUMMARY:CUL 5 - E-B4\; \; Hoorcollege\; Voor: Alle groepen
+DESCRIPTION:CUL 5 - VEKEMANS Tim - E-B4\; \; Hoorcollege\; Voor: Alle groepen
+UID:1906031_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180329T063000Z
+DTEND:20180329T083000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868846_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180329T083000Z
+DTEND:20180329T103000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868882_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180329T113000Z
+DTEND:20180329T133000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868918_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210034Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180329T133000Z
+DTEND:20180329T153000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868954_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180330T063000Z
+DTEND:20180330T083000Z
+SEQUENCE:667880
+SUMMARY:BWK\; E-B4\; (Hoorcollege)\; Voor groepen: 2\, 3\, 4\, 5
+DESCRIPTION:Bouwkunde (2355)\; Prof. ir. OP T VELD Peter\; E-B4\; (Hoorcolleg
+ e)\; Voor groepen: 2\, 3\, 4\, 5
+UID:1869044_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180330T063000Z
+DTEND:20180330T083000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1896023_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180330T083000Z
+DTEND:20180330T103000Z
+SEQUENCE:667878
+SUMMARY:BWK\; E-B4\; (Hoorcollege)\; Voor groepen: 2\, 3\, 4\, 5
+DESCRIPTION:Bouwkunde (2355)\; Prof. ir. OP T VELD Peter\; E-B4\; (Hoorcolleg
+ e)\; Voor groepen: 2\, 3\, 4\, 5
+UID:1895975_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180330T083000Z
+DTEND:20180330T103000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1896026_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180330T113000Z
+DTEND:20180330T133000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1896035_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180330T133000Z
+DTEND:20180330T153000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1896038_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180419T063000Z
+DTEND:20180419T083000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868849_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180419T083000Z
+DTEND:20180419T103000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868885_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180419T113000Z
+DTEND:20180419T133000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868921_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180419T133000Z
+DTEND:20180419T153000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868957_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180420T063000Z
+DTEND:20180420T083000Z
+SEQUENCE:661233
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868684_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180420T083000Z
+DTEND:20180420T103000Z
+SEQUENCE:655537
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868732_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180420T113000Z
+DTEND:20180420T133000Z
+SEQUENCE:655538
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868771_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180420T133000Z
+DTEND:20180420T153000Z
+SEQUENCE:655539
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868813_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180426T063000Z
+DTEND:20180426T083000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868852_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180426T083000Z
+DTEND:20180426T103000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868888_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180426T113000Z
+DTEND:20180426T133000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868924_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180426T133000Z
+DTEND:20180426T153000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868960_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180427T063000Z
+DTEND:20180427T083000Z
+SEQUENCE:661219
+SUMMARY:BWK\; E-B4\; (Hoorcollege)\; Voor groepen: 2\, 3\, 4\, 5
+DESCRIPTION:Bouwkunde (2355)\; Prof. ir. OP T VELD Peter\; E-B4\; (Hoorcolleg
+ e)\; Voor groepen: 2\, 3\, 4\, 5
+UID:1869047_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180427T063000Z
+DTEND:20180427T083000Z
+SEQUENCE:661234
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1896041_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180427T083000Z
+DTEND:20180427T103000Z
+SEQUENCE:0
+SUMMARY:BWK\; E-B4\; (Hoorcollege)\; Voor groepen: 2\, 3\, 4\, 5
+DESCRIPTION:Bouwkunde (2355)\; Prof. ir. OP T VELD Peter\; E-B4\; (Hoorcolleg
+ e)\; Voor groepen: 2\, 3\, 4\, 5
+UID:1895984_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180427T083000Z
+DTEND:20180427T103000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1896044_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180427T113000Z
+DTEND:20180427T133000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1896047_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180427T133000Z
+DTEND:20180427T153000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1896077_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180502T063000Z
+DTEND:20180502T153000Z
+SEQUENCE:0
+SUMMARY:CUL 4\; UITSTAP\; Voor: Alle groepen
+DESCRIPTION:Cultuurwetenschappen 4 (2346)\; Arch. VEKEMANS Tim\, Arch. MINTEN
+  Dimitri\; UITSTAP\; Voor: Alle groepen
+UID:1868540_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180503T063000Z
+DTEND:20180503T083000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868855_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180503T063000Z
+DTEND:20180503T083000Z
+SEQUENCE:653403
+SUMMARY:BWK\; Bij ontwerpen 5\; (Werkzitting)\; Voor groep: 5
+DESCRIPTION:Bouwkunde (2355)\; dr. ir. ing. KEERSMAEKERS Robrecht\; Bij ontwe
+ rpen 5\; (Werkzitting)\; Voor groep: 5
+UID:1868981_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180503T083000Z
+DTEND:20180503T103000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868891_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180503T083000Z
+DTEND:20180503T103000Z
+SEQUENCE:0
+SUMMARY:BWK\; Bij ontwerpen 5\; (Werkzitting)\; Voor groep: 5
+DESCRIPTION:Bouwkunde (2355)\; dr. ir. ing. KEERSMAEKERS Robrecht\; Bij ontwe
+ rpen 5\; (Werkzitting)\; Voor groep: 5
+UID:1868999_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180503T113000Z
+DTEND:20180503T133000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868927_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180503T113000Z
+DTEND:20180503T133000Z
+SEQUENCE:0
+SUMMARY:BWK\; Bij ontwerpen 5\; (Werkzitting)\; Voor groep: 5
+DESCRIPTION:Bouwkunde (2355)\; dr. ir. ing. KEERSMAEKERS Robrecht\; Bij ontwe
+ rpen 5\; (Werkzitting)\; Voor groep: 5
+UID:1869002_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180503T133000Z
+DTEND:20180503T153000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868963_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180503T133000Z
+DTEND:20180503T153000Z
+SEQUENCE:0
+SUMMARY:BWK\; Bij ontwerpen 5\; (Werkzitting)\; Voor groep: 5
+DESCRIPTION:Bouwkunde (2355)\; dr. ir. ing. KEERSMAEKERS Robrecht\; Bij ontwe
+ rpen 5\; (Werkzitting)\; Voor groep: 5
+UID:1869005_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180504T063000Z
+DTEND:20180504T083000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1896080_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180504T083000Z
+DTEND:20180504T103000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1896083_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180504T113000Z
+DTEND:20180504T133000Z
+SEQUENCE:661221
+SUMMARY:BWK\; E-C2\; (Werkzitting)\; Voor groepen: 2\, 3\, 4\, 5
+DESCRIPTION:Bouwkunde (2355)\; Prof. ir. OP T VELD Peter\; E-C2\; (Werkzittin
+ g)\; Voor groepen: 2\, 3\, 4\, 5
+UID:1869053_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180504T113000Z
+DTEND:20180504T133000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1896092_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180504T133000Z
+DTEND:20180504T153000Z
+SEQUENCE:0
+SUMMARY:BWK\; E-C2\; (Werkzitting)\; Voor groepen: 2\, 3\, 4\, 5
+DESCRIPTION:Bouwkunde (2355)\; Prof. ir. OP T VELD Peter\; E-C2\; (Werkzittin
+ g)\; Voor groepen: 2\, 3\, 4\, 5
+UID:1895987_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180504T133000Z
+DTEND:20180504T153000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1896095_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180517T063000Z
+DTEND:20180517T083000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868858_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180517T063000Z
+DTEND:20180517T083000Z
+SEQUENCE:653404
+SUMMARY:BWK\; Bij ontwerpen 5\; (Werkzitting)\; Voor groep: 5
+DESCRIPTION:Bouwkunde (2355)\; dr. ir. ing. KEERSMAEKERS Robrecht\; Bij ontwe
+ rpen 5\; (Werkzitting)\; Voor groep: 5
+UID:1868984_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180517T083000Z
+DTEND:20180517T103000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868894_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180517T083000Z
+DTEND:20180517T103000Z
+SEQUENCE:0
+SUMMARY:BWK\; Bij ontwerpen 5\; (Werkzitting)\; Voor groep: 5
+DESCRIPTION:Bouwkunde (2355)\; dr. ir. ing. KEERSMAEKERS Robrecht\; Bij ontwe
+ rpen 5\; (Werkzitting)\; Voor groep: 5
+UID:1869008_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180517T113000Z
+DTEND:20180517T133000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868930_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180517T113000Z
+DTEND:20180517T133000Z
+SEQUENCE:0
+SUMMARY:BWK\; Bij ontwerpen 5\; (Werkzitting)\; Voor groep: 5
+DESCRIPTION:Bouwkunde (2355)\; dr. ir. ing. KEERSMAEKERS Robrecht\; Bij ontwe
+ rpen 5\; (Werkzitting)\; Voor groep: 5
+UID:1869011_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180517T133000Z
+DTEND:20180517T153000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868966_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210035Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180517T133000Z
+DTEND:20180517T153000Z
+SEQUENCE:0
+SUMMARY:BWK\; Bij ontwerpen 5\; (Werkzitting)\; Voor groep: 5
+DESCRIPTION:Bouwkunde (2355)\; dr. ir. ing. KEERSMAEKERS Robrecht\; Bij ontwe
+ rpen 5\; (Werkzitting)\; Voor groep: 5
+UID:1869014_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210036Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180518T063000Z
+DTEND:20180518T083000Z
+SEQUENCE:661236
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868696_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210036Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180518T083000Z
+DTEND:20180518T103000Z
+SEQUENCE:661237
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868741_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210036Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180518T113000Z
+DTEND:20180518T133000Z
+SEQUENCE:661238
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868780_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210036Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180518T113000Z
+DTEND:20180518T133000Z
+SEQUENCE:661224
+SUMMARY:BWK\; E-C2\; (Werkzitting)\; Voor groepen: 2\, 3\, 4\, 5
+DESCRIPTION:Bouwkunde (2355)\; Prof. ir. OP T VELD Peter\; E-C2\; (Werkzittin
+ g)\; Voor groepen: 2\, 3\, 4\, 5
+UID:1869056_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210036Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180518T133000Z
+DTEND:20180518T153000Z
+SEQUENCE:661239
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868822_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210036Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180518T133000Z
+DTEND:20180518T153000Z
+SEQUENCE:0
+SUMMARY:BWK\; E-C2\; (Werkzitting)\; Voor groepen: 2\, 3\, 4\, 5
+DESCRIPTION:Bouwkunde (2355)\; Prof. ir. OP T VELD Peter\; E-C2\; (Werkzittin
+ g)\; Voor groepen: 2\, 3\, 4\, 5
+UID:1895993_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210036Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180524T063000Z
+DTEND:20180524T083000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868861_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210036Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180524T063000Z
+DTEND:20180524T083000Z
+SEQUENCE:653407
+SUMMARY:BWK\; Bij ontwerpen 5\; (Werkzitting)\; Voor groep: 5
+DESCRIPTION:Bouwkunde (2355)\; Prof. ir. OP T VELD Peter\; Bij ontwerpen 5\; 
+ (Werkzitting)\; Voor groep: 5
+UID:1868987_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210036Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180524T083000Z
+DTEND:20180524T103000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868897_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210036Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180524T083000Z
+DTEND:20180524T103000Z
+SEQUENCE:653408
+SUMMARY:BWK\; Bij ontwerpen 5\; (Werkzitting)\; Voor groep: 5
+DESCRIPTION:Bouwkunde (2355)\; Prof. ir. OP T VELD Peter\; Bij ontwerpen 5\; 
+ (Werkzitting)\; Voor groep: 5
+UID:1869017_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210036Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180524T113000Z
+DTEND:20180524T133000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868933_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210036Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180524T113000Z
+DTEND:20180524T133000Z
+SEQUENCE:653409
+SUMMARY:BWK\; Bij ontwerpen 5\; (Werkzitting)\; Voor groep: 5
+DESCRIPTION:Bouwkunde (2355)\; Prof. ir. OP T VELD Peter\; Bij ontwerpen 5\; 
+ (Werkzitting)\; Voor groep: 5
+UID:1869020_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210036Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180524T133000Z
+DTEND:20180524T153000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868969_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210036Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180524T133000Z
+DTEND:20180524T153000Z
+SEQUENCE:653410
+SUMMARY:BWK\; Bij ontwerpen 5\; (Werkzitting)\; Voor groep: 5
+DESCRIPTION:Bouwkunde (2355)\; Prof. ir. OP T VELD Peter\; Bij ontwerpen 5\; 
+ (Werkzitting)\; Voor groep: 5
+UID:1869023_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210036Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180525T063000Z
+DTEND:20180525T083000Z
+SEQUENCE:661240
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868702_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210036Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180525T083000Z
+DTEND:20180525T103000Z
+SEQUENCE:661241
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868744_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210036Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180525T113000Z
+DTEND:20180525T133000Z
+SEQUENCE:661242
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868783_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210036Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180525T133000Z
+DTEND:20180525T153000Z
+SEQUENCE:661243
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868825_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210036Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180531T063000Z
+DTEND:20180531T083000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868864_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210036Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180531T083000Z
+DTEND:20180531T103000Z
+SEQUENCE:0
+SUMMARY:MAS P\; E-B01\; Contemp-latie\; (Werkzitting)\; Voor groep: 2
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. CLEUREN Guy\, Prof. dr.
+  DE RIDDER Roel\, arch. JANSSEN Jo\; E-B01\; Contemp-latie\; (Wer
+ kzitting)\; Voor groep: 2
+UID:1868900_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210036Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180601T063000Z
+DTEND:20180601T083000Z
+SEQUENCE:661245
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868705_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210036Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180601T083000Z
+DTEND:20180601T103000Z
+SEQUENCE:661246
+SUMMARY:MAS P\; E-B12\,E-B13\; Next Economies\; (Werkzitting)\; Voor groe
+ p: 1
+DESCRIPTION:Masterproef / Project (2366)\; Prof.arch. BERBEN Jo\, Prof.arch. 
+ SEGANTINI Maria\, Arch. WINKELS Peggy\; E-B12\,E-B13\; Next Econo
+ mies\; (Werkzitting)\; Voor groep: 1
+UID:1868747_iCalRoosters@uhasselt.be
+DTSTAMP:20180303T210036Z
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

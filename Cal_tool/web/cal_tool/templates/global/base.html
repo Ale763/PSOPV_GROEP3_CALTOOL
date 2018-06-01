@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <title>template</title>
+    {% load static %}
+
+    {% block page_specific_scss %}
+        {% include "global/meta_head.html" %}
+    {% endblock page_specific_scss %}
+
+    <title>{% block page_title %}{% endblock %}</title>
+    {% block head %}{% endblock %}
+</head>
+<body>
+
+{% include "global/navbar.html" %}
+
+    <main>
+
+    <div class="container-logo">
+    {% block pluginlogo %}{% endblock %}
+    </div>
+
+
+    <div class="container">
+
+        {% block content %}{% endblock %}
+    </div>
+
+    {% include "global/meta_script.html" %}
+    {% include "global/eventchange.html" %}
+
+    {% block page_specific_scripts %}{% endblock %}
+    {% block import %}{% endblock %}
+
+    </main>
+
+
+
+</body>
+</html>

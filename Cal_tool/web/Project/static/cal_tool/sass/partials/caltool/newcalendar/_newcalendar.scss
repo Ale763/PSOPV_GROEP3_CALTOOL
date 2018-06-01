@@ -1,0 +1,16 @@
+@import "sourceheader";
+@import "sourcebody";
+
+
+ul .dropdown-content .select-dropdown .active
+{
+        position: fixed;
+        top: auto;
+        left: auto;
+        width: inherit;
+}
+
+th {
+        padding: 10px 5px;
+}
+

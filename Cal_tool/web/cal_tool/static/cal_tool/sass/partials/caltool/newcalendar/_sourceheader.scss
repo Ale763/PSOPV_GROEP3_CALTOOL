@@ -1,0 +1,21 @@
+.header-start-icon {
+  text-align: left;
+}
+
+.header-end-icon {
+  text-align: right !important;
+  flex-grow: 1;
+}
+
+.header-title {
+  text-align: left;
+  flex-grow: 1000;
+}
+
+.source-header {
+  display: flex;
+  align-items: stretch;
+  margin: 0 !important;
+  //width: 95%;
+
+}

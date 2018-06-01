@@ -1,0 +1,235 @@
+@import "partials/include";
+
+.fixed-myshit
+{
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.MyForm
+{
+    /*border: solid 1px;*/
+    border-radius: 3px;
+    /*border-color: #719ABC;*/
+
+    display: block;
+    padding: 1.5rem;
+    margin: 1rem auto;
+    max-width: 600px;
+    min-width: 400px;
+    height: auto;
+    /*margin: 5% auto ;*/
+    /*box-shadow: 1px 2px 14px 1px #888888;*/
+    clear: both;
+    overflow: hidden;
+    background-color: white;
+
+}
+
+// Custom Buttons
+.full_width_btn
+{
+    @extend .btn;
+    width: 100%;
+}
+
+element {
+    overflow: hidden !important;
+}
+
+header, nav
+{
+    background-color: color("red","darken-2");
+}
+
+.nav-wrapper
+{
+    background-color: color("red","darken-2");
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+nav ul a:hover
+{
+    background-color: transparent;
+    color: color("grey", "darken-3");
+
+}
+.active_nav_item
+{
+    text-decoration: none;
+    border-bottom: 3px solid color("grey", "darken-3");
+    //background-color: rgba(0, 0, 0, 0.1);
+    //opacity: 0.9;
+}
+
+.nav-wrapper .brand-logo
+{
+    padding-left: 1rem;
+}
+
+#profilephoto
+{
+    height: 15rem;
+    width: 15rem;
+}
+
+.item_overlay
+{
+    border: 1px solid #CC0;
+    margin: auto;
+    margin-top: 150px;
+    text-align:center;
+    width: 50%;
+}
+
+///* just for jsfiddle */
+//@font-face {
+//  font-family: 'Material Icons';
+//  font-style: normal;
+//  font-weight: 400;
+//  src: local('Material Icons'), local('MaterialIcons-Regular'), url(https://fonts.gstatic.com/s/materialicons/v18/2fcrYFNaTjcS6g4U3t-Y5ZjZjT5FdEJ140U2DJYC3mY.woff2) format('woff2');
+//}
+
+//Carousel - gallery
+.material-icons
+{
+  //font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -moz-font-feature-settings: 'liga';
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.middle-indicator
+{
+   position:absolute;
+   top:50%;
+}
+.middle-indicator-text
+{
+   font-size: 4.2rem;
+}
+
+a.middle-indicator-text
+{
+    color:white !important;
+}
+
+.content-indicator
+{
+    width: 64px;
+    height: 64px;
+    background: none;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+}
+
+.indicators
+{
+  	visibility: visible;
+}
+
+
+// Scroll to top
+.scrollToTop
+{
+	//width:100px;
+	//height:130px;
+	//padding:10px;
+	text-align:center;
+	//background: whiteSmoke;
+	font-weight: bold;
+	color: #444;
+	text-decoration: none;
+	position:fixed;
+	top:80px;
+	right:40px;
+	display:none;
+    background-color: transparent;
+}
+
+.scrollToTop:hover
+{
+	text-decoration:none;
+}
+
+//Footer
+body
+{
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main
+{
+  flex: 1 0 auto;
+}
+
+.footer-contact-info
+{
+  font-size: 1rem;
+}
+
+.inline-icon
+{
+   vertical-align: bottom;
+   font-size: 18px !important;
+}
+
+.modern-blue
+{
+    background-color: $modern_blue;
+}
+
+#logo-icon
+{
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+  font-size: 80px;
+}
+
+.text-with-icons
+{
+  line-height: 1rem;
+  display: inline-flex;
+  vertical-align: middle;
+}
+
+.text-with-icons-item
+{
+  display: inline-block;
+  line-height: 1rem;
+}
+
+.divider
+{
+  @extend .divider;
+}
+
+.parallax img
+{
+    @media #{$small-and-down} { max-width: 200%; }
+    @media #{$medium-and-up} { width: 100%; }
+}
+
+textarea.materialize-textarea
+{
+  padding-left: .5rem;
+  padding-right: .5rem;
+}

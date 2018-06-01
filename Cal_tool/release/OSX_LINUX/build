@@ -1,0 +1,17 @@
+#!/bin/bash
+
+script_name=$0
+script_directory=$(dirname "$0")
+user_directory=$(pwd)
+cd $script_directory
+
+docker-compose down 
+docker-compose build
+docker-compose up -d
+docker-compose exec web python3 manage.py makemigrations
+docker-compose exec web python3 manage.py migrate 
+docker-compose exec web python3 manage.py createsuperuser
+docker-compose exec web sh -c crond
+docker-compose down 
+
+cd $user_directory

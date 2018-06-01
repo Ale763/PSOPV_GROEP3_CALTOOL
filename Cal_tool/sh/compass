@@ -1,0 +1,10 @@
+#!/bin/bash
+
+script_name=$0
+script_directory=$(dirname "$0")
+user_directory=$(pwd)
+cd $script_directory
+
+compass compile ../web/cal_tool/static/cal_tool
+
+cd $user_directory

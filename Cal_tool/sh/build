@@ -1,0 +1,13 @@
+#!/bin/bash
+
+script_name=$0
+script_directory=$(dirname "$0")
+user_directory=$(pwd)
+cd $script_directory
+
+docker-compose down 
+docker-compose build
+sudo rm cal_tool/storage/saved/*
+sudo rm cal_tool/storage/tmp/*
+
+cd $user_directory

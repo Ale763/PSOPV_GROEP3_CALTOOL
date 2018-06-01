@@ -1,0 +1,4 @@
+from cal_tool.singletons.notifications_starter import NOTIFICATION_APP
+from cal_tool.singletons.update_manager_starter import update_manager
+from cal_tool.singletons.settings_manager_starter import settings_manager
+from cal_tool.singletons.registration_starter import registration

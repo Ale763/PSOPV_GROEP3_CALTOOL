@@ -1,0 +1,61 @@
+@import "../../materialize";
+.source-body
+{
+  padding: 0rem 2rem;
+  //padding-bottom: 3rem !important;
+  overflow: visible;
+}
+
+.sourceDelete
+{
+  text-align: right !important;
+  float: right;
+  color: teal;
+  cursor: pointer;
+}
+
+.selector_input
+{
+  @extend .input-field;
+  @extend .col;
+  //@extend .s12;
+  //@extend .m12;
+  //@extend .l12;
+
+  margin-top: 0;
+}
+
+.selector_input label
+{
+  left: 0.75rem;
+}
+
+.File
+{
+  text-align: center !important;
+
+}
+
+.addFilterButton
+{
+  @extend .btn;
+  background-color: teal !important;
+  color: white !important;
+  line-height: 23px !important;
+}
+
+.fileInputButton
+{
+  @extend .btn;
+  width: 10rem !important;
+  background-color: teal !important;
+  color: white !important;
+  top: -0.5rem;
+}
+
+.fileInputButton label
+{
+  color: white;
+  line-height: 1.5rem !important;
+  left: 1.7rem !important;
+}

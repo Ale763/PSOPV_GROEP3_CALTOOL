@@ -1,0 +1,44 @@
+.calendarview.btn-default{
+    background-color: black;
+    color: rgba(255, 255, 255, 0.84);
+    color: rgba(0, 0, 0, 0.84);
+}
+
+.fc-button .fc-button-inner:hover {
+    background-color: red !important;
+    color: #fff !important;
+}
+
+.fc-button.fc-state-active .fc-button-inner {
+    background-color: green !important;
+    color: #fff !important;
+}
+
+.fc-button .fc-button-inner {
+    background-color: #000 !important;
+    color: #fff !important;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: grey;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}

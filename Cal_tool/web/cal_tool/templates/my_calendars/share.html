@@ -1,0 +1,30 @@
+<div>
+    <!-- Modal Structure -->
+    <div id="sharingPopUp" class="modal" style="width: 85%">
+        <div class="modal-content">
+            <h4 id="filterTitle">Share</h4>
+            <div class="row" style="font-size: large;">
+                Deelbare link voor deze kalender:
+                <div id="link" style="font-size: small; margin-top: 10px;">Gelieve even te wachten...</div>
+            </div>
+            <div class="row">
+                <div style="font-size: large;">
+                    Delen via email:
+                    <form>
+                        <input type="hidden" name="cal_id" id="cal_id" value="{{ calendar.cal_id }}">
+                        <div class="input-field col s6" style="margin-top: 20px;">
+                            <input required name="shareEmail" id="shareEmail" type="email" class="validate">
+                            <label for="shareEmail">email</label>
+                        </div>
+                        <div class="buttonContainer">
+                            <input id="SubmitButton" class="button" type="submit" value="Toevoegen" onclick="newSharedCalendar.add_shared_email()">
+                        </div>
+                    </form>
+                </div>
+                <ul id="share_emails" style="height: 200px; overflow: scroll; margin-top: 30px;">
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</div>

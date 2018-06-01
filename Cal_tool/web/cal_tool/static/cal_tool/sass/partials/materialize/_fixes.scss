@@ -1,0 +1,6 @@
+.prefix ~ .select-wrapper, .prefix ~ select
+{
+  margin-left: 3rem !important;
+  width: 92%;
+  width: calc(100% - 3rem) !important;
+}

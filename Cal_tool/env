@@ -1,0 +1,6 @@
+DB_NAME=a
+DB_USER=a
+DB_PASS=a
+DB_SERVICE=postgres
+DB_PORT=5432
+DJANGO_ADMIN_URL=^admin/

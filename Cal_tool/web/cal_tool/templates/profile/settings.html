@@ -1,0 +1,127 @@
+{% extends 'global/template.html' %}
+{% load static %}
+{% block content %}
+
+    <div class="section">
+        <h5>Instellingen</h5>
+        <div class="divider"></div>
+    </div>   {#spacing#}
+
+<div class="center">
+
+        <div id="FormContainer" class="z-depth-1 grey lighten-4 row" style="width: 100%;">
+
+        {% block error %}{% endblock %}
+        {% autoescape on %}
+        <form id="registration_form" action="{% url "submit_profile" %}" class="col s12 m12 l12" method="post">
+            {% csrf_token %}
+
+            <div class='row'><div class='col s12'></div></div> {#spacing#}
+
+            <div class='row'>
+                <div class='input-field col s12 m12 l12'>
+                    <i class="material-icons prefix" id="tooltip_uname">account_circle</i>
+                    <input class='validate tooltipped' type="text" name='uname' id='uname'
+                           data-position="top" data-delay="0"
+                           data-tooltip="Je gebruikersnaam gebruiken we om je uniek te kunnen identificeren. Op deze manier kunnen we zorgen voor een gepersonaliseerde ervaring."
+                            value="{{ username }}"/>
+                    <label for='uname' id="label_uname">Gebruikersnaam<span class="red-text"> *</span></label>
+                </div>
+                <div class='input-field col s12 m12 l12'>
+                    <i class="material-icons prefix" id="tooltip_password1">lock</i>
+                    <input class='validate' type='password' name='password1' id='password1'
+                           minlength="8" maxlength="50"
+                        />
+                    <label for='password1' id="label_password1">Wachtwoord<span class="red-text" > *</span></label>
+                    <i class="material-icons icon-postfix" id="password1_revealer">remove_red_eye</i>
+                </div>
+                <div class='input-field col s12 m12 l12'>
+                    <i class="material-icons prefix" id="tooltip_password2">lock</i>
+                    <input class='validate' type='password' name='password2' id='password2' minlength="8" maxlength="50"/>
+                    <label for='password2' id="label_password2">Herhaal wachtwoord<span class="red-text"> *</span></label>
+                    <i class="material-icons icon-postfix" id="password2_revealer">remove_red_eye</i>
+                </div>
+                <div class='input-field col s12 m12 l12'>
+                    <i class="material-icons prefix" id="tooltip_email">mail</i>
+                    <input class='validate tooltipped' type='email' name='email' id='email'
+                        data-position="top" data-delay="0"
+                        data-tooltip="Je email gebruiken we om je op de hoogte te stellen van de veranderingen in je kalender en de website.
+                                      Zonder je email kunnen we je niet verwittigen als er iets verandert
+                                      en kunnen we je wachtwoord niet resetten als je deze zou kwijtraken.
+                                      Je kan je email later nog altijd vrijblijvend veranderen, verwijderen of toevoegen."
+                            {% if  email == None %}
+                                />
+                            {% else %}
+                                value="{{ email }}"/>
+                            {% endif %}
+                    <label for='email' id="label_email">Email</label>
+                </div>
+                <div class='input-field col s12 m6 l6'>
+                    <i class="material-icons prefix" id="tooltip_email">chat</i>
+                    <input class='validate tooltipped' type='text' name='slackchannel' id='slackchannel'
+                        data-position="top" data-delay="0"
+                        data-tooltip="Je slackchannel gebruiken we samen met je slacktoken om je op de hoogte te stellen van de veranderingen in je kalender en de website.
+                                      Zonder je slackchannel en/of je slacktoken kunnen we je niet via Slack verwittigen als er iets verandert.
+                                      Je kan je slackchannel later nog altijd vrijblijvend veranderen, verwijderen of toevoegen."
+                            {% if  slackchannel == None %}
+                                />
+                            {% else %}
+                                value="{{ slackchannel }}"/>
+                            {% endif %}
+                    <label for='slackchannel' id="label_slackchannel">Slackchannel</label>
+                </div>
+                <div class="input-field col s12 m6 l6">
+                    <i class="material-icons prefix" id="tooltip_email">chat</i>
+                    <input class='validate tooltipped' type='text' name='slacktoken' id='slacktoken'
+                        data-position="top" data-delay="0"
+                        data-tooltip="Je slacktoken gebruiken we samen met je slackchannel om je op de hoogte te stellen van de veranderingen in je kalender en de website.
+                                      Zonder je slacktoken en/of je slackchannel kunnen we je niet via slack verwittigen als er iets verandert.
+                                      Je kan je slacktoken later nog altijd vrijblijvend veranderen, verwijderen of toevoegen."
+                            {% if  slacktoken == None %}
+                                />
+                            {% else %}
+                                value="{{ slacktoken }}"/>
+                            {% endif %}
+                    <label for='slacktoken' id="label_slacktoken">Slacktoken</label>
+                </div>
+            </div>
+            <section class="">
+                * De opgevraagde gegevens zijn nodig om een goede functionaliteit van ICaller te kunnen garanderen
+                  en worden alleen maar gebruikt om de gebruikservaring van ICaller te verbeteren.
+                  De gegevens worden niet gedeeld met derden en worden zo goed mogelijk beveiligd.
+                  Je kan je gegevens ten alle tijden zelf opvragen, bewerken, toevoegen of verwijderen.
+            </section>
+            <br />
+            <div class='row center'>
+                <button id="registration_button" type='submit' name='btn_login' class='col s12 btn btn-large waves-effect teal white-text'>
+                    Save profile
+                </button>
+            </div>
+        {% if not admin %}
+            <div class='row center'>
+                <a href="{% url 'logout' %}" id="delete_button" name='delete_profile' onclick="delete_profile(event);" class='col s12 btn btn-large waves-effect red white-text'>
+                    Delete profile
+                </a>
+            </div>
+        {% endif %}
+        </form>
+        {% endautoescape %}
+        </div>
+</div>
+
+
+{% block page_specific_scripts %}
+    <script src="{% static 'cal_tool/js/profile/profile.js' %}"></script>
+    <script>
+
+
+        $(document).ready(function()
+        {
+            $('select').material_select();
+            $('.tooltipped').tooltip({delay: 50});
+        });
+    </script>
+{% endblock %}
+
+
+{% endblock %}

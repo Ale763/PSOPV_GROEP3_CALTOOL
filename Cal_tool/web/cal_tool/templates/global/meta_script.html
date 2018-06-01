@@ -1,0 +1,46 @@
+{% load static %}
+
+
+<script type="text/javascript" src="{% static 'cal_tool/js/JQuery/jquery-3.3.1.js' %}"></script>
+
+{#<script type="text/javascript" src="{% static 'cal_tool/js/materialize/materialize0.98.0.min.js' %}"></script>#}
+<script type="text/javascript" src="{% static 'cal_tool/js/materialize/0.100.2/bin/materialize.min.js' %}"></script>
+
+
+<script>
+    $(".button-collapse").sideNav();
+
+
+
+    $('.dropdown-button').dropdown({
+      constrain_width: false, // Does not change width of dropdown to that of the activator
+      belowOrigin: false // Displays dropdown below the button,
+    }
+  );
+
+    $(document).ready(function() {
+        //$('select').material_select();
+      });
+
+</script>
+
+<script>
+var csrftoken = "{{ csrf_token }}";
+
+function csrfSafeMethod(method) {
+    // these HTTP methods do not require CSRF protection
+    return (/^(GET|HEAD|OPTIONS|TRACE)$/.test(method));
+}
+
+$.ajaxSetup({
+    beforeSend: function(xhr, settings) {
+        if (!csrfSafeMethod(settings.type) && !this.crossDomain) {
+            xhr.setRequestHeader("X-CSRFToken", csrftoken);
+        }
+    }
+});
+</script>
+
+
+<script type="text/javascript" src="{% static "cal_tool/js/fullcalendar/lib/moment.min.js" %}"></script>
+<script type="text/javascript" src="{% static "cal_tool/js/fullcalendar/fullcalendar.js" %}"></script>

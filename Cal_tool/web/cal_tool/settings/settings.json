@@ -1,0 +1,1 @@
+{"event_change_strategy": "DEFAULT_EVENT_CHANGE", "merge_strategy": "DEFAULT_MERGE", "string_matching_strategy": "MODIFIED_DAMERAU_LEVENSHTEIN", "fuzzy_string_word_treshold": 49, "fuzzy_string_string_treshold": 79, "sort_strategy": "DEFAULT_SORT", "short_term_update_frequency": "15", "long_term_update_hour": "03", "long_term_update_minutes": "00"}

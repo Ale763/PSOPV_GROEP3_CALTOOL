@@ -1,0 +1,12 @@
+{% extends 'global/template.html' %}
+
+{% load static %}
+{% block content %}
+    <form action="{% url "second_page" %}">
+    <input type="submit" value="Lala">
+    </form>
+{% endblock  %}
+
+{% block page_specific_scripts %}
+{% endblock  %}
+

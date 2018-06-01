@@ -1,0 +1,16 @@
+<script>
+    var userID="admin"
+
+    function test(p_calendarID) {
+        // ajax the JSON to the server
+        $.ajax({
+        url: '/ajax/check_updates/',
+        dataType: 'json',
+        data: {
+          'userID': userID,
+          'calendarID': p_calendarID
+        },
+        success: function (result) {}
+        });
+    }
+</script>

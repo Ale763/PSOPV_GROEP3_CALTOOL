@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="a@localhost" uuid="47e8aaad-ef41-4d45-8608-0caeec00c8b7">
+      <database-info product="PostgreSQL" version="10.3 (Debian 10.3-1.pgdg90+1)" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.2.2">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>a</user-name>
+      <introspection-schemas>a:public|postgres:</introspection-schemas>
+    </data-source>
+  </component>
+</project>

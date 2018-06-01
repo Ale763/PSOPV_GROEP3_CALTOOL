@@ -1,0 +1,105 @@
+{% extends 'global/base.html' %}
+{% load static %}
+{% block content %}
+
+
+<div class="center">
+    <h4 class="teal-text">Welkom op ICaller</h4>
+    <h5 class="teal-text">Registratie</h5>
+
+    <div class="section"></div>   {#spacing#}
+        <div id="FormContainer" class="z-depth-1 grey lighten-4 row" style="width: 100%;">
+
+        {% block error %}{% endblock %}
+        {% autoescape on %}
+        <form id="registration_form" action="{% url "submit_registration" %}" class="col s12 m12 l12" method="post">
+            {% csrf_token %}
+
+            <div class='row'><div class='col s12'></div></div> {#spacing#}
+
+            <div class='row'>
+                <div class='input-field col s12 m12 l12'>
+                    <i class="material-icons prefix" id="tooltip_uname">account_circle</i>
+                    <input class='validate tooltipped' type="text" name='uname' id='uname'
+                           required data-position="top" data-delay="0"
+                           data-tooltip="Je gebruikersnaam gebruiken we om je uniek te kunnen identificeren. Op deze manier kunnen we zorgen voor een gepersonaliseerde ervaring."
+                            value="{{ uname }}"/>
+                    <label for='uname' id="label_uname">Gebruikersnaam<span class="red-text"> *</span></label>
+                </div>
+                <div class='input-field col s12 m12 l12'>
+                    <i class="material-icons prefix" id="tooltip_password1">lock</i>
+                    <input class='validate' type='password' name='password1' id='password1'
+                           required minlength="8" maxlength="50"
+                        />
+                    <label for='password1' id="label_password1">Wachtwoord<span class="red-text" > *</span></label>
+                    <i class="material-icons icon-postfix" id="password1_revealer">remove_red_eye</i>
+                </div>
+                <div class='input-field col s12 m12 l12'>
+                    <i class="material-icons prefix" id="tooltip_password2">lock</i>
+                    <input class='validate' type='password' name='password2' id='password2' required minlength="8" maxlength="50"/>
+                    <label for='password2' id="label_password2">Herhaal wachtwoord<span class="red-text"> *</span></label>
+                    <i class="material-icons icon-postfix" id="password2_revealer">remove_red_eye</i>
+                </div>
+                <div class='input-field col s12 m6 l6'>
+                    <i class="material-icons prefix" id="tooltip_email">mail</i>
+                    <input class='validate tooltipped' type='email' name='email' id='email'
+                        data-position="top" data-delay="0"
+                        data-tooltip="Je email gebruiken we om je op de hoogte te stellen van de veranderingen in je kalender en de website.
+                                      Zonder je email kunnen we je niet verwittigen als er iets verandert
+                                      en kunnen we je wachtwoord niet resetten als je deze zou kwijtraken.
+                                      Je kan je email later nog altijd vrijblijvend veranderen, verwijderen of toevoegen."
+                    value="{{ email }}"/>
+                    <label for='email' id="label_email">Email</label>
+                </div>
+                <div id="domain_select_wrapper" class="input-field col s12 m6 l6 tooltipped"
+                    data-position="top" data-delay="0"
+                    data-tooltip="Afhankelijk van het domein dat je kiest en waartoe je recht hebt
+                    (via aansluiting bij een bepaalde organisatie of universiteit), zullen er specifiekere tools
+                    ter beschikking staan om je agenda gemakkelijker te kunnen beheren.">
+                    <i class="material-icons prefix" id="tooltip_domain" style="position: relative; float: left;">domain</i>
+                    <select id="domain" required name="domain" class="">
+                        {% for domain_key, domain_value in domains.items %}
+                            {% if domain == domain_key %}
+                                <option selected value="{{ forloop.counter0 }}">{{ domain_value }}</option>
+                            {% else %}
+                                <option value="{{ forloop.counter0 }}">{{ domain_value }}</option>
+                            {% endif %}
+                        {% endfor %}
+                    </select>
+                    <label for="domain" id="label_domain">Kies domein<span class="red-text"> *</span></label>
+                </div>
+            </div>
+            <section class="">
+                * De opgevraagde gegevens zijn nodig om een goede functionaliteit van ICaller te kunnen garanderen
+                  en worden alleen maar gebruikt om de gebruikservaring van ICaller te verbeteren.
+                  De gegevens worden niet gedeeld met derden en worden zo goed mogelijk beveiligd.
+                  Je kan je gegevens ten alle tijden zelf opvragen, bewerken, toevoegen of verwijderen.
+            </section>
+            <br />
+            <div class='row center'>
+                <button id="registration_button" type='submit' name='btn_login' class='col s12 btn btn-large waves-effect teal white-text'>
+                    Registreren
+                </button>
+            </div>
+        </form>
+        {% endautoescape %}
+        </div>
+    <a class="btn btn-large waves-effect teal white-text" style="padding-top: 1px;" href="{% url "login" %}">Inloggen</a>
+</div>
+
+
+{% block page_specific_scripts %}
+    <script src="{% static 'cal_tool/js/registration/registration.js' %}"></script>
+    <script>
+
+
+        $(document).ready(function()
+        {
+            $('select').material_select();
+            $('.tooltipped').tooltip({delay: 50});
+        });
+    </script>
+{% endblock %}
+
+
+{% endblock %}

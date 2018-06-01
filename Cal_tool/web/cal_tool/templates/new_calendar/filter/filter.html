@@ -1,0 +1,35 @@
+<div style="margin-top:15px" xmlns="http://www.w3.org/1999/html">
+    <div class="row addicons" style="margin-bottom: 5px">
+        <div class="row valign-wrapper"  style="margin-bottom: 10px;">
+            <div class="input-field col s8 m9 l10">
+                <form id="filterForm">
+                    <input maxlength="30" required name="filterName" class="filter_name validate filterName" type="text">
+                    <label for="first_name">Naam filter</label>
+                </form>
+            </div>
+            <div class="buttonContainer col s4 m3 l2 ">
+                <a class="modal-trigger" href="#FilterEditor">
+                    <i class="material-icons iconButton right addAttribute sourceDelete">add</i>
+                </a>
+            </div>
+        </div>
+        <div style="overflow-y: scroll; max-height: 150px; display: none" class="filterAttributesDiv">
+            <table style="background-color: white">
+                <thead>
+                <tr>
+                    <th>Attribuut</th>
+                    <th>mode</th>
+                    <th>niet</th>
+                    <th>waarde</th>
+                </tr>
+                </thead>
+                <tbody class="filterAttributes">
+
+                </tbody>
+            </table>
+        </div>
+        <i class="material-icons iconButton right sourceDelete deleteFilter" onclick="newCalendar.getFilter().deleteFilter()" style="margin-top: 15px !important;">delete</i>
+
+
+    </div>
+</div>

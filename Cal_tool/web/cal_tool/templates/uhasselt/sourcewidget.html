@@ -1,0 +1,13 @@
+{% extends "new_calendar/sourcewidget.html" %}
+
+
+{% block sourcetype %}
+    <option value="source">Richting</option>
+{% endblock sourcetype %}
+
+
+{% block sources %}
+    {% for source in request.session.plugin.getSourcePlugin.getSources %}
+        <option value="{{ source.getPath }};/{{ source.getType }}"> {{ source.getName }} </option>
+    {% endfor %}
+{% endblock sources %}
